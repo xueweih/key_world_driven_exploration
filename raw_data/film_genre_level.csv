@@ -1,0 +1,54 @@
+id,genre,rating
+1,Action,PG-13
+10,Comedy,R
+11,Crime,R
+12,Drama,R
+13,Adventure,G
+14,Action,NOT RATED
+15,Animation,PG
+16,Adventure,PG
+17,Horror,R
+18,Drama,PG
+19,Horror,PG-13
+2,Action,R
+20,Comedy,NOT RATED
+21,Biography,R
+22,Thriller,R
+23,Biography,PG-13
+24,Animation,G
+25,Fantasy,R
+26,Biography,PG
+27,Drama,NOT RATED
+28,Action,UNRATED
+29,Sci-Fi,R
+3,Action,PG
+30,Comedy,UNRATED
+31,Drama,UNRATED
+32,Comedy,Not specified
+33,Mystery,PG-13
+34,Drama,NC-17
+35,Romance,PG-13
+36,Fantasy,PG-13
+37,Horror,NOT RATED
+38,Crime,NOT RATED
+39,Adventure,Not specified
+4,Comedy,PG-13
+40,Biography,NOT RATED
+41,Sci-Fi,PG-13
+42,Mystery,R
+43,Adventure,NOT RATED
+44,Mystery,NOT RATED
+45,Animation,PG-13
+46,Animation,NOT RATED
+47,Crime,UNRATED
+48,Animation,R
+49,Action,Not specified
+5,Drama,PG-13
+50,Drama,Not specified
+51,Comedy,TV-14
+52,Western,R
+53,Biography,UNRATED
+6,Adventure,R
+7,Crime,PG-13
+8,Comedy,PG
+9,Adventure,PG-13

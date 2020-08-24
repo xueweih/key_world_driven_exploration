@@ -1,0 +1,668 @@
+company_id,company,country
+1,42,UK
+2,10th Hole Productions,USA
+3,1821 Pictures,USA
+4,1984 Private Defense Contractors,USA
+5,20th Century Fox,South Korea
+6,21 Laps Entertainment,USA
+7,2929 Productions,USA
+8,3 Arts Entertainment,USA
+9,3311 Productions,USA
+10,40 Acres & A Mule Filmworks,USA
+11,8383 Productions,USA
+12,93 Films,USA
+13,A Bigger Boat,USA
+14,A Hot Dog,USA
+15,A24,USA
+16,Aamir Khan Productions,India
+17,Abbolita Productions,USA
+18,Abraham Productions,USA
+19,Access Motion Pictures,Canada
+20,Ad Hominem Enterprises,USA
+21,AdScott Pictures,USA
+22,Adventure Pictures,UK
+23,Affirm Films,USA
+24,Aggregate Films,USA
+25,Alcon Entertainment,USA
+26,Alcove Entertainment,UK
+27,Aldamisa Entertainment,USA
+28,Alebrije Cine y Video,Mexico
+29,Alfama Films,Canada
+30,Alliance,USA
+31,Alliance Films,USA
+32,Allison Shearmur Productions,USA
+33,Allspark Pictures,USA
+34,Also Known As Pictures,USA
+35,Amasia Entertainment,USA
+36,Amazon Studios,USA
+37,Amber Entertainment,UK
+38,Amblin Entertainment,USA
+39,Amblin Partners,USA
+40,"American Film Company, The",USA
+41,American Zoetrope,USA
+42,Amuse,Japan
+43,An Olive Branch Productions,Canada
+44,Anchor Bay Films,USA
+45,Andrew Lauren Productions (ALP),USA
+46,Angry Films,USA
+47,Animal Kingdom,USA
+48,Anna Biller Productions,USA
+49,Annapurna Pictures,USA
+50,Annapurna Productions,USA
+51,Anonymous Content,USA
+52,Antena 3 Films,USA
+53,Antidote Films (I),USA
+54,Apaches Entertainment,UK
+55,Apartment Two,USA
+56,Apatow Productions,USA
+57,Appian Way,UK
+58,AR Films,Russia
+59,Aramid Entertainment Fund,USA
+60,Arcade Pictures,USA
+61,Archer Street Productions,Switzerland
+62,Archimede,Italy
+63,ArieScope Pictures,USA
+64,Aristar Entertainment,USA
+65,Arka Mediaworks,India
+66,Armory Films,USA
+67,Art Pictures Studio,Russia
+68,ARTE France,Iran
+69,Artists Public Domain,USA
+70,Asghar Farhadi Productions,Iran
+71,ASIG Productions,USA
+72,Asis Productions,South Africa
+73,Asmik Ace Entertainment,Japan
+74,Astute Films,USA
+75,Atlas Entertainment,USA
+76,Atlas Productions,USA
+77,Audax Films,USA
+78,Audiovisual Aval SGR,Spain
+79,Audley Films,UK
+80,Automatik Entertainment,USA
+81,Avi Chai fund,Israel
+82,AXN,Spain
+83,AZ Films,Chile
+84,B24,UK
+85,Babieka,UK
+86,Baby Cow Productions,UK
+87,Baby Way Productions,USA
+88,Bad Cop Bad Cop Film Productions,USA
+89,Bad Robot,USA
+90,Bank Street Films,USA
+91,Bayerischer Rundfunk (BR),Germany
+92,Bazelevs Production,USA
+93,BB Film Productions,USA
+94,BBC Films,UK
+95,BCDF Pictures,USA
+96,Before The Door Pictures,USA
+97,Beijing New Picture Film Co.,China
+98,Beijing Skywheel Entertainment Co.,USA
+99,Belladonna Productions,USA
+100,Bellanova Films,USA
+101,Bellwether Pictures,USA
+102,BenderSpink,USA
+103,Beofilm,Sweden
+104,BFI Film Fund,UK
+105,BH Tilt,USA
+106,Big Beach Films,USA
+107,Big Farm,Ireland
+108,Big Indie Pictures,USA
+109,Big Screen Productions,USA
+110,Big Talk Productions,UK
+111,Bing Feng Bao Entertainment,USA
+112,Bingo Movie Development,China
+113,Black Bear Pictures,USA
+114,Black Entertainment Television (BET),USA
+115,Black Label Media,USA
+116,Blackbird,USA
+117,Bleecker Street Films,USA
+118,Bleiberg Entertainment,USA
+119,Blinding Edge Pictures,USA
+120,Block / Hanson,USA
+121,Block 2 Pictures,Hong Kong
+122,Bloom,USA
+123,Blue Haze Entertainment,Spain
+124,Blue Sky Studios,USA
+125,Bluegrass Films,USA
+126,Blueprint Pictures,UK
+127,Blumhouse Productions,USA
+128,BN Films,Mexico
+129,Bob Industries,USA
+130,Bold Films,USA
+131,Bollywood Hollywood Production,India
+132,Bona Film Group,UK
+133,Borderline Presents,USA
+134,BoulderLight Pictures,USA
+135,Boundscript,India
+136,Bow and Arrow Entertainment,UK
+137,Braveart Films,USA
+138,Bridgit Folman Film Gang,Israel
+139,British Film Institute (BFI),UK
+140,Broad Green Pictures,USA
+141,Broadway Video,USA
+142,Broken Road Productions,USA
+143,Bron Studios,USA
+144,Brothers K Productions,USA
+145,Brownstone Productions (II),USA
+146,BSM Studio,USA
+147,Buffalo Films,Colombia
+148,Bullwinkle Studios,USA
+149,"Bureau, The",UK
+150,Burn Later Productions,USA
+151,BZ Entertainment,USA
+152,Callahan Filmworks,USA
+153,Camberwell / Fly Films,UK
+154,Camfam Studios,USA
+155,Campbell Grobman Films,USA
+156,"Cantillon Company, The",UK
+157,Canyon Creek Films,Germany
+158,Cappa Defina Productions,USA
+159,Captivate Entertainment,UK
+160,Cargo Entertainment,USA
+161,Carousel Productions (II),USA
+162,Carver Films,Australia
+163,Castel Film Romania,Romania
+164,Castle Rock Entertainment,USA
+165,Catfish Productions,USA
+166,Cave Painting Pictures,Canada
+167,Caviar,USA
+168,CBS Films,USA
+169,CD2 Films,USA
+170,Central Motion Pictures,Taiwan
+171,CG Cin ma,France
+172,Changing Film Productions,USA
+173,Chapter 2,France
+174,Chartoff-Winkler Productions,France
+175,Chase Films,USA
+176,Chaz Productions,France
+177,Chernin Entertainment,USA
+178,Cherry Sky Films,USA
+179,China Film Co.,China
+180,China Film Group,USA
+181,Chockstone Pictures,USA
+182,Chromewood Productions,Canada
+183,Cine Bazar,Japan
+184,Cine Mosaic,USA
+185,Cinedigm,Bahamas
+186,Cinelou Films,USA
+187,Cinema Service,South Korea
+188,Cinereach,USA
+189,Cinetel Films,USA
+190,Class 5 Films,USA
+191,Cliffjack Motion Pictures,USA
+192,Clinica Estetico,USA
+193,Cloud Atlas Productions,Germany
+194,Cocktail Film,UK
+195,Code Red,USA
+196,Codeblack Entertainment,USA
+197,"Collective Studios, The",USA
+198,Color Force,USA
+199,Columbia Pictures,USA
+200,Company Films,USA
+201,Constantin Film,Germany
+202,Constantin Film International,Germany
+203,Corner Producciones,Argentina
+204,Corsan,Belgium
+205,Cosmo Films,Ireland
+206,Cottonwood Pictures,USA
+207,Coup d'Etat Films,USA
+208,Covert Media,USA
+209,Crab Apple Films,UK
+210,Cre Film,USA
+211,Cross Creek Pictures,UK
+212,Cube Vision,USA
+213,Curbside Films,India
+214,Danmarks Radio (DR),Denmark
+215,Dark Castle Entertainment,UK
+216,Dark Sky Films,USA
+217,Darko Entertainment,USA
+218,Davis Entertainment,USA
+219,Davis-Films,Canada
+220,Day Twenty- Eight Films,USA
+221,Daybreak Pictures,UK
+222,Demarest Films,UK
+223,Dentsu,Japan
+224,"Deseo, El",Spain
+225,Desert Wolf Productions,UK
+226,Desperate Pictures,USA
+227,Dharma Productions,India
+228,Di Bonaventura Pictures,USA
+229,Diablo Entertainment (II),USA
+230,Dickhouse Productions,USA
+231,Digic Pictures,Japan
+232,Dimension Films,USA
+233,DiNovi Pictures,USA
+234,Disruption Entertainment,USA
+235,DJ Films,UK
+236,DNA Films,UK
+237,Dog Run Pictures,USA
+238,Dogwood Films,USA
+239,Dolphin Entertainment,UK
+240,Double Dare You (DDY),USA
+241,Double Feature Films,USA
+242,Dreams Salon Entertainment Culture,China
+243,DreamWorks,USA
+244,DreamWorks Animation,USA
+245,Duplass Brothers Productions,USA
+246,Ealing Studios,UK
+247,Ealing Studios Entertainment,UK
+248,Eclectic Pictures,USA
+249,Ecosse Films,UK
+250,Edward R. Pressman Film,UK
+251,Egoli Tossell Film,Germany
+252,Egoli Tossell KLK,UK
+253,Electric City Entertainment,USA
+254,Element Pictures,UK
+255,Elle Driver,France
+256,EMA Films,Canada
+257,Emmett/Furla/Oasis Films (EFO Films),USA
+258,Enderby Entertainment,USA
+259,Endgame Entertainment,USA
+260,Enrique Cerezo Producciones Cinematogr ficas S.A.,Italy
+261,Entertainment One,UK
+262,Enticing Entertainment,USA
+263,Envision Media Arts,USA
+264,Eon Productions,UK
+265,erbp,USA
+266,Eros International,India
+267,Escape Artists,Hong Kong
+268,Esperanto Kino,Mexico
+269,EuropaCorp,France
+270,Evenstar Films,USA
+271,Everything Is Everything,USA
+272,Excel Entertainment,India
+273,Exclusive Films,USA
+274,Exclusive Media Group,USA
+275,Fairview Entertainment,UK
+276,FaithStep Films,USA
+277,Faliro House Productions,USA
+278,Fantefilm,Norway
+279,Fear of God Films,Australia
+280,Fewlas Entertainment,USA
+281,Fickle Fish Films,UK
+282,Fid lit  Films,France
+283,Film 44,USA
+284,Film Science,USA
+285,Film4,UK
+286,Filmax,Spain
+287,Filmax Entertainment,Spain
+288,Filmbox,USA
+289,FilmDistrict,USA
+290,Filmkameratene A/S,Norway
+291,FilmNation Entertainment,USA
+292,Flashlight Films,USA
+293,Focus Features,USA
+294,Follow Through Productions,USA
+295,Foresight Unlimited,USA
+296,Forest Whitaker's Significant Productions,USA
+297,FortyFour Studios,USA
+298,Forward Pass,USA
+299,Four Seasons Partnership,USA
+300,Fox 2000 Pictures,USA
+301,Fox Searchlight Pictures,USA
+302,Franklin Street,USA
+303,Freedom Media,USA
+304,Frenesy Film Company,Italy
+305,Fuego Films,Panama
+306,G4 Productions,USA
+307,Gail Katz Productions,USA
+308,Gamechanger Films,USA
+309,Gary Sanchez Productions,USA
+310,Gato Negro Films,USA
+311,Gaumont,USA
+312,Genre Films,USA
+313,George Films,UK
+314,Ghost House Pictures,USA
+315,Ghoulardi Film Company,USA
+316,Gilbert Films,USA
+317,GK Films,USA
+318,Glass Eye Pix,USA
+319,Globo Filmes,Brazil
+320,Gloria Sanchez Productions,USA
+321,GMT Productions,France
+322,GNK Productions,USA
+323,Gold Circle Films,USA
+324,Goldcrest Pictures,USA
+325,Good Folk Films,USA
+326,Good Universe,USA
+327,Gordon Bijelonic / Datari Turner Films,USA
+328,Gotham Group,USA
+329,Gracie Films,USA
+330,Gramercy Pictures (I),Canada
+331,Gravier Productions,USA
+332,Green Hat Films,USA
+333,Groundswell Productions,USA
+334,Gulfstream Pictures,USA
+335,H Is 4 Productions,Ireland
+336,H2F Entertainment,USA
+337,H2O Motion Pictures,Canada
+338,HanWay Films,USA
+339,Haos Film,Greece
+340,Hardstyle,USA
+341,Harmonius Claptrap,USA
+342,"Harvey Boys, The",USA
+343,Head Gear Films,Australia
+344,Headline Pictures,UK
+345,Henan Film & TV Production Group Henan Film Studio,Hong Kong
+346,Hermetof Pictures,UK
+347,Hero Entertainment,USA
+348,Herrick Entertainment,USA
+349,Heyday Films,UK
+350,Hidden Empire Film Group,USA
+351,Hoody Boy Productions,USA
+352,Hopscotch Features,USA
+353,Hughes House Film,Australia
+354,Hugo Productions,France
+355,Human Stew Factory,USA
+356,Hurwitz Creative,UK
+357,Hyde Park Films,USA
+358,Hydraulx,USA
+359,IAC Films,USA
+360,IFC Productions,USA
+361,Illumination Entertainment,USA
+362,IM Global,USA
+363,Imagine Entertainment,USA
+364,Imprint Entertainment,USA
+365,Incentive Filmed Entertainment,USA
+366,Indeed films,Belgium
+367,Indian Paintbrush,USA
+368,IndieVest Pictures,USA
+369,Indigo Film,Italy
+370,Informant Media,UK
+371,Instinctive Film,Germany
+372,Insurge Pictures,USA
+373,Intrepid Pictures,USA
+374,Iron Horse Entertainment (II),USA
+375,Isle of Man Film,UK
+376,Ixtlan,USA
+377,Joe's Daughter,Canada
+378,Josephson Entertainment,USA
+379,K dansha,Japan
+380,K/O Paper Products,France
+381,K5 International,USA
+382,Keep Your Head,USA
+383,Kick the Machine,Thailand
+384,Killer Films,USA
+385,Komplizen Film,Germany
+386,Kramer & Sigman Films,USA
+387,La Petite Reine,France
+388,Lagniappe Films,Germany
+389,Laika Entertainment,USA
+390,Lakeshore Entertainment,USA
+391,Laokoon Filmgroup,Hungary
+392,"Last Picture Company, The",USA
+393,Lava Bear Films,USA
+394,LD Entertainment,USA
+395,Legendary East,USA
+396,Legendary Entertainment,USA
+397,Les Films du Fleuve,Belgium
+398,Les Films du Lendemain,France
+399,Les Films du Losange,Austria
+400,Les Films S ville,Canada
+401,Les Productions du Tr sor,France
+402,Levantine Films,USA
+403,Lifetime Films,Japan
+404,Lightstream Entertainment,USA
+405,LightWorkers Media,USA
+406,Lions Gate Family Entertainment,USA
+407,Lionsgate,USA
+408,Little Stranger,USA
+409,LStar Capital,USA
+410,Lucamar Productions,USA
+411,Lucasfilm,USA
+412,Lucky Monkey Pictures,USA
+413,Lutzus-Brown,USA
+414,M3 Alliance,USA
+415,Magic Lantern,Spain
+416,Magic Light Pictures,UK
+417,Magic Violet,USA
+418,Magnet Releasing,USA
+419,Magnolia Pictures,France
+420,Mandalay Vision,USA
+421,Mandarin Films,France
+422,Mandate Pictures,USA
+423,Mandeville Films,USA
+424,Marcy Media,USA
+425,Marvel Enterprises,USA
+426,Marvel Entertainment,USA
+427,Marvel Studios,USA
+428,Maven Pictures,USA
+429,Mayhem Pictures,USA
+430,Mediapro,USA
+431,MediaPro Pictures,USA
+432,Mediaset Espa a,Spain
+433,Medusa Film,USA
+434,Memento Films Production,France
+435,Menageatroz,Mexico
+436,Menuet Producties,Belgium
+437,Metanoia Films,Mexico
+438,Metro-Goldwyn-Mayer (MGM),USA
+439,Michael De Luca Productions,USA
+440,Mifilifilms,Canada
+441,Milk & Media,USA
+442,Millennium Films,USA
+443,Miramax,USA
+444,Misty Mountains,USA
+445,MK2 Productions,France
+446,MM Productions,USA
+447,Mockingbird Pictures,UK
+448,Mod Producciones,Spain
+449,Modern Man Films,USA
+450,Moho Film,South Korea
+451,Monsterfoot Productions,USA
+452,Morgan Creek Productions,USA
+453,Motlys,Norway
+454,Muse Productions,USA
+455,NALA Films,USA
+456,New Artists Alliance,USA
+457,New Line Cinema,USA
+458,New Real Films,Canada
+459,New Regency Pictures,USA
+460,Next Entertainment World,South Korea
+461,NICE FLX Pictures,Sweden
+462,Nicholas Sparks Productions,USA
+463,No Trace Camping,USA
+464,Non-Stop Productions,Russia
+465,Nordisk Film,Denmark
+466,Northern Lights Films,USA
+467,Not specified,UK
+468,Occupant Entertainment,UK
+469,OddLot Entertainment,USA
+470,Offspring Entertainment,USA
+471,Olympus Pictures,USA
+472,Omega Entertainment,USA
+473,Omnilab Media,UK
+474,Onyx Films,France
+475,Open Road Films,USA
+476,Open Road Films (II),USA
+477,Opening Night Productions,USA
+478,Opus Film,Poland
+479,Origin Pictures,UK
+480,Overbrook Entertainment,USA
+481,Overnight Films,USA
+482,Overture Films,UK
+483,Paco Cinematografica,Italy
+484,PalmStar Media,USA
+485,Panorama Films,USA
+486,Panorama Studios,India
+487,Paper Street Films,USA
+488,Paradox,Norway
+489,Paragraph Pictures,Canada
+490,Paramount Animation,USA
+491,Paramount Pictures,USA
+492,Paramount Vantage,USA
+493,Paris Film,Canada
+494,Park Pictures,USA
+495,Participant Media,Chile
+496,Parts and Labor,USA
+497,Path ,UK
+498,Path  International,Canada
+499,Path Pictures International,USA
+500,Perfect World Pictures (Beijing),USA
+501,Permut Presentations,USA
+502,Petit Film,France
+503,Piki Films,New Zealand
+504,Pixar Animation Studios,USA
+505,Plan B Entertainment,USA
+506,POP Films,USA
+507,Porchlight Films,Australia
+508,Prana Studios,USA
+509,Prettybird,USA
+510,Prima Linea Productions,France
+511,Prime Focus,India
+512,"Princess Grace Foundation, The",USA
+513,Prospero Pictures,Canada
+514,Prototype,USA
+515,Pt. Merantau Films,Indonesia
+516,Pure Flix Productions,USA
+517,Pyramania,USA
+518,Quad Productions,France
+519,Quat'sous Films,France
+520,Qwerty Films,UK
+521,R.P. Productions,France
+522,RabbitBandini Productions,USA
+523,RADiUS-TWC,USA
+524,Raindog Films,UK
+525,Rajkumar Hirani Films,India
+526,RatPac-Dune Entertainment,USA
+527,Razor Film Produktion GmbH,Saudi Arabia
+528,Realitism Films,France
+529,Recorded Picture Company (RPC),UK
+530,Red Crown Productions,USA
+531,Red Granite Pictures,USA
+532,Redwave Films,UK
+533,Reel FX Creative Studios,USA
+534,Regency Enterprises,USA
+535,Relativity Media,USA
+536,Reprisal Films,Ireland
+537,Rhombus Media,Canada
+538,Rickshaw Productions,USA
+539,River Road Entertainment,USA
+540,Rocklin \ Faust,USA
+541,Rogue,New Zealand
+542,Rogue Pictures,USA
+543,Rohfilm,Germany
+544,Rommel Film,Germany
+545,Rook Films,UK
+546,Roth Films,USA
+547,Route One Entertainment,USA
+548,RT Features,USA
+549,Ruby Films,UK
+550,S Films,UK
+551,"Safran Company, The",Germany
+552,Sailor Bear,USA
+553,Samuel Goldwyn Films,Canada
+554,Savage Film,Belgium
+555,SBS Productions,France
+556,Scott Free Productions,USA
+557,Scott Rudin Productions,USA
+558,Screen Australia,Australia
+559,Screen Gems,USA
+560,Screen NSW,Australia
+561,Secret Handshake Entertainment,USA
+562,Sedic International,Japan
+563,See-Saw Films,UK
+564,Semtex Films,UK
+565,Serendipity Point Films,Italy
+566,Shooting Script Films,UK
+567,Sidney Kimmel Entertainment,USA
+568,Sidus FNH-Benex Cinema Fund 1,South Korea
+569,Siempre Viva Productions,USA
+570,Sierra / Affinity,USA
+571,Sikhya Entertainment,India
+572,Silver Reel,Iceland
+573,Six Entertainment Company,USA
+574,Sixteen Films,UK
+575,Sixty Six Pictures,UK
+576,Skyscraper Films,USA
+577,Slot Machine,France
+578,SModcast Pictures,USA
+579,Snoot Entertainment,USA
+580,SnowPiercer,South Korea
+581,Sobras International Pictures,USA
+582,Soft Tread Enterprises,Australia
+583,Softbank Ventures,South Korea
+584,Sony Pictures Classics,Australia
+585,Sony Pictures Entertainment (SPE),USA
+586,Space Rocket Nation,Denmark
+587,Sparkle Roll Media,China
+588,SpectreVision,USA
+589,Stacey Testro International,USA
+590,Steel Mill Pictures,UK
+591,Stoney Lake Entertainment,USA
+592,Strike Entertainment,France
+593,Studio 37,France
+594,Studio Ghibli,Japan
+595,StudioCanal,France
+596,STX Entertainment,USA
+597,Subzero Film Entertainment,UK
+598,Summit Entertainment,USA
+599,Super Crispy Entertainment,USA
+600,Sycamore Pictures,USA
+601,Temple Hill Entertainment,USA
+602,Terra Incognita Films,Belgium
+603,The Lab of Madness,USA
+604,The Weinstein Company,UK
+605,They Are Going to Kill Us Productions,USA
+606,Thin Man Films,UK
+607,This Is That Productions,USA
+608,Thunder Road Pictures,USA
+609,Timnick Films,UK
+610,Tiny Ponies,USA
+611,Tornasol Films,Spain
+612,Total Recall,USA
+613,Touchstone Pictures,USA
+614,Toy Fight Productions,Canada
+615,Transfilm,France
+616,Translux,UK
+617,Tre V nner Produktion AB,Sweden
+618,Treehouse Pictures,USA
+619,TriStar Pictures,USA
+620,Truth Entertainment (II),USA
+621,Twentieth Century Fox Animation,USA
+622,Twentieth Century Fox Film Corporation,USA
+623,Two Flints,USA
+624,Two Ton Films,USA
+625,"Tyler Perry Company, The",USA
+626,UK Film Council,UK
+627,Ukrainian State Film Agency,Ukraine
+628,Ulrich Seidl Film Produktion GmbH,Austria
+629,Unclaimed Freight Productions,USA
+630,Unified Pictures,USA
+631,Unison Films,New Zealand
+632,Universal Pictures,USA
+633,Universal Pictures International (UPI),UK
+634,Upside Down Films,Canada
+635,Varient,USA
+636,Verdi Productions,USA
+637,Verisimilitude,USA
+638,Vertigo Films,UK
+639,Viacom18 Motion Pictures,India
+640,Videovision Entertainment,UK
+641,Village Roadshow Pictures,USA
+642,Visiona Romantica,USA
+643,Voltage Pictures,USA
+644,Walt Disney Animation Studios,USA
+645,Walt Disney Pictures,USA
+646,Warner Bros.,UK
+647,Warner Bros. Animation,USA
+648,Warner Bros. Digital Distribution,USA
+649,Warner Bros. Pictures,Australia
+650,Warp X,UK
+651,Waverly Films,USA
+652,Wayfare Entertainment,USA
+653,Westerly Films,Ireland
+654,Whenua Films,New Zealand
+655,WhiteFlame Productions,USA
+656,Whitewater Films,USA
+657,Why Not Productions,France
+658,Wildgaze Films,UK
+659,Working Title Films,UK
+660,Worldview Entertainment,USA
+661,Wytw rnia Film w Dokumentalnych i Fabularnych (WFDiF),Poland
+662,X-Filme Creative Pool,UK
+663,XYZ Films,USA
+664,Yellow Bird,Norway
+665,Zentropa Entertainments,Denmark
+666,Zentropa International Norway,Norway
+667,Zentropa Productions,Denmark

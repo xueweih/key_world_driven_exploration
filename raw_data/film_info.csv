@@ -1,0 +1,1499 @@
+film_id,name,company,director,genre_level,runtime,score,votes,star,writer,year
+1,Robin Hood,Universal Pictures,Ridley Scott,1,140,6.7,224548,Russell Crowe,Brian Helgeland,2010
+2,Salt,Columbia Pictures,Phillip Noyce,1,100,6.4,259831,Angelina Jolie,Kurt Wimmer,2010
+3,The Expendables,Millennium Films,Sylvester Stallone,2,103,6.5,288429,Sylvester Stallone,Dave Callaham,2010
+4,The Last Airbender,Paramount Pictures,M. Night Shyamalan,3,103,4.2,127467,Noah Ringer,M. Night Shyamalan,2010
+5,Life as We Know It,Josephson Entertainment,Greg Berlanti,4,100,6.6,103763,Katherine Heigl,Ian Deitchman,2010
+6,Date Night,Twentieth Century Fox Film Corporation,Shawn Levy,4,88,6.3,135458,Steve Carell,Josh Klausner,2010
+7,Burlesque,Screen Gems,Steve Antin,5,119,6.4,65689,Cher,Steve Antin,2010
+8,127 Hours,Path Pictures International,Danny Boyle,6,94,7.6,299503,James Franco,Danny Boyle,2010
+9,Predators,Twentieth Century Fox Film Corporation,Antal,2,107,6.4,182863,Adrien Brody,Alex Litvak,2010
+10,The Next Three Days,Lionsgate,Paul Haggis,7,133,7.4,155358,Russell Crowe,Paul Haggis,2010
+11,The Other Guys,Columbia Pictures,Adam McKay,1,107,6.7,204044,Will Ferrell,Adam McKay,2010
+12,Leap Year,Universal Pictures,Anand Tucker,8,100,6.5,77685,Amy Adams,Deborah Kaplan,2010
+13,The Karate Kid,Columbia Pictures,Harald Zwart,3,140,6.2,131784,Jackie Chan,Christopher Murphey,2010
+14,The Twilight Saga: Eclipse,Summit Entertainment,David Slade,9,124,4.9,195941,Kristen Stewart,Melissa Rosenberg,2010
+15,Four Lions,Film4,Christopher Morris,10,97,7.3,61262,Will Adamsdale,Christopher Morris,2010
+16,All Good Things,Groundswell Productions,Andrew Jarecki,11,101,6.3,45225,Ryan Gosling,Marcus Hinchey,2010
+17,When in Rome,Touchstone Pictures,Mark Steven Johnson,4,91,5.6,53883,Kristen Bell,David Diamond,2010
+18,Winter's Bone,Anonymous Content,Debra Granik,12,100,7.2,118433,Jennifer Lawrence,Debra Granik,2010
+19,Piranha 3D,Dimension Films,Alexandre Aja,10,88,5.5,76489,Elisabeth Shue,Pete Goldfinger,2010
+20,Hot Tub Time Machine,Metro-Goldwyn-Mayer (MGM),Steve Pink,10,101,6.4,145648,John Cusack,Josh Heald,2010
+21,Unstoppable,Twentieth Century Fox Film Corporation,Tony Scott,1,98,6.8,160551,Denzel Washington,Mark Bomback,2010
+22,Faster,CBS Films,George Tillman Jr.,2,98,6.5,85407,Dwayne Johnson,Tony Gayton,2010
+23,Centurion,Path Pictures International,Neil Marshall,2,97,6.4,69188,Michael Fassbender,Neil Marshall,2010
+24,Ramona and Beezus,Fox 2000 Pictures,Elizabeth Allen Rosenbaum,13,100,6.7,14808,Joey King,Laurie Craig,2010
+25,I Saw the Devil,Softbank Ventures,Jee-woon Kim,14,141,7.8,81507,Byung-hun Lee,Jee-woon Kim,2010
+26,Diary of a Wimpy Kid,Color Force,Thor Freudenthal,8,100,6.2,35256,Zachary Gordon,Jackie Filgo,2010
+27,Valentine's Day,New Line Cinema,Garry Marshall,4,125,5.7,100570,Julia Roberts,Katherine Fugate,2010
+28,Edge of Darkness,Warner Bros.,Martin Campbell,11,117,6.6,79774,Mel Gibson,William Monahan,2010
+29,Charlie St. Cloud,Universal Pictures,Burr Steers,5,100,6.5,50872,Zac Efron,Craig Pearce,2010
+30,Let Me In,Overture Films,Matt Reeves,12,116,7.2,99166,Kodi Smit-McPhee,Matt Reeves,2010
+31,Megamind,DreamWorks Animation,Tom McGrath,15,95,7.3,188234,Will Ferrell,Alan Schoolcraft,2010
+32,Sepultado,Audiovisual Aval SGR,Rodrigo Cort s,12,95,7.0,127979,Ryan Reynolds,Chris Sparling,2010
+33,Shrek Forever After,DreamWorks Animation,Mike Mitchell,15,93,6.3,150636,Mike Myers,William Steig,2010
+34,Flipped,Castle Rock Entertainment,Rob Reiner,8,100,7.7,67346,Madeline Carroll,Rob Reiner,2010
+35,The Tourist,GK Films,Florian Henckel von Donnersmarck,1,103,6.0,190376,Johnny Depp,Florian Henckel von Donnersmarck,2010
+36,You Again,Touchstone Pictures,Andy Fickman,8,100,5.8,43588,Kristen Bell,Moe Jelline,2010
+37,The Chronicles of Narnia: The Voyage of the Dawn Treader,Fox 2000 Pictures,Michael Apted,16,113,6.3,116260,Ben Barnes,Christopher Markus,2010
+38,Machete,Overnight Films,Ethan Maniquis,2,105,6.6,173229,Danny Trejo,Robert Rodriguez,2010
+39,Monsters,Vertigo Films,Gareth Edwards,12,94,6.4,80354,Scoot McNairy,Gareth Edwards,2010
+40,The Sorcerer's Apprentice,Walt Disney Pictures,Jon Turteltaub,3,109,6.1,133390,Nicolas Cage,Lawrence Konner,2010
+41,Wall Street: Money Never Sleeps,Twentieth Century Fox Film Corporation,Oliver Stone,5,133,6.2,88518,Shia LaBeouf,Allan Loeb,2010
+42,The Man from Nowhere,Cinema Service,Jeong-beom Lee,2,119,7.8,48823,Bin Won,Jeong-beom Lee,2010
+43,Dear John,Screen Gems,Lasse Hallstr m,5,108,6.3,115712,Channing Tatum,Jamie Linden,2010
+44,Eat Pray Love,Columbia Pictures,Ryan Murphy,5,133,5.7,69859,Julia Roberts,Ryan Murphy,2010
+45,Due Date,Warner Bros.,Todd Phillips,10,95,6.6,287021,Robert Downey Jr.,Alan R. Cohen,2010
+46,Secretos Peligrosos,Samuel Goldwyn Films,Larysa Kondracki,2,112,7.2,27033,Rachel Weisz,Larysa Kondracki,2010
+47,The Losers,Warner Bros.,Sylvain White,1,97,6.4,78545,Idris Elba,Peter Berg,2010
+48,The Crazies,Overture Films,Breck Eisner,17,101,6.5,98210,Radha Mitchell,Scott Kosar,2010
+49,It's Kind of a Funny Story,Focus Features,Anna Boden,4,101,7.1,116014,Keir Gilchrist,Anna Boden,2010
+50,Little Fockers,Universal Pictures,Paul Weitz,4,98,5.5,91634,Ben Stiller,John Hamburg,2010
+51,Super,This Is That Productions,James Gunn,10,100,6.8,65689,Rainn Wilson,James Gunn,2010
+52,Get Him to the Greek,Universal Pictures,Nicholas Stoller,10,109,6.4,153864,Jonah Hill,Nicholas Stoller,2010
+53,The Way Back,Exclusive Films,Peter Weir,9,133,7.3,94377,Jim Sturgess,Keith R. Clarke,2010
+54,The Last Song,Touchstone Pictures,Julie Anne Robinson,18,100,5.9,66108,Miley Cyrus,Nicholas Sparks,2010
+55,Black Death,Egoli Tossell Film,Christopher Smith,2,102,6.4,38417,Eddie Redmayne,Dario Poloni,2010
+56,Animal Kingdom,Porchlight Films,David Mich d,11,113,7.3,48461,James Frecheville,David Mich d,2010
+57,Elektra Luxx,Gato Negro Films,Sebastian Gutierrez,10,100,5.1,6197,Joseph Gordon-Levitt,Sebastian Gutierrez,2010
+58,Resident Evil: Afterlife,Constantin Film,Paul W.S. Anderson,2,96,5.9,143707,Milla Jovovich,Paul W.S. Anderson,2010
+59,Biutiful,Menageatroz,Alejandro Gonz lez I  rritu,12,148,7.5,74415,Javier Bardem,Alejandro Gonz lez I  rritu,2010
+60,Devil,Universal Pictures,John Erick Dowdle,19,80,6.3,112284,Chris Messina,Brian Nelson,2010
+61,The Switch,Mandate Pictures,Josh Gordon,4,100,6.1,83839,Jennifer Aniston,Allan Loeb,2010
+62,The Ghost Writer,R.P. Productions,Roman Polanski,5,128,7.2,140059,Ewan McGregor,Robert Harris,2010
+63,The Wolfman,Universal Pictures,Joe Johnston,12,103,5.8,93175,Benicio Del Toro,Andrew Kevin Walker,2010
+64,Last Night,Gaumont,Massy Tadjedin,12,93,6.6,41908,Keira Knightley,Massy Tadjedin,2010
+65,Takers,Screen Gems,John Luessenhop,1,107,6.2,49828,Chris Brown,Peter Allen,2010
+66,Jonah Hex,Warner Bros.,Jimmy Hayward,1,81,4.7,48504,Josh Brolin,Mark Neveldine,2010
+67,Boy,Whenua Films,Taika Waititi,20,87,7.5,11504,James Rolleston,Taika Waititi,2010
+68,The Back-up Plan,CBS Films,Alan Poul,4,104,5.3,43272,Jennifer Lopez,Kate Angelo,2010
+69,The Bounty Hunter,Columbia Pictures,Andy Tennant,1,110,5.5,103868,Jennifer Aniston,Sarah Thorp,2010
+70,The Runaways,River Road Entertainment,Floria Sigismondi,21,106,6.6,41586,Kristen Stewart,Floria Sigismondi,2010
+71,Submarine,The Weinstein Company,Richard Ayoade,10,97,7.3,72965,Craig Roberts,Richard Ayoade,2010
+72,Skyline,Rogue Pictures,Colin Strause,1,97,4.4,78787,Eric Balfour,Joshua Cordes,2010
+73,How Do You Know,Columbia Pictures,James L. Brooks,4,100,5.4,37605,Reese Witherspoon,James L. Brooks,2010
+74,Frozen,A Bigger Boat,Adam Green,22,93,6.2,57244,Shawn Ashmore,Adam Green,2010
+75,Somewhere,Focus Features,Sofia Coppola,10,97,6.3,38036,Stephen Dorff,Sofia Coppola,2010
+76,The Debt,Miramax,John Madden,12,113,6.9,57945,Helen Mirren,Matthew Vaughn,2010
+77,Beginners,Olympus Pictures,Mike Mills,10,105,7.2,78833,Ewan McGregor,Mike Mills,2010
+78,Killers,Lionsgate,Robert Luketic,1,100,5.4,77029,Katherine Heigl,Bob DeRosa,2010
+79,The Way,Filmax Entertainment,Emilio Estevez,9,100,7.4,25187,Martin Sheen,Emilio Estevez,2010
+80,Letters to Juliet,Summit Entertainment,Gary Winick,16,100,6.6,79868,Amanda Seyfried,Jose Rivera,2010
+81,Rabbit Hole,Olympus Pictures,John Cameron Mitchell,5,91,7.0,42926,Nicole Kidman,David Lindsay-Abaire,2010
+82,Trust,Millennium Films,David Schwimmer,11,106,6.9,36805,Clive Owen,Andy Bellin,2010
+83,Trollhunter,Filmkameratene A/S,Andr   vredal,5,103,7.0,58841,Otto Jespersen,Andr   vredal,2010
+84,Par s en la Mira,EuropaCorp,Pierre Morel,2,92,6.5,102224,John Travolta,Adi Hasak,2010
+85,Dinner for Schmucks,Paramount Pictures,Jay Roach,4,114,5.9,84651,Steve Carell,David Guion,2010
+86,Green Zone,Universal Pictures,Paul Greengrass,2,115,6.8,116142,Matt Damon,Brian Helgeland,2010
+87,The Kids Are All Right,Focus Features,Lisa Cholodenko,10,106,7.1,115520,Annette Bening,Lisa Cholodenko,2010
+88,Hereafter,Warner Bros.,Clint Eastwood,5,129,6.5,83345,Matt Damon,Peter Morgan,2010
+89,The Spy Next Door,Relativity Media,Brian Levant,3,94,5.4,33070,Jackie Chan,Jonathan Bernstein,2010
+90,The American,Focus Features,Anton Corbijn,11,105,6.3,82995,George Clooney,Rowan Joffe,2010
+91,Wild Target,Magic Light Pictures,Jonathan Lynn,1,98,6.9,31864,Bill Nighy,Lucinda Coxon,2010
+92,13 Assassins,Sedic International,Takashi Miike,2,141,7.6,54145,K ji Yakusho,Kaneo Ikegami,2010
+93,Legend of the Guardians: The Owls of Ga'Hoole,Warner Bros.,Zack Snyder,15,97,7.0,69624,Jim Sturgess,John Orloff,2010
+94,Fair Game,River Road Entertainment,Doug Liman,23,108,6.8,40837,Naomi Watts,Jez Butterworth,2010
+95,Cop Out,Warner Bros.,Kevin Smith,2,107,5.6,78157,Bruce Willis,Robb Cullen,2010
+96,Step Up 3D,Summit Entertainment,Jon M. Chu,5,107,6.2,50180,Sharni Vinson,Amy Andelson,2010
+97,The Secret World of Arrietty,Studio Ghibli,Hiromasa Yonebayashi,24,94,7.6,59799,Bridgit Mendler,Mary Norton,2010
+98,Death at a Funeral,Screen Gems,Neil LaBute,10,92,5.7,38627,Chris Rock,Dean Craig,2010
+99,Don't Be Afraid of the Dark,Miramax,Troy Nixey,25,99,5.6,42545,Katie Holmes,Guillermo del Toro,2010
+100,My Name Is Khan,Dharma Productions,Karan Johar,9,165,8.0,81130,Shah Rukh Khan,Shibani Bathija,2010
+101,Repo Men,Universal Pictures,Miguel Sapochnik,2,111,6.3,91561,Jude Law,Eric Garcia,2010
+102,Vampires Suck,Regency Enterprises,Jason Friedberg,9,82,3.5,41062,Jenn Proske,Jason Friedberg,2010
+103,Morning Glory,Bad Robot,Roger Michell,4,100,6.5,62536,Rachel McAdams,Aline Brosh McKenna,2010
+104,The Company Men,Not specified,John Wells,12,104,6.8,38636,Ben Affleck,John Wells,2010
+105,I'm Still Here,They Are Going to Kill Us Productions,Casey Affleck,10,108,6.2,17059,Joaquin Phoenix,Casey Affleck,2010
+106,Tooth Fairy,Twentieth Century Fox Film Corporation,Michael Lembeck,8,101,5.0,33336,Dwayne Johnson,Lowell Ganz,2010
+107,Stake Land,Glass Eye Pix,Jim Mickle,12,98,6.5,36801,Connor Paolo,Nick Damici,2010
+108,La versi n de mi vida,Serendipity Point Films,Richard J. Lewis,10,134,7.3,22030,Paul Giamatti,Mordecai Richler,2010
+109,Secretariat,Walt Disney Pictures,Randall Wallace,26,123,7.2,22288,Diane Lane,Mike Rich,2010
+110,Rubber,Realitism Films,Quentin Dupieux,10,82,5.8,28442,Stephen Spinella,Quentin Dupieux,2010
+111,Tamara Drewe,Ruby Films,Stephen Frears,10,107,6.2,18147,Gemma Arterton,Posy Simmonds,2010
+112,You Will Meet a Tall Dark Stranger,Mediapro,Woody Allen,10,100,6.3,39014,Anthony Hopkins,Woody Allen,2010
+113,Ip Man 2,Henan Film & TV Production Group Henan Film Studio,Wilson Yip,2,108,7.6,78917,Donnie Yen,Tai-lee Chan,2010
+114,The Killer Inside Me,Hero Entertainment,Michael Winterbottom,11,109,6.1,30060,Casey Affleck,John Curran,2010
+115,Gulliver's Travels,Twentieth Century Fox Film Corporation,Rob Letterman,16,85,4.9,56336,Jack Black,Joe Stillman,2010
+116,Little White Lies,Les Productions du Tr sor,Guillaume Canet,20,134,7.1,20148,Fran ois Cluzet,Guillaume Canet,2010
+117,MacGruber,Broadway Video,Jorma Taccone,2,90,5.5,37743,Will Forte,Will Forte,2010
+118,Paranormal Activity 2,Paramount Pictures,Tod Williams,17,91,5.7,87197,Katie Featherston,Michael R. Perry,2010
+119,El  ltimo exorcismo,Strike Entertainment,Daniel Stamm,5,87,5.6,43587,Patrick Fabian,Huck Botko,2010
+120,Stone,Millennium Films,John Curran,12,105,5.4,36456,Edward Norton,Angus MacLachlan,2010
+121,Going the Distance,New Line Cinema,Nanette Burstein,10,100,6.3,52508,Drew Barrymore,Geoff LaTulippe,2010
+122,Hesher,"Last Picture Company, The",Spencer Susser,10,106,7.1,46153,Joseph Gordon-Levitt,Spencer Susser,2010
+123,Heartbeats,Mifilifilms,Xavier Dolan,27,101,7.2,21449,Xavier Dolan,Xavier Dolan,2010
+124,Passion Play,Annapurna Productions,Mitch Glazer,12,94,5.0,7540,Mickey Rourke,Mitch Glazer,2010
+125,Easy Money,Tre V nner Produktion AB,Daniel Espinosa,2,124,6.7,14513,Joel Kinnaman,Daniel Espinosa,2010
+126,Dirty Girl,The Weinstein Company,Abe Sylvia,10,90,6.5,9432,Juno Temple,Abe Sylvia,2010
+127,Conviction,Omega Entertainment,Tony Goldwyn,21,107,7.2,37145,Hilary Swank,Pamela Gray,2010
+128,Elite Squad: The Enemy Within,Globo Filmes,Jos  Padilha,28,115,8.1,70700,Wagner Moura,Br ulio Mantovani,2010
+129,London Boulevard,GK Films,William Monahan,11,103,6.2,42460,Colin Farrell,William Monahan,2010
+130,The Conspirator,"American Film Company, The",Robert Redford,7,122,6.9,25030,Robin Wright,James D. Solomon,2010
+131,Waiting for Forever,Catfish Productions,James Keach,4,100,6.0,18609,Rachel Bilson,Steve Adams,2010
+132,The Tempest,Miramax,Julie Taymor,4,110,5.4,6589,Helen Mirren,Julie Taymor,2010
+133,Cyrus,Scott Free Productions,Jay Duplass,10,91,6.3,31320,John C. Reilly,Mark Duplass,2010
+134,Yogi Bear,Warner Bros.,Eric Brevig,15,100,4.6,17533,Dan Aykroyd,J.R. Ventimilia,2010
+135,Country Strong,Screen Gems,Shana Feste,5,117,6.3,15478,Garrett Hedlund,Shana Feste,2010
+136,The Trip,Baby Cow Productions,Michael Winterbottom,20,112,7.0,18884,Steve Coogan,Baby Cow Productions,2010
+137,The Perfect Host,Stacey Testro International,Nick Tomnay,10,100,6.8,21832,David Hyde Pierce,Nick Tomnay,2010
+138,Beyond the Black Rainbow,Chromewood Productions,Panos Cosmatos,29,110,6.0,7662,Eva Bourne,Panos Cosmatos,2010
+139,Burke and Hare,Ealing Studios,John Landis,10,91,6.2,17228,Bill Bailey,Piers Ashworth,2010
+140,Meek's Cutoff,Evenstar Films,Kelly Reichardt,18,104,6.6,9252,Michelle Williams,Jonathan Raymond,2010
+141,Kaboom,Desperate Pictures,Gregg Araki,30,86,5.7,11100,Thomas Dekker,Gregg Araki,2010
+142,In a Better World,Danmarks Radio (DR),Susanne Bier,12,100,7.7,34566,Mikael Persbrandt,Anders Thomas Jensen,2010
+143,Love Ranch,Aramid Entertainment Fund,Taylor Hackford,21,100,5.7,2558,Helen Mirren,Mark Jacobson,2010
+144,Made in Dagenham,Audley Films,Nigel Cole,21,113,7.2,11904,Sally Hawkins,William Ivory,2010
+145,The Romantics,10th Hole Productions,Galt Niederhoffer,4,100,5.1,10547,Katie Holmes,Galt Niederhoffer,2010
+146,Twelve,Gaumont,Joel Schumacher,2,100,5.7,11139,Chace Crawford,Jordan Melamed,2010
+147,The Last Circus,Tornasol Films, lex de la Iglesia,10,107,6.6,11108,Carlos Areces, lex de la Iglesia,2010
+148,Everything Must Go,Temple Hill Entertainment,Dan Rush,10,97,6.4,43290,Will Ferrell,Dan Rush,2010
+149,The Warrior's Way,Rogue,Sngmoo Lee,2,100,6.3,23178,Dong-gun Jang,Sngmoo Lee,2010
+150,My Soul to Take,Rogue,Wes Craven,17,100,4.8,17312,Max Thieriot,Wes Craven,2010
+151,Extraordinary Measures,CBS Films,Tom Vaughan,18,106,6.5,14980,Brendan Fraser,Robert Nelson Jacobs,2010
+152,For Colored Girls,Lionsgate,Tyler Perry,12,100,6.0,6359,Janet Jackson,Tyler Perry,2010
+153,Hatchet II,ArieScope Pictures,Adam Green,10,85,5.5,10103,Danielle Harris,Adam Green,2010
+154,Marmaduke,Twentieth Century Fox Film Corporation,Tom Dey,8,100,4.2,12104,Owen Wilson,Tim Rasmussen,2010
+155,Heartbreaker,Quad Productions,Pascal Chaumeil,20,105,6.8,22456,Romain Duris,Laurent Zeitoun,2010
+156,Happythankyoumoreplease,Paper Street Films,Josh Radnor,10,100,6.8,27342,Josh Radnor,Josh Radnor,2010
+157,La vida seg n Attenberg,Haos Film,Athina Rachel Tsangari,27,97,6.2,4798,Ariane Labed,Athina Rachel Tsangari,2010
+158,A Little Help,Secret Handshake Entertainment,Michael J. Weithorn,10,100,5.7,2787,Jenna Fischer,Michael J. Weithorn,2010
+159,Even the Rain,AXN,Ic ar Bolla n,31,103,7.5,10681,Gael Garc a Bernal,Paul Laverty,2010
+160,Red Hill,Hughes House Film,Patrick Hughes,22,95,6.4,7518,Ryan Kwanten,Patrick Hughes,2010
+161,The Housemaid,Sidus FNH-Benex Cinema Fund 1,Sang-soo Im,27,106,6.5,7482,Do-yeon Jeon,Ki-young Kim,2010
+162,Dylan Dog: Dead of Night,Hyde Park Films,Kevin Munroe,1,100,5.1,13559,Brandon Routh,Thomas Dean Donnelly,2010
+163,Certified Copy,MK2 Productions,Abbas Kiarostami,27,106,7.3,16271,Juliette Binoche,Caroline Eliacheff,2010
+164,Casino Jack,An Olive Branch Productions,George Hickenlooper,21,108,6.2,15443,Kevin Spacey,Norman Snider,2010
+165,Kites: M s all  de las fronteras,Bollywood Hollywood Production,Anurag Basu,14,123,6.1,10542,Kangana Ranaut,Anurag Basu,2010
+166,La llave de Sarah,Hugo Productions,Gilles Paquet-Brenner,5,102,7.5,13938,Kristin Scott Thomas,Tatiana De Rosnay,2010
+167,Henry's Crime,Company Films,Malcolm Venville,10,108,6.0,16513,Keanu Reeves,Sacha Gervasi,2010
+168,Welcome to the Rileys,Samuel Goldwyn Films,Jake Scott,12,100,7.0,21126,James Gandolfini,Ken Hixon,2010
+169,Frankie & Alice,Access Motion Pictures,Geoffrey Sax,21,100,6.5,4201,Halle Berry,Cheryl Edwards,2010
+170,Norwegian Wood,Asmik Ace Entertainment,Tran Anh Hung,27,133,6.4,9497,Ken'ichi Matsuyama,Haruki Murakami,2010
+171,Cats & Dogs: The Revenge of Kitty Galore,CD2 Films,Brad Peyton,3,100,4.3,11161,Bette Midler,Ron J. Friedman,2010
+172,Furry Vengeance,Summit Entertainment,Roger Kumble,8,100,3.8,13245,Brendan Fraser,Michael Carnes,2010
+173,Uncle Boonmee Who Can Recall His Past Lives,Kick the Machine,Apichatpong Weerasethakul,20,114,6.6,10329,Thanapat Saisaymar,Phra Sripariyattiweti,2010
+174,Guzaarish,Prime Focus,Sanjay Leela Bhansali,32,126,7.5,13312,Hrithik Roshan,Sanjay Leela Bhansali,2010
+175,Another Year,Thin Man Films,Mike Leigh,4,129,7.3,24862,Jim Broadbent,Mike Leigh,2010
+176,Vanishing on 7th Street,Herrick Entertainment,Brad Anderson,17,92,4.9,22864,Hayden Christensen,Anthony Jaswinski,2010
+177,Tiny Furniture,Tiny Ponies,Lena Dunham,20,98,6.2,12702,Lena Dunham,Lena Dunham,2010
+178,Alpha and Omega,Lions Gate Family Entertainment,Anthony Bell,15,90,5.3,11636,Hayden Panettiere,Chris Denk,2010
+179,Harry Potter and the Deathly Hallows: Part 2,Warner Bros.,David Yates,9,130,8.1,608969,Daniel Radcliffe,Steve Kloves,2011
+180,Cowboys & Aliens,Universal Pictures,Jon Favreau,1,119,6.0,182868,Daniel Craig,Roberto Orci,2011
+181,Pirates of the Caribbean: On Stranger Tides,Walt Disney Pictures,Rob Marshall,1,100,6.6,408968,Johnny Depp,Ted Elliott,2011
+182,Drive,FilmDistrict,Nicolas Winding Refn,11,100,7.8,472901,Ryan Gosling,Hossein Amini,2011
+183,The Help,DreamWorks,Tate Taylor,5,146,8.1,351321,Emma Stone,Tate Taylor,2011
+184,"Crazy, Stupid, Love.",Carousel Productions (II),Glenn Ficarra,4,100,7.4,404694,Steve Carell,Dan Fogelman,2011
+185,The Girl with the Dragon Tattoo,Columbia Pictures,David Fincher,11,158,7.8,356094,Daniel Craig,Steven Zaillian,2011
+186,El esp a que sab a demasiado,StudioCanal,Tomas Alfredson,12,122,7.1,160451,Gary Oldman,Bridget O'Connor,2011
+187,Bridesmaids,Universal Pictures,Paul Feig,10,125,6.8,232190,Kristen Wiig,Kristen Wiig,2011
+188,Sucker Punch,Warner Bros.,Zack Snyder,1,110,6.1,207858,Emily Browning,Zack Snyder,2011
+189,Thor,Paramount Pictures,Kenneth Branagh,1,115,7.0,585830,Chris Hemsworth,Ashley Miller,2011
+190,The Intouchables,Quad Productions,Olivier Nakache,21,112,8.6,579143,Fran ois Cluzet,Olivier Nakache,2011
+191,Captain America: The First Avenger,Paramount Pictures,Joe Johnston,1,124,6.9,563504,Chris Evans,Christopher Markus,2011
+192,Warrior,Lionsgate,Gavin O'Connor,5,140,8.2,365224,Tom Hardy,Gavin O'Connor,2011
+193,X-Men: First Class,Twentieth Century Fox Film Corporation,Matthew Vaughn,1,132,7.8,561501,James McAvoy,Ashley Miller,2011
+194,Green Lantern,Warner Bros.,Martin Campbell,1,114,5.6,235591,Ryan Reynolds,Greg Berlanti,2011
+195,Limitless,Relativity Media,Neil Burger,33,105,7.4,454361,Bradley Cooper,Leslie Dixon,2011
+196,Immortals,Relativity Media,Tarsem Singh,2,110,6.0,144952,Henry Cavill,Charley Parlapanides,2011
+197,Super 8,Paramount Pictures,J.J. Abrams,33,112,7.0,303656,Elle Fanning,J.J. Abrams,2011
+198,Rise of the Planet of the Apes,Twentieth Century Fox Film Corporation,Rupert Wyatt,1,105,7.6,439105,James Franco,Rick Jaffa,2011
+199,Priest,Screen Gems,Scott Stewart,1,87,5.7,102144,Paul Bettany,Cory Goodman,2011
+200,Transformers: Dark of the Moon,Paramount Pictures,Michael Bay,1,154,6.3,345669,Shia LaBeouf,Ehren Kruger,2011
+201,In Time,Regency Enterprises,Andrew Niccol,1,109,6.7,324606,Justin Timberlake,Andrew Niccol,2011
+202,We Bought a Zoo,Twentieth Century Fox Film Corporation,Cameron Crowe,8,124,7.1,118916,Matt Damon,Aline Brosh McKenna,2011
+203,Midnight in Paris,Mediapro,Woody Allen,4,100,7.7,327869,Owen Wilson,Woody Allen,2011
+204,Source Code,Summit Entertainment,Duncan Jones,33,93,7.5,414859,Jake Gyllenhaal,Ben Ripley,2011
+205,Mission: Impossible - Ghost Protocol,Paramount Pictures,Brad Bird,1,132,7.4,388730,Tom Cruise,Bruce Geller,2011
+206,Just Go with It,Columbia Pictures,Dennis Dugan,4,117,6.4,185840,Adam Sandler,Allan Loeb,2011
+207,The Lincoln Lawyer,Lionsgate,Brad Furman,11,118,7.3,184728,Matthew McConaughey,John Romano,2011
+208,Horrible Bosses,New Line Cinema,Seth Gordon,10,106,6.9,375032,Jason Bateman,Michael Markowitz,2011
+209,I Am Number Four,DreamWorks,D.J. Caruso,1,109,6.1,205616,Alex Pettyfer,Alfred Gough,2011
+210,Shame,See-Saw Films,Steve McQueen,34,101,7.2,158515,Michael Fassbender,Steve McQueen,2011
+211,Scream 4,Dimension Films,Wes Craven,17,111,6.2,110371,Neve Campbell,Kevin Williamson,2011
+212,Friends with Benefits,Screen Gems,Will Gluck,10,109,6.6,292555,Mila Kunis,Keith Merryman,2011
+213,Bad Teacher,Columbia Pictures,Jake Kasdan,10,92,5.7,169725,Cameron Diaz,Gene Stupnitsky,2011
+214,Hugo,Paramount Pictures,Martin Scorsese,16,126,7.5,264187,Asa Butterfield,John Logan,2011
+215,You're Next,Snoot Entertainment,Adam Wingard,17,95,6.5,70259,Sharni Vinson,Simon Barrett,2011
+216,Moneyball,Columbia Pictures,Bennett Miller,23,133,7.6,302465,Brad Pitt,Steven Zaillian,2011
+217,One Day,Focus Features,Lone Scherfig,5,107,7.0,116446,Anne Hathaway,David Nicholls,2011
+218,Goon,No Trace Camping,Michael Dowse,10,92,6.8,75386,Seann William Scott,Jay Baruchel,2011
+219,No Strings Attached,Paramount Pictures,Ivan Reitman,10,108,6.2,181844,Natalie Portman,Elizabeth Meriwether,2011
+220,The Twilight Saga: Breaking Dawn - Part 1,Summit Entertainment,Bill Condon,9,117,4.9,193280,Kristen Stewart,Melissa Rosenberg,2011
+221,We Need to Talk About Kevin,BBC Films,Lynne Ramsay,12,112,7.5,108592,Tilda Swinton,Lynne Ramsay,2011
+222,Sherlock Holmes: A Game of Shadows,Warner Bros.,Guy Ritchie,1,129,7.5,365008,Robert Downey Jr.,Michele Mulroney,2011
+223,Melancol a,Zentropa Entertainments,Lars von Trier,12,135,7.1,140218,Kirsten Dunst,Lars von Trier,2011
+224,Fast Five,Universal Pictures,Justin Lin,1,130,7.3,307369,Vin Diesel,Chris Morgan,2011
+225,Hanna,Focus Features,Joe Wright,1,111,6.8,166517,Saoirse Ronan,Seth Lochhead,2011
+226,The Adjustment Bureau,Universal Pictures,George Nolfi,35,106,7.1,211918,Matt Damon,George Nolfi,2011
+227,La piel que habito,Blue Haze Entertainment,Pedro Almod var,12,120,7.6,112125,Antonio Banderas,Thierry Jonquet,2011
+228,The Grey,Open Road Films (II),Joe Carnahan,2,117,6.8,214403,Liam Neeson,Joe Carnahan,2011
+229,Real Steel,DreamWorks,Shawn Levy,1,127,7.1,268336,Hugh Jackman,John Gatins,2011
+230,Rango,Paramount Pictures,Gore Verbinski,15,107,7.2,198267,Johnny Depp,John Logan,2011
+231,The Good Doctor,Code Red,Lance Daly,5,91,5.6,5532,Orlando Bloom,John Enbom,2011
+232,The Thing,Morgan Creek Productions,Matthijs van Heijningen Jr.,17,103,6.2,102345,Mary Elizabeth Winstead,Eric Heisserer,2011
+233,Conan the Barbarian,Millennium Films,Marcus Nispel,2,113,5.2,85864,Jason Momoa,Thomas Dean Donnelly,2011
+234,The Tree of Life,Cottonwood Pictures,Terrence Malick,5,139,6.8,146243,Brad Pitt,Terrence Malick,2011
+235,The Descendants,Fox Searchlight Pictures,Alexander Payne,10,115,7.3,213733,George Clooney,Alexander Payne,2011
+236,Paul,Universal Pictures,Greg Mottola,6,104,7.0,205426,Simon Pegg,Simon Pegg,2011
+237,The Change-Up,Universal Pictures,David Dobkin,10,112,6.3,144130,Jason Bateman,Jon Lucas,2011
+238,Contagion,Warner Bros.,Steven Soderbergh,5,106,6.6,189798,Matt Damon,Scott Z. Burns,2011
+239,A Separation,Asghar Farhadi Productions,Asghar Farhadi,5,123,8.4,170427,Payman Maadi,Asghar Farhadi,2011
+240,Footloose,Paramount Pictures,Craig Brewer,4,113,5.9,40132,Kenny Wormald,Dean Pitchford,2011
+241,Abduction,Lionsgate,John Singleton,1,106,5.1,68380,Taylor Lautner,Shawn Christensen,2011
+242,Killer Joe,Voltage Pictures,William Friedkin,11,102,6.7,63334,Matthew McConaughey,Tracy Letts,2011
+243,Soul Surfer,Enticing Entertainment,Sean McNamara,26,112,7.1,38348,AnnaSophia Robb,Sean McNamara,2011
+244,The Three Musketeers,Summit Entertainment,Paul W.S. Anderson,1,110,5.8,93671,Logan Lerman,Alex Litvak,2011
+245,50/50,Summit Entertainment,Jonathan Levine,10,100,7.7,285675,Joseph Gordon-Levitt,Will Reiser,2011
+246,Hall Pass,New Line Cinema,Bobby Farrelly,10,105,5.9,108256,Owen Wilson,Pete Jones,2011
+247,Sleeping Beauty,Screen Australia,Julia Leigh,27,101,5.3,27413,Emily Browning,Julia Leigh,2011
+248,The Hangover Part II,Warner Bros.,Todd Phillips,10,102,6.5,402097,Bradley Cooper,Craig Mazin,2011
+249,Cars 2,Walt Disney Pictures,John Lasseter,24,106,6.2,116477,Owen Wilson,John Lasseter,2011
+250,The Raid: Redemption,Pt. Merantau Films,Gareth Evans,2,101,7.6,160867,Iko Uwais,Gareth Evans,2011
+251,Jane Eyre,Focus Features,Cary Fukunaga,5,120,7.4,69029,Mia Wasikowska,Charlotte Bront ,2011
+252,The Adventures of Tintin,Columbia Pictures,Steven Spielberg,15,107,7.4,188070,Jamie Bell,Herg ,2011
+253,Colombiana,EuropaCorp,Olivier Megaton,1,108,6.4,81197,Zoe Saldana,Luc Besson,2011
+254,Your Highness,Universal Pictures,David Gordon Green,6,102,5.6,89047,Danny McBride,Danny McBride,2011
+255,War Horse,DreamWorks,Steven Spielberg,5,146,7.2,125204,Jeremy Irvine,Lee Hall,2011
+256,A Dangerous Method,Recorded Picture Company (RPC),David Cronenberg,21,99,6.5,86882,Michael Fassbender,Christopher Hampton,2011
+257,Johnny English Reborn,Universal Pictures,Oliver Parker,3,101,6.3,95736,Rowan Atkinson,Hamish McColl,2011
+258,The Mechanic,CBS Films,Simon West,2,93,6.6,131571,Jason Statham,Richard Wenk,2011
+259,The Ides of March,Columbia Pictures,George Clooney,12,101,7.1,198569,Paul Giamatti,George Clooney,2011
+260,The Artist,Studio 37,Michel Hazanavicius,4,100,7.9,202820,Jean Dujardin,Michel Hazanavicius,2011
+261,J. Edgar,Imagine Entertainment,Clint Eastwood,21,137,6.6,108929,Leonardo DiCaprio,Dustin Lance Black,2011
+262,Battle Los Angeles,Columbia Pictures,Jonathan Liebesman,1,116,5.8,160672,Aaron Eckhart,Christopher Bertolini,2011
+263,The Art of Getting By,Goldcrest Pictures,Gavin Wiesen,5,83,6.6,49820,Freddie Highmore,Gavin Wiesen,2011
+264,Margin Call,Before The Door Pictures,J.C. Chandor,12,107,7.1,99567,Zachary Quinto,J.C. Chandor,2011
+265,Fright Night,DreamWorks,Craig Gillespie,10,106,6.4,89412,Anton Yelchin,Marti Noxon,2011
+266,Rio,Twentieth Century Fox Animation,Carlos Saldanha,24,96,6.9,177152,Jesse Eisenberg,Carlos Saldanha,2011
+267,Headhunters,Yellow Bird,Morten Tyldum,11,96,7.6,85380,Aksel Hennie,Ulf Ryberg,2011
+268,The Smurfs,Columbia Pictures,Raja Gosnell,15,100,5.5,71925,Hank Azaria,J. David Stem,2011
+269,Like Crazy,Paramount Vantage,Drake Doremus,5,86,6.7,51491,Felicity Jones,Drake Doremus,2011
+270,Attack the Block,StudioCanal,Joe Cornish,2,88,6.6,87579,John Boyega,Joe Cornish,2011
+271,Take Shelter,Hydraulx,Jeff Nichols,12,121,7.4,76102,Michael Shannon,Jeff Nichols,2011
+272,Unknown,Dark Castle Entertainment,Jaume Collet-Serra,1,113,6.9,221649,Liam Neeson,Oliver Butcher,2011
+273,Beastly,CBS Films,Daniel Barnz,5,86,5.6,68242,Alex Pettyfer,Daniel Barnz,2011
+274,Final Destination 5,New Line Cinema,Steven Quale,17,92,5.9,89887,Nicholas D'Agosto,Eric Heisserer,2011
+275,My Week with Marilyn,The Weinstein Company,Simon Curtis,21,99,7.0,75373,Michelle Williams,Adrian Hodges,2011
+276,Kung Fu Panda 2,DreamWorks Animation,Jennifer Yuh Nelson,15,90,7.3,203107,Jack Black,Jonathan Aibel,2011
+277,Red State,"Harvey Boys, The",Kevin Smith,2,88,6.2,56365,Michael Parks,Kevin Smith,2011
+278,Another Earth,Artists Public Domain,Mike Cahill,5,92,7.0,78957,Brit Marling,Mike Cahill,2011
+279,Ghost Rider: Spirit of Vengeance,Columbia Pictures,Mark Neveldine,1,96,4.3,94617,Nicolas Cage,Scott M. Gimple,2011
+280,Red Riding Hood,Warner Bros.,Catherine Hardwicke,36,100,5.4,96451,Amanda Seyfried,David Leslie Johnson,2011
+281,The Roommate,Screen Gems,Christian E. Christiansen,5,100,4.9,30941,Minka Kelly,Sonny Mallhi,2011
+282,Water for Elephants,Fox 2000 Pictures,Francis Lawrence,5,100,6.9,100146,Robert Pattinson,Richard LaGravenese,2011
+283,The Sitter,Twentieth Century Fox Film Corporation,David Gordon Green,10,81,5.7,62890,Jonah Hill,Brian Gatewood,2011
+284,Agentes Secretos,Relativity Media,Steven Soderbergh,2,93,5.8,75489,Gina Carano,Lem Dobbs,2011
+285,What's Your Number?,Regency Enterprises,Mark Mylod,10,106,6.1,63448,Anna Faris,Gabrielle Allan,2011
+286,Perfect Sense,BBC Films,David Mackenzie,12,92,7.1,46538,Ewan McGregor,Kim Fupz Aakeson,2011
+287,Straw Dogs,Screen Gems,Rod Lurie,2,110,5.8,28710,James Marsden,Rod Lurie,2011
+288,Take Me Home Tonight,Rogue Pictures,Michael Dowse,10,100,6.3,46068,Topher Grace,Jackie Filgo,2011
+289,Tower Heist,Universal Pictures,Brett Ratner,1,104,6.2,116459,Eddie Murphy,Adam Cooper,2011
+290,Drive Angry,Summit Entertainment,Patrick Lussier,2,104,5.4,85499,Nicolas Cage,Todd Farmer,2011
+291,The Best Exotic Marigold Hotel,Blueprint Pictures,John Madden,4,124,7.3,80051,Judi Dench,Ol Parker,2011
+292,The Human Centipede II (Full Sequence),Six Entertainment Company,Tom Six,37,91,3.9,29249,Ashlynn Yennie,Tom Six,2011
+293,Dream House,Cliffjack Motion Pictures,Jim Sheridan,5,84,6.0,54803,Daniel Craig,David Loucka,2011
+294,New Year's Eve,New Line Cinema,Garry Marshall,4,113,5.7,70914,Sarah Jessica Parker,Katherine Fugate,2011
+295,Larry Crowne,Universal Pictures,Tom Hanks,4,98,6.1,53606,Tom Hanks,Tom Hanks,2011
+296,Killer Elite,Omnilab Media,Gary McKendry,2,116,6.5,111398,Jason Statham,Matt Sherring,2011
+297,The Rite,New Line Cinema,Mikael H fstr m,5,114,6.0,80181,Colin O'Donoghue,Michael Petroni,2011
+298,Spy Kids 4: All the Time in the World,Dimension Films,Robert Rodriguez,3,100,3.6,17340,Jessica Alba,Robert Rodriguez,2011
+299,10 Years,Anchor Bay Films,Jamie Linden,4,100,6.1,20229,Channing Tatum,Jamie Linden,2011
+300,Princesa por accidente,Fox 2000 Pictures,Thomas Bezucha,16,100,5.8,35684,Selena Gomez,Thomas Bezucha,2011
+301,The Inbetweeners Movie,Film4,Ben Palmer,10,97,6.8,68128,James Buckley,Iain Morris,2011
+302,The Guard,Reprisal Films,John Michael McDonagh,10,100,7.3,69465,Brendan Gleeson,John Michael McDonagh,2011
+303,Extremely Loud & Incredibly Close,Warner Bros.,Stephen Daldry,9,129,6.9,87522,Thomas Horn,Eric Roth,2011
+304,The Devil's Double,Corsan,Lee Tamahori,21,109,7.1,56126,Dominic Cooper,Michael Thomas,2011
+305,Something Borrowed,Alcon Entertainment,Luke Greenfield,4,100,5.9,51026,Ginnifer Goodwin,Jennie Snyder Urman,2011
+306,Martha Marcy May Marlene,Fox Searchlight Pictures,Sean Durkin,12,102,6.9,42844,Elizabeth Olsen,Sean Durkin,2011
+307,The Rum Diary,GK Films,Bruce Robinson,10,120,6.2,90562,Johnny Depp,Bruce Robinson,2011
+308,The Iron Lady,Path ,Phyllida Lloyd,23,105,6.4,88841,Meryl Streep,Abi Morgan,2011
+309, Sabes qui n viene?,SBS Productions,Roman Polanski,10,80,7.2,103437,Jodie Foster,Yasmina Reza,2011
+310,The Innkeepers,Dark Sky Films,Ti West,17,101,5.5,29002,Sara Paxton,Ti West,2011
+311,The Dilemma,Universal Pictures,Ron Howard,4,111,5.3,45768,Vince Vaughn,Allan Loeb,2011
+312,30 minutos o menos,Columbia Pictures,Ruben Fleischer,2,83,6.1,82495,Jesse Eisenberg,Michael Diliberti,2011
+313,The Green Hornet,Columbia Pictures,Michel Gondry,1,100,5.8,142094,Seth Rogen,Seth Rogen,2011
+314,Trespass,Millennium Films,Joel Schumacher,11,91,5.3,36771,Nicolas Cage,Karl Gajdusek,2011
+315,The Muppets,Walt Disney Pictures,James Bobin,16,100,7.1,78440,Amy Adams,Jason Segel,2011
+316,The Darkest Hour,Summit Entertainment,Chris Gorak,1,89,4.9,51758,Emile Hirsch,Jon Spaihts,2011
+317,Season of the Witch,Atlas Entertainment,Dominic Sena,1,95,5.4,80353,Nicolas Cage,Bragi F. Schut,2011
+318,Gnomeo & Juliet,Touchstone Pictures,Kelly Asbury,24,84,6.0,45274,James McAvoy,Rob Sprackling,2011
+319,Kill the Irishman,Anchor Bay Films,Jonathan Hensleigh,21,106,7.1,37684,Ray Stevenson,Jonathan Hensleigh,2011
+320,Weekend,"Bureau, The",Andrew Haigh,27,97,7.7,22381,Tom Cullen,Andrew Haigh,2011
+321,W.E.,Semtex Films,Madonna,12,119,6.2,10495,Abbie Cornish,Madonna,2011
+322,Bernie,Mandalay Vision,Richard Linklater,23,99,6.8,49922,Jack Black,Skip Hollandsworth,2011
+323,The Eagle,Focus Features,Kevin Macdonald,1,114,6.2,57242,Channing Tatum,Jeremy Brock,2011
+324,Machine Gun Preacher,Relativity Media,Marc Forster,2,129,6.8,56603,Gerard Butler,Jason Keller,2011
+325,Silent House,Elle Driver,Chris Kentis,12,86,5.3,19546,Elizabeth Olsen,Gustavo Hern ndez,2011
+326,Jack and Jill,Columbia Pictures,Dennis Dugan,8,91,3.4,65046,Adam Sandler,Steve Koren,2011
+327,Seeking Justice,Endgame Entertainment,Roger Donaldson,2,105,6.2,40833,Nicolas Cage,Todd Hickey,2011
+328,Butter,Michael De Luca Productions,Jim Field Smith,10,100,6.2,18293,Jennifer Garner,Jason A. Micallef,2011
+329,Puss in Boots,DreamWorks Animation,Chris Miller,15,90,6.7,122582,Antonio Banderas,Tom Wheeler,2011
+330,Young Adult,Paramount Pictures,Jason Reitman,10,94,6.3,68120,Charlize Theron,Diablo Cody,2011
+331,Hysteria,Informant Media,Tanya Wexler,10,100,6.7,27231,Maggie Gyllenhaal,Stephen Dyer,2011
+332,Coriolanus,Hermetof Pictures,Ralph Fiennes,12,123,6.2,28230,Ralph Fiennes,John Logan,2011
+333,Detachment,Paper Street Films,Tony Kaye,27,98,7.7,63058,Adrien Brody,Carl Lund,2011
+334,Hop,Universal Pictures,Tim Hill,15,100,5.5,26043,Russell Brand,Cinco Paul,2011
+335,Shark Night 3D,Incentive Filmed Entertainment,David R. Ellis,19,90,4.0,21890,Sara Paxton,Will Hayes,2011
+336,Dolphin Tale,Alcon Entertainment,Charles Martin Smith,18,113,6.9,19114,Morgan Freeman,Karen Janszen,2011
+337,This Must Be the Place,Indigo Film,Paolo Sorrentino,10,118,6.7,28083,Sean Penn,Paolo Sorrentino,2011
+338,Zookeeper,Columbia Pictures,Frank Coraci,8,100,5.2,48201,Kevin James,Nick Bakay,2011
+339,The Beaver,Summit Entertainment,Jodie Foster,5,91,6.7,42609,Mel Gibson,Kyle Killen,2011
+340,Kill List,Warp X,Ben Wheatley,38,95,6.4,29136,Neil Maskell,Ben Wheatley,2011
+341,Mr. Popper's Penguins,Twentieth Century Fox Film Corporation,Mark Waters,8,100,6.0,73019,Jim Carrey,Sean Anders,2011
+342,Anonymous,Columbia Pictures,Roland Emmerich,5,130,6.9,36079,Rhys Ifans,John Orloff,2011
+343,The Flowers of War,Beijing New Picture Film Co.,Yimou Zhang,12,146,7.6,41876,Christian Bale,Heng Liu,2011
+344,Aislados,Instinctive Film,Xavier Gens,12,112,5.8,31955,Lauren German,Karl Mueller,2011
+345,Rampart,Lightstream Entertainment,Oren Moverman,11,108,5.8,20869,Woody Harrelson,James Ellroy,2011
+346,Diary of a Wimpy Kid: Rodrick Rules,Fox 2000 Pictures,David Bowers,8,100,6.6,20904,Zachary Gordon,Gabe Sachs,2011
+347,A Good Old Fashioned Orgy,Endgame Entertainment,Alex Gregory,10,95,6.2,18896,Jason Sudeikis,Alex Gregory,2011
+348,Wuthering Heights,Film4,Andrea Arnold,27,129,6.1,7758,Kaya Scodelario,Andrea Arnold,2011
+349,Winnie the Pooh,Walt Disney Pictures,Stephen J. Anderson,24,100,7.2,16941,Jim Cummings,Stephen J. Anderson,2011
+350,Chalet Girl,UK Film Council,Phil Traill,10,100,6.3,20389,Felicity Jones,Tom Williams,2011
+351,Zindagi Na Milegi Dobara,Eros International,Zoya Akhtar,39,155,8.1,50511,Hrithik Roshan,Farhan Akhtar,2011
+352,Hobo with a Shotgun,Rhombus Media,Jason Eisener,14,86,6.1,39392,Rutger Hauer,John Davies,2011
+353,Happy Feet Two,Warner Bros.,George Miller,15,100,5.9,34974,Elijah Wood,George Miller,2011
+354,Sanctum,Universal Pictures,Alister Grierson,6,108,5.9,49065,Rhys Wakefield,John Garvin,2011
+355,Paranormal Activity 3,Paramount Pictures,Henry Joost,17,83,5.8,80871,Chloe Csengery,Christopher Landon,2011
+356,The Deep Blue Sea,Camberwell / Fly Films,Terence Davies,12,98,6.3,12608,Rachel Weisz,Terence Rattigan,2011
+357,"Peace, Love, & Misunderstanding",BCDF Pictures,Bruce Beresford,10,96,5.9,6655,Jane Fonda,Christina Mengert,2011
+358,Salmon Fishing in the Yemen,UK Film Council,Lasse Hallstr m,4,107,6.8,54890,Ewan McGregor,Simon Beaufoy,2011
+359,Friends with Kids,Red Granite Pictures,Jennifer Westfeldt,10,107,6.2,37719,Jennifer Westfeldt,Jennifer Westfeldt,2011
+360,Our Idiot Brother,Big Beach Films,Jesse Peretz,10,90,6.4,77870,Paul Rudd,Jesse Peretz,2011
+361,A Very Harold & Kumar 3D Christmas,New Line Cinema,Todd Strauss-Schulson,6,90,6.3,58470,Kal Penn,Jon Hurwitz,2011
+362,Margaret,Fox Searchlight Pictures,Kenneth Lonergan,12,150,6.5,13729,Anna Paquin,Kenneth Lonergan,2011
+363,Albert Nobbs,Mockingbird Pictures,Rodrigo Garc a,12,113,6.7,20844,Glenn Close,Gabriella Prekop,2011
+364,God Bless America,Darko Entertainment,Bobcat Goldthwait,10,105,7.2,63198,Joel Murray,Bobcat Goldthwait,2011
+365,Take This Waltz,Joe's Daughter,Sarah Polley,10,116,6.6,24105,Michelle Williams,Sarah Polley,2011
+366,Apollo 18,Dimension Films,Gonzalo L pez-Gallego,19,86,5.2,49108,Warren Christie,Brian Miller,2011
+367,Puncture,Cherry Sky Films,Adam Kassen,21,100,6.9,20277,Chris Evans,Paul Danziger,2011
+368,Catch .44,Annapurna Productions,Aaron Harvey,2,94,4.6,15243,Malin Akerman,Aaron Harvey,2011
+369,Alvin and the Chipmunks: Chipwrecked,Fox 2000 Pictures,Mike Mitchell,24,87,4.4,24939,Justin Long,Jonathan Aibel,2011
+370,The Snowtown Murders,Carver Films,Justin Kurzel,40,119,6.6,14476,Lucas Pittaway,Shaun Grant,2011
+371,The Hunter,Porchlight Films,Daniel Nettheim,6,102,6.8,32746,Willem Dafoe,Alice Addison,2011
+372,House of Tolerance,Les Films du Lendemain,Bertrand Bonello,27,122,6.8,4868,No mie Lvovsky,Bertrand Bonello,2011
+373,Take Me Home,Good Folk Films,Sam Jaeger,4,97,6.9,6434,Sam Jaeger,Sam Jaeger,2011
+374,Arthur,Warner Bros.,Jason Winer,4,110,5.7,47103,Russell Brand,Peter Baynham,2011
+375,Courageous,TriStar Pictures,Alex Kendrick,5,100,7.0,16417,Alex Kendrick,Alex Kendrick,2011
+376,The Big Year,Fox 2000 Pictures,David Frankel,8,100,6.2,36943,Owen Wilson,Howard Franklin,2011
+377,Cedar Rapids,Ad Hominem Enterprises,Miguel Arteta,10,87,6.3,33701,Ed Helms,Phil Johnston,2011
+378,The Decoy Bride,Isle of Man Film,Sheree Folkson,8,89,6.2,9018,Kelly Macdonald,Neil Jaworski,2011
+379,A Little Bit of Heaven,Davis Entertainment,Nicole Kassell,4,100,6.3,24736,Kate Hudson,Gren Wells,2011
+380,Sound of My Voice,Skyscraper Films,Zal Batmanglij,12,100,6.7,17812,Christopher Denham,Zal Batmanglij,2011
+381,Prom,Rickshaw Productions,Joe Nussbaum,8,104,5.4,13474,Aimee Teegarden,Katie Wech,2011
+382,Alps: Los suplantadores,Haos Film,Yorgos Lanthimos,27,100,6.4,5996,Stavros Psyllakis,Efthymis Filippou,2011
+383,Texas Killing Fields,Anchor Bay Films,Ami Canaan Mann,11,105,5.7,16018,Sam Worthington,Don Ferrarone,2011
+384,In the Land of Blood and Honey,GK Films,Angelina Jolie,12,100,4.4,32055,Zana Marjanovic,Angelina Jolie,2011
+385,The Ledge,Foresight Unlimited,Matthew Chapman,12,100,6.6,16604,Charlie Hunnam,Matthew Chapman,2011
+386,Bullhead,Savage Film,Micha l R. Roskam,11,129,7.4,19152,Matthias Schoenaerts,Micha l R. Roskam,2011
+387,360,BBC Films,Fernando Meirelles,12,110,6.2,14114,Rachel Weisz,Peter Morgan,2011
+388,Rockstar,Eros International,Imtiaz Ali,27,159,7.6,29940,Ranbir Kapoor,Imtiaz Ali,2011
+389,Atlas Shrugged: Part I,Atlas Productions,Paul Johansson,5,97,5.7,11831,Taylor Schilling,Brian Patrick O'Toole,2011
+390,Flypaper,"Safran Company, The",Rob Minkoff,20,87,6.4,28775,Patrick Dempsey,Jon Lucas,2011
+391,Intruders,Antena 3 Films,Juan Carlos Fresnadillo,25,100,5.4,18528,Clive Owen,Nicol s Casariego,2011
+392,Jumping the Broom,TriStar Pictures,Salim Akil,4,100,5.7,8399,Paula Patton,Elizabeth Hunter,2011
+393,From Up on Poppy Hill,Studio Ghibli,Gor  Miyazaki,15,91,7.5,22336,Sarah Bolger,Tetsur  Sayama,2011
+394,"Big Mommas: Like Father, Like Son",Regency Enterprises,John Whitesell,1,107,4.4,21446,Martin Lawrence,Matt Fogel,2011
+395,Elles,Slot Machine,Malgorzata Szumowska,31,99,5.7,5354,Juliette Binoche,Tine Byrckel,2011
+396,Don 2,Excel Entertainment,Farhan Akhtar,14,148,7.1,43225,Shah Rukh Khan,Farhan Akhtar,2011
+397,Violet & Daisy,Magic Violet,Geoffrey Fletcher,2,88,6.1,10028,Saoirse Ronan,Geoffrey Fletcher,2011
+398,North Sea Texas,Indeed films,Bavo Defurne,27,94,7.2,6494,Ben Van den Heuvel,Andr  Sollie,2011
+399,The Dark Knight Rises,Warner Bros.,Christopher Nolan,1,164,8.4,1253772,Christian Bale,Jonathan Nolan,2012
+400,Django Unchained,The Weinstein Company,Quentin Tarantino,12,165,8.4,1070691,Jamie Foxx,Quentin Tarantino,2012
+401,The Hunger Games,Lionsgate,Gary Ross,9,142,7.2,748581,Jennifer Lawrence,Gary Ross,2012
+402,The Avengers,Marvel Studios,Joss Whedon,1,143,8.1,1064633,Robert Downey Jr.,Joss Whedon,2012
+403,Prometheus,Twentieth Century Fox Film Corporation,Ridley Scott,6,124,7.0,503113,Noomi Rapace,Jon Spaihts,2012
+404,The Hobbit: An Unexpected Journey,New Line Cinema,Peter Jackson,9,169,7.9,680250,Martin Freeman,Fran Walsh,2012
+405,Pitch Perfect,Brownstone Productions (II),Jason Moore,4,112,7.2,231932,Anna Kendrick,Kay Cannon,2012
+406,Jack Reacher,Paramount Pictures,Christopher McQuarrie,1,130,7.0,257474,Tom Cruise,Lee Child,2012
+407,The Perks of Being a Wallflower,Summit Entertainment,Stephen Chbosky,5,102,8.0,386932,Logan Lerman,Stephen Chbosky,2012
+408,Cloud Atlas,Cloud Atlas Productions,Tom Tykwer,2,172,7.5,305013,Tom Hanks,David Mitchell,2012
+409,The Twilight Saga: Breaking Dawn - Part 2,Summit Entertainment,Bill Condon,9,115,5.5,197849,Kristen Stewart,Melissa Rosenberg,2012
+410,The Cabin in the Woods,Lionsgate,Drew Goddard,17,95,7.0,304144,Kristen Connolly,Joss Whedon,2012
+411,Les Mis rables,Working Title Films,Tom Hooper,5,158,7.6,262187,Hugh Jackman,William Nicholson,2012
+412,Moonrise Kingdom,Indian Paintbrush,Wes Anderson,9,94,7.8,261362,Jared Gilman,Wes Anderson,2012
+413,Skyfall,Eon Productions,Sam Mendes,1,143,7.8,556275,Daniel Craig,Ian Fleming,2012
+414,21 Jump Street,Columbia Pictures,Phil Lord,2,110,7.2,441919,Jonah Hill,Michael Bacall,2012
+415,Battleship,Universal Pictures,Peter Berg,1,131,5.8,213632,Alexander Skarsg rd,Jon Hoeber,2012
+416,Looper,Endgame Entertainment,Rian Johnson,2,113,7.4,461775,Joseph Gordon-Levitt,Rian Johnson,2012
+417,Zero Dark Thirty,Columbia Pictures,Kathryn Bigelow,12,157,7.4,231134,Jessica Chastain,Mark Boal,2012
+418,Snow White and the Huntsman,Roth Films,Rupert Sanders,1,127,6.1,243327,Kristen Stewart,Evan Daugherty,2012
+419,Silver Linings Playbook,The Weinstein Company,David O. Russell,10,122,7.8,575513,Bradley Cooper,David O. Russell,2012
+420,American Reunion,Universal Pictures,Jon Hurwitz,10,113,6.7,181067,Jason Biggs,Jon Hurwitz,2012
+421,Dark Shadows,Warner Bros.,Tim Burton,4,113,6.2,213561,Johnny Depp,Seth Grahame-Smith,2012
+422,Anna Karenina,Universal Pictures,Joe Wright,12,129,6.6,77083,Keira Knightley,Tom Stoppard,2012
+423,The Amazing Spider-Man,Columbia Pictures,Marc Webb,1,136,7.0,484931,Andrew Garfield,James Vanderbilt,2012
+424,The Place Beyond the Pines,Sidney Kimmel Entertainment,Derek Cianfrance,11,140,7.3,205530,Ryan Gosling,Derek Cianfrance,2012
+425,Argo,Warner Bros.,Ben Affleck,6,120,7.7,491286,Ben Affleck,Chris Terrio,2012
+426,The Hunt,Danmarks Radio (DR),Thomas Vinterberg,12,115,8.3,201299,Mads Mikkelsen,Tobias Lindholm,2012
+427,Magic Mike,Iron Horse Entertainment (II),Steven Soderbergh,10,110,6.1,115818,Channing Tatum,Reid Carolin,2012
+428,The Bourne Legacy,Universal Pictures,Tony Gilroy,1,135,6.7,250175,Jeremy Renner,Tony Gilroy,2012
+429,The Impossible,Mediaset Espa a,J.A. Bayona,5,114,7.6,160833,Naomi Watts,Sergio G. S nchez,2012
+430,Spring Breakers,Muse Productions,Harmony Korine,11,94,5.3,116309,Vanessa Hudgens,Harmony Korine,2012
+431,Wreck-It Ralph,Walt Disney Animation Studios,Rich Moore,15,101,7.7,298207,John C. Reilly,Rich Moore,2012
+432,Brave,Walt Disney Pictures,Mark Andrews,15,93,7.2,302017,Kelly Macdonald,Brenda Chapman,2012
+433,Dredd,DNA Films,Pete Travis,2,95,7.1,218179,Karl Urban,John Wagner,2012
+434,Lawless,The Weinstein Company,John Hillcoat,11,116,7.3,199327,Tom Hardy,Nick Cave,2012
+435,Sinister,Alliance Films,Scott Derrickson,17,110,6.8,177787,Ethan Hawke,Scott Derrickson,2012
+436,John Carter,Walt Disney Pictures,Andrew Stanton,1,132,6.6,224234,Taylor Kitsch,Andrew Stanton,2012
+437,Lincoln,DreamWorks,Steven Spielberg,23,150,7.4,211227,Daniel Day-Lewis,Tony Kushner,2012
+438,Rock of Ages,New Line Cinema,Adam Shankman,4,123,5.9,65550,Julianne Hough,Justin Theroux,2012
+439,Men in Black 3,Columbia Pictures,Barry Sonnenfeld,1,100,6.8,282995,Will Smith,Etan Cohen,2012
+440,Flight,Paramount Pictures,Robert Zemeckis,12,138,7.3,280858,Denzel Washington,John Gatins,2012
+441,Ted,Universal Pictures,Seth MacFarlane,10,106,7.0,503464,Mark Wahlberg,Seth MacFarlane,2012
+442,The Master,The Weinstein Company,Paul Thomas Anderson,12,144,7.1,116047,Philip Seymour Hoffman,Paul Thomas Anderson,2012
+443,End of Watch,Exclusive Media Group,David Ayer,2,109,7.7,196450,Jake Gyllenhaal,David Ayer,2012
+444,Life of Pi,Fox 2000 Pictures,Ang Lee,16,127,7.9,482766,Suraj Sharma,Yann Martel,2012
+445,Hotel Transylvania,Columbia Pictures,Genndy Tartakovsky,15,91,7.1,180944,Adam Sandler,Peter Baynham,2012
+446,This Means War,Overbrook Entertainment,McG,1,97,6.3,157282,Reese Witherspoon,Timothy Dowling,2012
+447,That's My Boy,Columbia Pictures,Sean Anders,10,116,5.6,76035,Adam Sandler,David Caspe,2012
+448,The Vow,Screen Gems,Michael Sucsy,5,104,6.8,159841,Rachel McAdams,Abby Kohn,2012
+449,Project X,Green Hat Films,Nima Nourizadeh,10,88,6.7,166912,Thomas Mann,Matt Drake,2012
+450,Total Recall,Total Recall,Len Wiseman,1,118,6.3,214699,Colin Farrell,Kurt Wimmer,2012
+451,Savages,Ixtlan,Oliver Stone,11,131,6.5,109373,Aaron Taylor-Johnson,Shane Salerno,2012
+452,The Dictator,Paramount Pictures,Larry Charles,10,83,6.4,230068,Sacha Baron Cohen,Sacha Baron Cohen,2012
+453,Seven Psychopaths,CBS Films,Martin McDonagh,10,110,7.2,200857,Colin Farrell,Martin McDonagh,2012
+454,The First Time,Samuel Goldwyn Films,Jon Kasdan,4,95,6.9,55742,Dylan O'Brien,Jon Kasdan,2012
+455,This Is 40,Apatow Productions,Judd Apatow,10,134,6.2,109844,Paul Rudd,Judd Apatow,2012
+456,The Lucky One,Warner Bros.,Scott Hicks,5,101,6.5,85269,Zac Efron,Will Fetters,2012
+457,Rise of the Guardians,DreamWorks Animation,Peter Ramsey,15,97,7.3,133291,Hugh Jackman,David Lindsay-Abaire,2012
+458,Furia de Titanes 2,Warner Bros.,Jonathan Liebesman,1,99,5.8,161836,Sam Worthington,Dan Mazeau,2012
+459,Journey 2: The Mysterious Island,New Line Cinema,Brad Peyton,3,94,5.8,73718,Josh Hutcherson,Brian Gunn,2012
+460,Terror en Silent Hill 2: la revelaci n,Davis-Films,Michael J. Bassett,6,95,5.0,53080,Adelaide Clemens,Michael J. Bassett,2012
+461,Protegiendo al enemigo,Universal Pictures,Daniel Espinosa,2,115,6.8,177666,Denzel Washington,David Guggenheim,2012
+462,Ruby Sparks,Fox Searchlight Pictures,Jonathan Dayton,10,100,7.2,84963,Paul Dano,Zoe Kazan,2012
+463,Mud,Lionsgate,Jeff Nichols,5,130,7.4,146045,Matthew McConaughey,Jeff Nichols,2012
+464,Underworld Awakening,Screen Gems,M ns M rlind,2,88,6.4,129757,Kate Beckinsale,Len Wiseman,2012
+465,The Expendables 2,Millennium Films,Simon West,2,103,6.6,261485,Sylvester Stallone,Richard Wenk,2012
+466,Resident Evil: Retribution,Constantin Film International,Paul W.S. Anderson,2,95,5.4,116830,Milla Jovovich,Paul W.S. Anderson,2012
+467,Stuck in Love,Informant Media,Josh Boone,10,97,7.3,72452,Greg Kinnear,Josh Boone,2012
+468,What to Expect When You're Expecting,Lionsgate,Kirk Jones,4,110,5.7,61163,Cameron Diaz,Shauna Cross,2012
+469,B squeda implacable 2,EuropaCorp,Olivier Megaton,1,92,6.3,254843,Liam Neeson,Luc Besson,2012
+470,Bachelorette,Gary Sanchez Productions,Leslye Headland,10,87,5.3,39857,Kirsten Dunst,Leslye Headland,2012
+471,Chronicle,Twentieth Century Fox Film Corporation,Josh Trank,41,89,7.1,216523,Dane DeHaan,Max Landis,2012
+472,The Woman in Black,Cross Creek Pictures,James Watkins,5,95,6.4,153960,Daniel Radcliffe,Susan Hill,2012
+473,The Five-Year Engagement,Universal Pictures,Nicholas Stoller,10,124,6.2,83021,Jason Segel,Jason Segel,2012
+474,V/H/S,8383 Productions,Matt Bettinelli-Olpin,17,116,5.8,48578,Calvin Reeder,Brad Miska,2012
+475,The Man with the Iron Fists,Arcade Pictures,RZA,2,95,5.4,55782,Russell Crowe,RZA,2012
+476,Abraham Lincoln: Vampire Hunter,Abraham Productions,Timur Bekmambetov,2,105,5.9,135188,Benjamin Walker,Seth Grahame-Smith,2012
+477,The Cold Light of Day,Summit Entertainment,Mabrouk El Mechri,1,93,4.9,30822,Henry Cavill,Scott Wiper,2012
+478,House at the End of the Street,Relativity Media,Mark Tonderai,5,101,5.6,62147,Jennifer Lawrence,David Loucka,2012
+479,On the Road,MK2 Productions,Walter Salles,6,124,6.1,35540,Sam Riley,Jack Kerouac,2012
+480,The Words,Also Known As Pictures,Brian Klugman,5,102,7.1,64718,Bradley Cooper,Brian Klugman,2012
+481,Red Dawn,FilmDistrict,Dan Bradley,1,93,5.4,65454,Chris Hemsworth,Carl Ellsworth,2012
+482,The Iceman,Bleiberg Entertainment,Ariel Vromen,2,106,6.9,60121,Michael Shannon,Morgan Land,2012
+483,The Lorax,Universal Pictures,Chris Renaud,15,86,6.4,83314,Zac Efron,Dr. Seuss,2012
+484,The Raven,Intrepid Pictures,James McTeigue,11,110,6.4,76320,John Cusack,Hannah Shakespeare,2012
+485,Rust and Bone,Why Not Productions,Jacques Audiard,12,120,7.5,53846,Marion Cotillard,Jacques Audiard,2012
+486,Man on a Ledge,Summit Entertainment,Asger Leth,1,102,6.6,131006,Sam Worthington,Pablo F. Fenjves,2012
+487,Maniac,La Petite Reine,Franck Khalfoun,37,89,6.1,29681,Elijah Wood,Alexandre Aja,2012
+488,Seeking a Friend for the End of the World,Focus Features,Lorene Scafaria,6,101,6.7,95050,Steve Carell,Lorene Scafaria,2012
+489,LOL,Double Feature Films,Lisa Azuelos,4,97,4.3,47937,Miley Cyrus,Lisa Azuelos,2012
+490,Mirror Mirror,Relativity Media,Tarsem Singh,16,106,5.6,74728,Lily Collins,Marc Klein,2012
+491,A Royal Affair,Zentropa Entertainments,Nikolaj Arcel,21,137,7.6,37338,Alicia Vikander,Bodil Steensen-Leth,2012
+492,Lockout,EuropaCorp,James Mather,1,95,6.1,85680,Guy Pearce,Stephen St. Leger,2012
+493,ParaNorman,Focus Features,Chris Butler,15,92,7.0,79594,Kodi Smit-McPhee,Chris Butler,2012
+494,Trouble with the Curve,Warner Bros.,Robert Lorenz,5,111,6.8,51704,Clint Eastwood,Randy Brown,2012
+495,Frances Ha,RT Features,Noah Baumbach,10,86,7.4,50014,Greta Gerwig,Noah Baumbach,2012
+496,One for the Money,Lakeshore Entertainment,Julie Anne Robinson,1,91,5.3,36211,Katherine Heigl,Stacy Sherman,2012
+497,Killing Them Softly,Plan B Entertainment,Andrew Dominik,11,97,6.2,117806,Brad Pitt,Andrew Dominik,2012
+498,Ice Age: Continental Drift,Blue Sky Studios,Steve Martino,15,88,6.6,158545,Ray Romano,Michael Berg,2012
+499,Here Comes the Boom,Columbia Pictures,Frank Coraci,3,105,6.4,77895,Kevin James,Allan Loeb,2012
+500,Red Lights,Millennium Films,Rodrigo Cort s,12,114,6.2,51697,Sigourney Weaver,Rodrigo Cort s,2012
+501,Piranha 3DD,Dimension Films,John Gulager,10,83,3.8,34111,Danielle Panabaker,Patrick Melton,2012
+502,Safe,IM Global,Boaz Yakin,2,94,6.5,89887,Jason Statham,Boaz Yakin,2012
+503,Act of Valor,Relativity Media,Mike McCoy,2,110,6.5,60703,Alex Veadov,Kurt Johnstad,2012
+504,The Lords of Salem,Alliance,Rob Zombie,17,101,5.1,22611,Sheri Moon Zombie,Rob Zombie,2012
+505,The ABCs of Death,Magnet Releasing,Kaare Andrews,20,129,4.7,15544,Ingrid Bols  Berdal,Ant Timpson,2012
+506,The Three Stooges,Twentieth Century Fox Film Corporation,Bobby Farrelly,8,92,5.1,26808,Sean Hayes,Mike Cerrone,2012
+507,Stolen,Millennium Films,Simon West,2,96,5.5,39133,Nicolas Cage,David Guggenheim,2012
+508,"Pasi n, un asesinato perfecto",SBS Productions,Brian De Palma,42,102,5.3,18303,Rachel McAdams,Brian De Palma,2012
+509,Contraband,Universal Pictures,Baltasar Korm kur,2,109,6.5,106160,Mark Wahlberg,Aaron Guzikowski,2012
+510,The Paperboy,Millennium Films,Lee Daniels,12,107,5.8,30992,Matthew McConaughey,Peter Dexter,2012
+511,Wanderlust,A Hot Dog,David Wain,10,98,5.6,65388,Jennifer Aniston,David Wain,2012
+512,Amour,Les Films du Losange,Michael Haneke,5,127,7.9,77023,Jean-Louis Trintignant,Michael Haneke,2012
+513,The Possession,Ghost House Pictures,Ole Bornedal,19,92,5.9,50230,Natasha Calis,Juliet Snowden,2012
+514,Madagascar 3: Europe's Most Wanted,DreamWorks Animation,Eric Darnell,15,100,6.9,130435,Ben Stiller,Eric Darnell,2012
+515,Frankenweenie,Walt Disney Pictures,Tim Burton,15,87,7.0,81006,Winona Ryder,Leonard Ripps,2012
+516,The Watch,Twentieth Century Fox Film Corporation,Akiva Schaffer,2,102,5.7,109650,Ben Stiller,Jared Stern,2012
+517,To the Wonder,Brothers K Productions,Terrence Malick,12,112,5.9,23334,Ben Affleck,Terrence Malick,2012
+518,To Rome with Love,Medusa Film,Woody Allen,10,112,6.3,73659,Woody Allen,Woody Allen,2012
+519,Think Like a Man,Screen Gems,Tim Story,4,100,6.6,36989,Chris Brown,Keith Merryman,2012
+520,The Campaign,Warner Bros.,Jay Roach,10,85,6.1,112145,Will Ferrell,Chris Henchy,2012
+521,Byzantium,Demarest Films,Neil Jordan,12,118,6.5,34757,Saoirse Ronan,Moira Buffini,2012
+522,People Like Us,DreamWorks,Alex Kurtzman,4,100,7.1,36565,Chris Pine,Alex Kurtzman,2012
+523,Safety Not Guaranteed,FilmDistrict,Colin Trevorrow,10,100,7.0,106586,Aubrey Plaza,Derek Connolly,2012
+524,About Cherry,Enderby Entertainment,Stephen Elliott,12,98,4.8,8592,Ashley Hinshaw,Stephen Elliott,2012
+525,The Collection,LD Entertainment,Marcus Dunstan,17,82,6.1,38699,Josh Stewart,Patrick Melton,2012
+526,Step Up Revolution,Offspring Entertainment,Scott Speer,5,99,6.5,48309,Kathryn McCormick,Amanda Brody,2012
+527,Disconnect,LD Entertainment,Henry Alex Rubin,12,115,7.6,65916,Jason Bateman,Andrew Stern,2012
+528,The Odd Life of Timothy Green,Monsterfoot Productions,Peter Hedges,8,105,6.6,40006,Jennifer Garner,Peter Hedges,2012
+529,Compliance,Bad Cop Bad Cop Film Productions,Craig Zobel,21,90,6.4,26600,Ann Dowd,Craig Zobel,2012
+530,Kon-Tiki,Recorded Picture Company (RPC),Joachim R nning,9,118,7.2,38013,P l Sverre Hagen,Petter Skavlan,2012
+531,Arbitrage,Lionsgate,Nicholas Jarecki,12,107,6.6,44196,Richard Gere,Nicholas Jarecki,2012
+532,Hitchcock,Fox Searchlight Pictures,Sacha Gervasi,23,98,6.8,64089,Anthony Hopkins,John J. McLaughlin,2012
+533,Gone,Summit Entertainment,Heitor Dhalia,5,100,5.9,36704,Amanda Seyfried,Allison Burnett,2012
+534,Upside Down,Upside Down Films,Juan Solanas,5,109,6.4,62401,Jim Sturgess,Juan Solanas,2012
+535,Premium Rush,Columbia Pictures,David Koepp,1,91,6.5,100314,Joseph Gordon-Levitt,David Koepp,2012
+536,Thanks for Sharing,Class 5 Films,Stuart Blumberg,10,112,6.4,22269,Mark Ruffalo,Stuart Blumberg,2012
+537,Bullet to the Head,IM Global,Walter Hill,2,92,5.7,41677,Sylvester Stallone,Alessandro Camon,2012
+538,Liberal Arts,BCDF Pictures,Josh Radnor,4,97,6.7,31570,Josh Radnor,Josh Radnor,2012
+539,El c rculo roto,Menuet Producties,Felix van Groeningen,27,111,7.8,32959,Veerle Baetens,Johan Heldenbergh,2012
+540,Deadfall,Magnolia Pictures,Stefan Ruzowitzky,11,95,6.3,34374,Eric Bana,Zach Dean,2012
+541,Girl Most Likely,Maven Pictures,Shari Springer Berman,4,103,5.8,13157,Kristen Wiig,Michelle Morgan,2012
+542,Celeste & Jesse Forever,Envision Media Arts,Lee Toland Krieger,10,100,6.6,25966,Rashida Jones,Rashida Jones,2012
+543,Alex Cross,Block / Hanson,Rob Cohen,1,101,5.1,29622,Tyler Perry,Marc Moss,2012
+544,The Sessions,Fox Searchlight Pictures,Ben Lewin,21,95,7.2,38014,John Hawkes,Ben Lewin,2012
+545,Chernobyl Diaries,Alcon Entertainment,Bradley Parker,17,86,5.0,55671,Jesse McCartney,Oren Peli,2012
+546,Beasts of the Southern Wild,Cinereach,Benh Zeitlin,9,93,7.3,73864,Quvenzhan  Wallis,Lucy Alibar,2012
+547,Diary of a Wimpy Kid: Dog Days,Fox 2000 Pictures,David Bowers,8,94,6.3,17568,Zachary Gordon,Maya Forbes,2012
+548,The Samaritan,H2O Motion Pictures,David Weaver,11,90,5.6,8339,Samuel L. Jackson,Elan Mastai,2012
+549,The Company You Keep,Voltage Pictures,Robert Redford,12,125,6.4,27858,Robert Redford,Lem Dobbs,2012
+550,Great Expectations,BBC Films,Mike Newell,5,128,6.4,10421,Toby Irvine,David Nicholls,2012
+551,Cosm polis,Alfama Films,David Cronenberg,12,109,5.0,39663,Robert Pattinson,David Cronenberg,2012
+552,Hit and Run,Exclusive Media Group,David Palmer,2,100,6.1,30897,Dax Shepard,Dax Shepard,2012
+553,Red Tails,Twentieth Century Fox Film Corporation,Anthony Hemingway,1,100,5.9,30097,Cuba Gooding Jr.,John Ridley,2012
+554,Twice Born,Medusa Film,Sergio Castellitto,12,127,7.4,13094,Pen lope Cruz,Margaret Mazzantini,2012
+555,Stand Up Guys,Lionsgate,Fisher Stevens,10,100,6.5,47799,Al Pacino,Noah Haidle,2012
+556,Playing for Keeps,Eclectic Pictures,Gabriele Muccino,4,105,5.7,25725,Gerard Butler,Robbie Fox,2012
+557,John Dies at the End,M3 Alliance,Don Coscarelli,10,99,6.4,32210,Chase Williamson,Don Coscarelli,2012
+558,Chasing Mavericks,Fox 2000 Pictures,Michael Apted,26,100,7.2,27057,Jonny Weston,Kario Salem,2012
+559,Starlet,Cre Film,Sean Baker,27,103,6.8,5294,Dree Hemingway,Sean Baker,2012
+560,Robot & Frank,Dog Run Pictures,Jake Schreier,4,89,7.1,55671,Peter Sarsgaard,Christopher Ford,2012
+561,Big Miracle,Universal Pictures,Ken Kwapis,26,107,6.5,16132,Drew Barrymore,Jack Amiel,2012
+562,Much Ado About Nothing,Bellwether Pictures,Joss Whedon,4,109,7.2,14679,Alexis Denisof,Joss Whedon,2012
+563,Promised Land,Focus Features,Gus Van Sant,12,100,6.6,32248,Matt Damon,John Krasinski,2012
+564,No One Lives,Milk & Media,Ry hei Kitamura,17,86,6.0,14844,Luke Evans,David Cohen,2012
+565,Fun Size,Paramount Pictures,Josh Schwartz,9,86,5.4,12027,Victoria Justice,Max Werner,2012
+566,En la casa,Mandarin Films,Fran ois Ozon,10,105,7.4,24809,Fabrice Luchini,Juan Mayorga,2012
+567,Paranormal Activity 4,Paramount Pictures,Henry Joost,17,88,4.6,54344,Stephen Dunham,Christopher Landon,2012
+568,The Pirates! Band of Misfits,Columbia Pictures,Peter Lord,15,88,6.7,38842,Hugh Grant,Gideon Defoe,2012
+569,Hope Springs,Columbia Pictures,David Frankel,4,100,6.3,36501,Meryl Streep,Vanessa Taylor,2012
+570,The Devil Inside,Prototype,William Brent Bell,17,83,4.2,31857,Fernanda Andrade,William Brent Bell,2012
+571,The Bay,Automatik Entertainment,Barry Levinson,17,84,5.6,21608,Will Rogers,Michael Wallach,2012
+572,What Maisie Knew,Red Crown Productions,Scott McGehee,12,93,7.5,23509,Julianne Moore,Nancy Doyne,2012
+573,Parental Guidance,Twentieth Century Fox Film Corporation,Andy Fickman,8,105,6.1,22401,Billy Crystal,Lisa Addario,2012
+574,"For a Good Time, Call...",AdScott Pictures,Jamie Travis,10,88,6.0,14242,Ari Graynor,Lauren Miller,2012
+575,Bel Ami,Redwave Films,Declan Donnellan,12,102,5.4,16219,Robert Pattinson,Guy de Maupassant,2012
+576,Quartet,Headline Pictures,Dustin Hoffman,4,94,6.8,16807,Maggie Smith,Ronald Harwood,2012
+577,The Guilt Trip,Paramount Pictures,Anne Fletcher,4,95,5.8,32039,Barbra Streisand,Dan Fogelman,2012
+578,Universal Soldier: Day of Reckoning,Foresight Unlimited,John Hyams,2,114,5.0,17118,Jean-Claude Van Damme,John Hyams,2012
+579,A Thousand Words,DreamWorks,Brian Robbins,4,91,5.9,33384,Eddie Murphy,Steve Koren,2012
+580,The Magic of Belle Isle,Magnolia Pictures,Rob Reiner,8,109,7.0,14538,Morgan Freeman,Guy Thomas,2012
+581,Casa de mi Padre,NALA Films,Matt Piedmont,10,100,5.5,18126,Will Ferrell,Andrew Steele,2012
+582,Joyful Noise,Alcon Entertainment,Todd Graff,4,100,5.7,7044,Queen Latifah,Todd Graff,2012
+583,Vamps,Lucky Monkey Pictures,Amy Heckerling,4,92,5.1,8112,Alicia Silverstone,Amy Heckerling,2012
+584,Todo lo que necesitas es amor,Zentropa Productions,Susanne Bier,10,116,6.6,11049,Pierce Brosnan,Anders Thomas Jensen,2012
+585,The Sweeney,Vertigo Films,Nick Love,2,112,6.1,17275,Ray Winstone,Nick Love,2012
+586,Smashed,Super Crispy Entertainment,James Ponsoldt,12,81,6.8,14537,Mary Elizabeth Winstead,Susan Burke,2012
+587,The Apparition,Warner Bros.,Todd Lincoln,19,83,4.1,17172,Ashley Greene,Todd Lincoln,2012
+588,Lay the Favorite,Emmett/Furla/Oasis Films (EFO Films),Stephen Frears,10,94,4.8,9388,Rebecca Hall,D.V. DeVincentis,2012
+589,Renoir,Fid lit  Films,Gilles Bourdos,21,111,6.6,4240,Michel Bouquet,Jacques Renoir,2012
+590,Sightseers,StudioCanal,Ben Wheatley,43,88,6.5,22742,Alice Lowe,Alice Lowe,2012
+591,The Angels' Share,Entertainment One,Ken Loach,32,101,7.0,19767,Paul Brannigan,Paul Laverty,2012
+592,Kahaani,Boundscript,Sujoy Ghosh,27,122,8.2,45452,Vidya Balan,Sujoy Ghosh,2012
+593,If I Were You,Paragraph Pictures,Joan Carr-Wiggin,10,115,7.0,1410,Marcia Gay Harden,Joan Carr-Wiggin,2012
+594,Lore,Rohfilm,Cate Shortland,27,109,7.1,12257,Saskia Rosendahl,Cate Shortland,2012
+595,Shadow Dancer,BBC Films,James Marsh,12,101,6.2,10685,Clive Owen,Tom Bradby,2012
+596,Into the White,Zentropa International Norway,Petter N ss,2,104,7.2,16609,Florian Lukas,Ole Meldgaard,2012
+597,Madea's Witness Protection,"Tyler Perry Company, The",Tyler Perry,4,100,4.9,7957,Tyler Perry,Tyler Perry,2012
+598,Ginger & Rosa,Adventure Pictures,Sally Potter,5,90,6.3,8755,Elle Fanning,Sally Potter,2012
+599,The Reluctant Fundamentalist,Cine Mosaic,Mira Nair,12,130,6.9,11537,Riz Ahmed,Javed Akhtar,2012
+600,La bicicleta verde,Razor Film Produktion GmbH,Haifaa Al-Mansour,8,98,7.6,14903,Waad Mohammed,Haifaa Al-Mansour,2012
+601,[REC] 3: Genesis,Filmax,Paco Plaza,17,80,5.0,28103,Leticia Dolera,Luiso Berdejo,2012
+602,At Any Price,Black Bear Pictures,Ramin Bahrani,12,105,5.7,6237,Dennis Quaid,Ramin Bahrani,2012
+603,Talaash,Aamir Khan Productions,Reema Kagti,38,140,7.3,32323,Aamir Khan,Farhan Akhtar,2012
+604,Dracula 3D,Enrique Cerezo Producciones Cinematogr ficas S.A.,Dario Argento,37,110,3.6,3321,Thomas Kretschmann,Dario Argento,2012
+605,Being Flynn,Focus Features,Paul Weitz,12,100,6.4,14873,Paul Dano,Paul Weitz,2012
+606,ATM,Gold Circle Films,David Brooks,17,90,4.7,20140,Alice Eve,Chris Sparling,2012
+607,No,Participant Media,Pablo Larra n,12,118,7.4,19935,Gael Garc a Bernal,Pedro Peirano,2012
+608,Not Fade Away,Chase Films,David Chase,12,100,6.0,3860,John Magaro,David Chase,2012
+609,Save the Date,Gilbert Films,Michael Mohan,10,97,5.8,6241,Lizzy Caplan,Jeffrey Brown,2012
+610,English Vinglish,Curbside Films,Gauri Shinde,20,134,7.9,25931,Sridevi,Gauri Shinde,2012
+611,Tim and Eric's Billion Dollar Movie,2929 Productions,Tim Heidecker,10,93,5.3,8478,Tim Heidecker,Tim Heidecker,2012
+612,Aftershock,Sobras International Pictures,Nicol s L pez,2,89,4.8,9333,Eli Roth,Nicol s L pez,2012
+613,"Farewell, My Queen",GMT Productions,Beno t Jacquot,12,100,6.3,6728,L a Seydoux,Beno t Jacquot,2012
+614,Struck by Lightning,Permut Presentations,Brian Dannelly,20,90,6.3,13513,Chris Colfer,Chris Colfer,2012
+615,A Hijacking,Nordisk Film,Tobias Lindholm,12,103,7.2,13530,Pilou Asb k,Tobias Lindholm,2012
+616,Hyde Park on Hudson,Daybreak Pictures,Roger Michell,21,94,5.9,9985,Bill Murray,Richard Nelson,2012
+617,Cocktail,Cocktail Film,Homi Adajania,20,146,6.2,10931,Saif Ali Khan,Imtiaz Ali,2012
+618,A Late Quartet,Opening Night Productions,Yaron Zilberman,12,105,7.1,12008,Philip Seymour Hoffman,Seth Grossman,2012
+619,The Wolf of Wall Street,Red Granite Pictures,Martin Scorsese,21,180,8.2,895552,Leonardo DiCaprio,Terence Winter,2013
+620,The Conjuring,New Line Cinema,James Wan,17,112,7.5,342870,Patrick Wilson,Chad Hayes,2013
+621,Prisoners,Alcon Entertainment,Denis Villeneuve,11,153,8.1,449489,Hugh Jackman,Aaron Guzikowski,2013
+622,Frozen,Walt Disney Animation Studios,Chris Buck,15,102,7.5,464149,Kristen Bell,Jennifer Lee,2013
+623,Now You See Me,Summit Entertainment,Louis Leterrier,7,115,7.3,505432,Jesse Eisenberg,Ed Solomon,2013
+624,Mam ,Universal Pictures,Andy Muschietti,19,100,6.2,146508,Jessica Chastain,Andy Muschietti,2013
+625,Her,Annapurna Pictures,Spike Jonze,12,126,8.0,404796,Joaquin Phoenix,Spike Jonze,2013
+626,Man of Steel,Warner Bros.,Zack Snyder,1,143,7.1,590734,Henry Cavill,David S. Goyer,2013
+627,We're the Millers,New Line Cinema,Rawson Marshall Thurber,10,110,7.0,342500,Jason Sudeikis,Bob Fisher,2013
+628,El gran Gatsby,Warner Bros.,Baz Luhrmann,5,143,7.3,394723,Leonardo DiCaprio,Baz Luhrmann,2013
+629,Blue Is the Warmest Color,Quat'sous Films,Abdellatif Kechiche,34,180,7.8,107119,L a Seydoux,Abdellatif Kechiche,2013
+630,Ninfoman a: primera parte,Zentropa Entertainments,Lars von Trier,27,117,7.0,93710,Charlotte Gainsbourg,Lars von Trier,2013
+631,Pacific Rim,Warner Bros.,Guillermo del Toro,1,131,7.0,407588,Idris Elba,Travis Beacham,2013
+632,Enemigos id nticos,Path  International,Denis Villeneuve,42,91,6.9,117920,Jake Gyllenhaal,Jos  Saramago,2013
+633,The Hunger Games: Catching Fire,Color Force,Francis Lawrence,1,146,7.6,535963,Jennifer Lawrence,Simon Beaufoy,2013
+634,American Hustle,Columbia Pictures,David O. Russell,11,138,7.3,386428,Christian Bale,Eric Warren Singer,2013
+635,Gravity,Warner Bros.,Alfonso Cuar n,5,91,7.8,638007,Sandra Bullock,Alfonso Cuar n,2013
+636,12 Years a Slave,Regency Enterprises,Steve McQueen,21,134,8.1,503763,Chiwetel Ejiofor,John Ridley,2013
+637,Star Trek Into Darkness,Paramount Pictures,J.J. Abrams,1,132,7.8,423966,Chris Pine,Roberto Orci,2013
+638,Iron Man 3,Marvel Studios,Shane Black,1,130,7.2,605330,Robert Downey Jr.,Drew Pearce,2013
+639,Olympus Has Fallen,Millennium Films,Antoine Fuqua,2,119,6.5,218879,Gerard Butler,Creighton Rothenberger,2013
+640,Oblivion,Universal Pictures,Joseph Kosinski,1,124,7.0,418811,Tom Cruise,Karl Gajdusek,2013
+641,Dallas Buyers Club,Truth Entertainment (II),Jean-Marc Vall e,21,117,8.0,362192,Matthew McConaughey,Craig Borten,2013
+642,About Time,Translux,Richard Curtis,10,123,7.8,228554,Domhnall Gleeson,Richard Curtis,2013
+643,World War Z,Paramount Pictures,Marc Forster,1,116,7.0,507319,Brad Pitt,Matthew Michael Carnahan,2013
+644,Gangster Squad,Warner Bros.,Ruben Fleischer,2,113,6.7,184266,Sean Penn,Will Beall,2013
+645,Lone Survivor,Film 44,Peter Berg,2,121,7.5,224829,Mark Wahlberg,Peter Berg,2013
+646,Carrie,Metro-Goldwyn-Mayer (MGM),Kimberly Peirce,12,100,5.9,115826,Chlo  Grace Moretz,Lawrence D. Cohen,2013
+647,Thor: The Dark World,Marvel Studios,Alan Taylor,1,112,7.0,456007,Chris Hemsworth,Christopher Yost,2013
+648,Rush,Exclusive Media Group,Ron Howard,2,123,8.1,349811,Daniel Br hl,Peter Morgan,2013
+649,This Is the End,Columbia Pictures,Evan Goldberg,10,107,6.6,334845,James Franco,Seth Rogen,2013
+650,El expreso del miedo,SnowPiercer,Joon-ho Bong,2,126,7.0,207368,Chris Evans,Joon-ho Bong,2013
+651,La noche de la expiaci n,Universal Pictures,James DeMonaco,17,85,5.7,159252,Ethan Hawke,James DeMonaco,2013
+652,Fast & Furious 6,Universal Pictures,Justin Lin,1,130,7.1,324918,Vin Diesel,Chris Morgan,2013
+653,The Green Inferno,Worldview Entertainment,Eli Roth,6,100,5.3,28341,Lorenza Izzo,Guillermo Amoedo,2013
+654,Grown Ups 2,Columbia Pictures,Dennis Dugan,4,101,5.4,117428,Adam Sandler,Fred Wolf,2013
+655,Kick-Ass 2,Universal Pictures,Jeff Wadlow,2,103,6.6,219877,Aaron Taylor-Johnson,Jeff Wadlow,2013
+656,The Hobbit: The Desolation of Smaug,Metro-Goldwyn-Mayer (MGM),Peter Jackson,9,161,7.9,524571,Ian McKellen,Fran Walsh,2013
+657,Beautiful Creatures,Alcon Entertainment,Richard LaGravenese,5,124,6.2,73570,Alice Englert,Richard LaGravenese,2013
+658,The Counsellor,Fox 2000 Pictures,Ridley Scott,11,117,5.3,86494,Michael Fassbender,Cormac McCarthy,2013
+659,Evil Dead,TriStar Pictures,Fede Alvarez,25,91,6.5,135944,Jane Levy,Fede Alvarez,2013
+660,The Secret Life of Walter Mitty,Twentieth Century Fox Film Corporation,Ben Stiller,16,114,7.3,255109,Ben Stiller,Steve Conrad,2013
+661,Elysium,TriStar Pictures,Neill Blomkamp,2,109,6.6,366674,Matt Damon,Neill Blomkamp,2013
+662,The World's End,Universal Pictures,Edgar Wright,2,109,7.0,207634,Simon Pegg,Simon Pegg,2013
+663,The Heat,Twentieth Century Fox Film Corporation,Paul Feig,2,117,6.6,142704,Sandra Bullock,Katie Dippold,2013
+664,The Family,EuropaCorp,Luc Besson,10,111,6.3,95229,Robert De Niro,Luc Besson,2013
+665,Under the Skin,Film4,Jonathan Glazer,12,108,6.3,98496,Scarlett Johansson,Walter Campbell,2013
+666,Despicable Me 2,Universal Pictures,Pierre Coffin,15,98,7.4,314045,Steve Carell,Cinco Paul,2013
+667,Don Jon,Voltage Pictures,Joseph Gordon-Levitt,10,90,6.6,203473,Joseph Gordon-Levitt,Joseph Gordon-Levitt,2013
+668,The Mortal Instruments: City of Bones,Constantin Film,Harald Zwart,1,130,5.9,114481,Lily Collins,Jessica Postigo,2013
+669,Old Boy,Good Universe,Spike Lee,2,104,5.8,56204,Josh Brolin,Garon Tsuchiya,2013
+670,Hansel y Gretel: Cazadores de brujas,Paramount Pictures,Tommy Wirkola,2,88,6.1,170882,Jeremy Renner,Tommy Wirkola,2013
+671,Safe Haven,Relativity Media,Lasse Hallstr m,5,115,6.7,87269,Julianne Hough,Dana Stevens,2013
+672,G.I. Joe: Retaliation,Paramount Pictures,Jon M. Chu,1,110,5.8,154740,Dwayne Johnson,Rhett Reese,2013
+673,Movie 43,Relativity Media,Elizabeth Banks,10,94,4.3,85609,Emma Stone,Rocky Russo,2013
+674,Ninfoman a: segunda parte,Zentropa Entertainments,Lars von Trier,27,123,6.7,68336,Charlotte Gainsbourg,Lars von Trier,2013
+675,Escape Plan,Summit Entertainment,Mikael H fstr m,2,115,6.7,192466,Sylvester Stallone,Miles Chapman,2013
+676,Ender's Game,OddLot Entertainment,Gavin Hood,1,114,6.7,197592,Harrison Ford,Gavin Hood,2013
+677,Out of the Furnace,Appian Way,Scott Cooper,11,116,6.8,90855,Christian Bale,Brad Ingelsby,2013
+678,Oculus,Relativity Media,Mike Flanagan,17,104,6.5,95687,Karen Gillan,Mike Flanagan,2013
+679,Pain & Gain,Paramount Pictures,Michael Bay,2,129,6.5,172482,Mark Wahlberg,Christopher Markus,2013
+680,Stoker,Fox Searchlight Pictures,Chan-wook Park,12,99,6.8,90922,Mia Wasikowska,Wentworth Miller,2013
+681,The Croods,DreamWorks Animation,Kirk De Micco,15,98,7.2,163313,Nicolas Cage,Chris Sanders,2013
+682,The Last Stand,Di Bonaventura Pictures,Jee-woon Kim,2,107,6.4,120452,Arnold Schwarzenegger,Andrew Knauer,2013
+683,Coherence,Bellanova Films,James Ward Byrkit,44,89,7.2,71677,Emily Baldoni,James Ward Byrkit,2013
+684,The Wolverine,Twentieth Century Fox Film Corporation,James Mangold,1,126,6.7,364907,Hugh Jackman,Mark Bomback,2013
+685,Warm Bodies,Summit Entertainment,Jonathan Levine,4,98,6.9,196631,Nicholas Hoult,Jonathan Levine,2013
+686,Texas Chainsaw 3D,Lionsgate,John Luessenhop,17,92,4.8,38083,Alexandra Daddario,Adam Marcus,2013
+687,Captain Phillips,Scott Rudin Productions,Paul Greengrass,23,134,7.8,354410,Tom Hanks,Billy Ray,2013
+688,The Spectacular Now,Andrew Lauren Productions (ALP),James Ponsoldt,10,95,7.1,119642,Miles Teller,Scott Neustadter,2013
+689,The Hangover Part III,Green Hat Films,Todd Phillips,10,100,5.9,245488,Bradley Cooper,Todd Phillips,2013
+690,The Internship,Twentieth Century Fox Film Corporation,Shawn Levy,4,119,6.3,169189,Vince Vaughn,Vince Vaughn,2013
+691,Horns,Red Granite Pictures,Alexandre Aja,12,120,6.5,63156,Daniel Radcliffe,Keith Bunin,2013
+692,The Lone Ranger,Walt Disney Pictures,Gore Verbinski,1,150,6.5,194951,Johnny Depp,Justin Haythe,2013
+693,Oz the Great and Powerful,Walt Disney Pictures,Sam Raimi,16,130,6.3,183680,James Franco,Mitchell Kapner,2013
+694,Adore,Gaumont,Anne Fontaine,12,100,6.2,26214,Naomi Watts,Anne Fontaine,2013
+695,Monsters University,Walt Disney Pictures,Dan Scanlon,24,104,7.3,258992,Billy Crystal,Dan Scanlon,2013
+696,S lo Dios perdona,Space Rocket Nation,Nicolas Winding Refn,11,90,5.7,91897,Ryan Gosling,Nicolas Winding Refn,2013
+697,White House Down,Columbia Pictures,Roland Emmerich,1,131,6.4,176922,Channing Tatum,James Vanderbilt,2013
+698,What If,No Trace Camping,Michael Dowse,4,98,6.8,57422,Daniel Radcliffe,Elan Mastai,2013
+699,The Best Offer,Paco Cinematografica,Giuseppe Tornatore,11,131,7.8,81409,Geoffrey Rush,Giuseppe Tornatore,2013
+700,Insidious: Chapter 2,FilmDistrict,James Wan,19,106,6.6,123320,Patrick Wilson,Leigh Whannell,2013
+701,Side Effects,Endgame Entertainment,Steven Soderbergh,11,106,7.1,157546,Rooney Mara,Scott Z. Burns,2013
+702,Percy Jackson: Sea of Monsters,Fox 2000 Pictures,Thor Freudenthal,16,106,5.9,93908,Logan Lerman,Marc Guggenheim,2013
+703,Locke,IM Global,Steven Knight,12,85,7.1,104599,Tom Hardy,Steven Knight,2013
+704,RED 2,Summit Entertainment,Dean Parisot,1,116,6.7,136471,Bruce Willis,Jon Hoeber,2013
+705,Begin Again,Exclusive Media Group,John Carney,10,104,7.4,115851,Keira Knightley,John Carney,2013
+706,Riddick,Entertainment One,David Twohy,2,119,6.4,134609,Vin Diesel,David Twohy,2013
+707,The Host,Chockstone Pictures,Andrew Niccol,1,125,5.9,98678,Saoirse Ronan,Andrew Niccol,2013
+708,Filth,Steel Mill Pictures,Jon S. Baird,10,97,7.1,84261,James McAvoy,Jon S. Baird,2013
+709,42,Warner Bros.,Brian Helgeland,23,128,7.5,71006,Chadwick Boseman,Brian Helgeland,2013
+710,A Good Day to Die Hard,Twentieth Century Fox Film Corporation,John Moore,2,98,5.3,175817,Bruce Willis,Skip Woods,2013
+711,After Earth,Columbia Pictures,M. Night Shyamalan,1,100,4.9,169422,Jaden Smith,Gary Whitta,2013
+712,The Way Way Back,Sycamore Pictures,Nat Faxon,4,103,7.4,124197,Steve Carell,Nat Faxon,2013
+713,47 Ronin,H2F Entertainment,Carl Rinsch,1,119,6.3,125778,Keanu Reeves,Chris Morgan,2013
+714,Blue Jasmine,Gravier Productions,Woody Allen,5,98,7.3,164208,Cate Blanchett,Woody Allen,2013
+715,Lee Daniels' The Butler,Follow Through Productions,Lee Daniels,23,132,7.2,94884,Forest Whitaker,Danny Strong,2013
+716,Homefront,Open Road Films (II),Gary Fleder,2,100,6.5,90430,Jason Statham,Sylvester Stallone,2013
+717,August: Osage County,The Weinstein Company,John Wells,12,121,7.2,73438,Meryl Streep,Tracy Letts,2013
+718,Jack the Giant Slayer,New Line Cinema,Bryan Singer,9,114,6.3,113861,Nicholas Hoult,Darren Lemke,2013
+719,R.I.P.D.,Universal Pictures,Robert Schwentke,1,100,5.6,99230,Ryan Reynolds,Phil Hay,2013
+720,21 & Over,Relativity Media,Jon Lucas,10,93,5.9,64737,Miles Teller,Jon Lucas,2013
+721,Dead Man Down,FilmDistrict,Niels Arden Oplev,2,118,6.5,57854,Colin Farrell,J.H. Wyman,2013
+722,Inside Llewyn Davis,CBS Films,Ethan Coen,12,104,7.5,109079,Oscar Isaac,Joel Coen,2013
+723,The Great Beauty,Indigo Film,Paolo Sorrentino,27,141,7.8,63499,Toni Servillo,Paolo Sorrentino,2013
+724,Machete Kills,AR Films,Robert Rodriguez,2,107,5.6,64085,Danny Trejo,Kyle Ward,2013
+725,S lo los amantes sobreviven,Recorded Picture Company (RPC),Jim Jarmusch,10,123,7.3,70934,Tilda Swinton,Jim Jarmusch,2013
+726,Saving Mr. Banks,Walt Disney Pictures,John Lee Hancock,23,125,7.5,128240,Emma Thompson,Kelly Marcel,2013
+727,Identity Thief,Aggregate Films,Seth Gordon,10,111,5.7,105070,Jason Bateman,Craig Mazin,2013
+728,Trance,Path ,Danny Boyle,11,101,7.0,99164,James McAvoy,Joe Ahearne,2013
+729,2 Guns,Universal Pictures,Baltasar Korm kur,2,109,6.7,168840,Denzel Washington,Blake Masters,2013
+730,Young & Beautiful,Mandarin Films,Fran ois Ozon,27,95,6.8,25415,Marine Vacth,Fran ois Ozon,2013
+731,I Give It a Year,StudioCanal,Dan Mazer,10,97,5.7,31956,Rose Byrne,Dan Mazer,2013
+732,Jobs,Open Road Films (II),Joshua Michael Stern,23,128,5.9,83258,Ashton Kutcher,Matt Whiteley,2013
+733,Before Midnight,Faliro House Productions,Richard Linklater,12,109,7.9,108281,Ethan Hawke,Richard Linklater,2013
+734,Snitch,Exclusive Media Group,Ric Roman Waugh,1,112,6.5,69553,Dwayne Johnson,Justin Haythe,2013
+735,Lovelace,Millennium Films,Rob Epstein,21,93,6.2,33357,Amanda Seyfried,Andy Bellin,2013
+736,The Bling Ring,American Zoetrope,Sofia Coppola,21,90,5.6,72810,Katie Chang,Sofia Coppola,2013
+737,The Big Wedding,Two Ton Films,Justin Zackham,10,100,5.6,40708,Robert De Niro,Justin Zackham,2013
+738,Parker,Incentive Filmed Entertainment,Taylor Hackford,2,118,6.2,97771,Jason Statham,John J. McLaughlin,2013
+739,The Book Thief,Fox 2000 Pictures,Brian Percival,5,131,7.6,108953,Sophie N lisse,Markus Zusak,2013
+740,Anchorman 2: The Legend Continues,Paramount Pictures,Adam McKay,4,119,6.3,142452,Will Ferrell,Will Ferrell,2013
+741,The Smurfs 2,Columbia Pictures,Raja Gosnell,15,105,5.4,30631,Neil Patrick Harris,J. David Stem,2013
+742,The Call,TriStar Pictures,Brad Anderson,11,100,6.7,95726,Halle Berry,Richard D'Ovidio,2013
+743,Blue Ruin,The Lab of Madness,Jeremy Saulnier,11,90,7.1,51447,Macon Blair,Jeremy Saulnier,2013
+744,Romeo & Juliet,Amber Entertainment,Carlo Carlei,5,113,5.8,9141,Hailee Steinfeld,Julian Fellowes,2013
+745,I Spit on Your Grave 2,Cinetel Films,Steven R. Monroe,11,106,5.7,21070,Jemma Dallender,Neil Elman,2013
+746,The Incredible Burt Wonderstone,New Line Cinema,Don Scardino,9,100,5.9,63722,Steve Carell,Jonathan Goldstein,2013
+747,Short Term 12,Animal Kingdom,Destin Daniel Cretton,12,96,8.0,64478,Brie Larson,Destin Daniel Cretton,2013
+748,The Zero Theorem,Voltage Pictures,Terry Gilliam,10,107,6.1,38378,Christoph Waltz,Pat Rushin,2013
+749,The Kings of Summer,Big Beach Films,Jordan Vogt-Roberts,6,95,7.2,67276,Nick Robinson,Chris Galletta,2013
+750,Last Vegas,CBS Films,Jon Turteltaub,4,105,6.6,114125,Robert De Niro,Dan Fogelman,2013
+751,Drinking Buddies,Burn Later Productions,Joe Swanberg,10,90,6.1,49646,Olivia Wilde,Joe Swanberg,2013
+752,Palo Alto,RabbitBandini Productions,Gia Coppola,12,100,6.3,22964,Emma Roberts,Gia Coppola,2013
+753,Belle,DJ Films,Amma Asante,26,100,7.4,23053,Gugu Mbatha-Raw,Misan Sagay,2013
+754,Kill Your Darlings,Killer Films,John Krokidas,21,104,6.5,29273,Daniel Radcliffe,Austin Bunn,2013
+755,The Double,Alcove Entertainment,Richard Ayoade,10,93,6.5,39922,Jesse Eisenberg,Fyodor Dostoevsky,2013
+756,Contracted,BoulderLight Pictures,Eric England,27,84,5.3,11798,Najarra Townsend,Eric England,2013
+757,Scary Movie 5,Dimension Films,Malcolm D. Lee,4,88,3.5,54324,Simon Rex,David Zucker,2013
+758,Ain't Them Bodies Saints,Sailor Bear,David Lowery,11,96,6.4,17678,Rooney Mara,David Lowery,2013
+759,Philomena,The Weinstein Company,Stephen Frears,23,98,7.6,82660,Judi Dench,Steve Coogan,2013
+760,Runner Runner,Regency Enterprises,Brad Furman,11,88,5.6,55262,Ben Affleck,Brian Koppelman,2013
+761,All Is Lost,Before The Door Pictures,J.C. Chandor,1,106,6.9,64524,Robert Redford,J.C. Chandor,2013
+762,Nebraska,Paramount Vantage,Alexander Payne,6,115,7.7,97893,Bruce Dern,Bob Nelson,2013
+763,Upstream Color,erbp,Shane Carruth,27,96,6.7,25775,Amy Seimetz,Shane Carruth,2013
+764,Enough Said,Fox Searchlight Pictures,Nicole Holofcener,4,93,7.1,52358,Julia Louis-Dreyfus,Nicole Holofcener,2013
+765,Amores infieles,Corsan,Paul Haggis,12,137,6.4,22766,Liam Neeson,Paul Haggis,2013
+766,Epic,Twentieth Century Fox Animation,Chris Wedge,15,102,6.7,90501,Amanda Seyfried,James V. Hart,2013
+767,Delivery Man,Touchstone Pictures,Ken Scott,4,105,6.4,65081,Vince Vaughn,Ken Scott,2013
+768,The To Do List,3 Arts Entertainment,Maggie Carey,10,104,5.8,32105,Aubrey Plaza,Maggie Carey,2013
+769,Europa Report,Wayfare Entertainment,Sebasti n Cordero,5,97,6.5,58171,Sharlto Copley,Philip Gelatt,2013
+770,Dark Skies,Alliance Films,Scott Stewart,19,97,6.3,61914,Keri Russell,Scott Stewart,2013
+771,Labor Day,Indian Paintbrush,Jason Reitman,5,111,6.9,35029,Kate Winslet,Jason Reitman,2013
+772,V/H/S/2,"Collective Studios, The",Simon Barrett,17,96,6.1,30156,Lawrence Michael Levine,Simon Barrett,2013
+773,Redemption,Lionsgate,Steven Knight,2,100,6.2,56365,Jason Statham,Steven Knight,2013
+774,Cloudy with a Chance of Meatballs 2,Columbia Pictures,Cody Cameron,15,95,6.4,71615,Bill Hader,Erica Rivinoja,2013
+775,The Canyons,Prettybird,Paul Schrader,12,99,3.9,9126,Lindsay Lohan,Bret Easton Ellis,2013
+776,Se levanta el viento,Studio Ghibli,Hayao Miyazaki,45,126,7.8,51601,Hideaki Anno,Hayao Miyazaki,2013
+777,The Fifth Estate,DreamWorks,Bill Condon,21,128,6.2,32623,Benedict Cumberbatch,Daniel Domscheit-Berg,2013
+778,Broken City,Emmett/Furla/Oasis Films (EFO Films),Allen Hughes,11,109,6.2,67526,Mark Wahlberg,Brian Tucker,2013
+779,The Immigrant,Worldview Entertainment,James Gray,12,120,6.6,23805,Marion Cotillard,James Gray,2013
+780,Fruitvale Station,Forest Whitaker's Significant Productions,Ryan Coogler,21,85,7.5,59913,Michael B. Jordan,Ryan Coogler,2013
+781,Un pasado imborrable,Archer Street Productions,Jonathan Teplitzky,21,116,7.1,31065,Colin Firth,Frank Cottrell Boyce,2013
+782,Paranoia,Relativity Media,Robert Luketic,5,106,5.7,30891,Liam Hemsworth,Jason Hall,2013
+783,Grudge Match,Callahan Filmworks,Peter Segal,4,113,6.4,50116,Robert De Niro,Tim Kelleher,2013
+784,Diana,Ecosse Films,Oliver Hirschbiegel,23,113,5.5,16386,Naomi Watts,Stephen Jeffreys,2013
+785,Turbo,DreamWorks Animation,David Soren,15,96,6.5,67648,Ryan Reynolds,Darren Lemke,2013
+786,Austenland,Fickle Fish Films,Jerusha Hess,4,97,6.3,16374,Keri Russell,Jerusha Hess,2013
+787,Adult World,Treehouse Pictures,Scott Coffey,10,97,6.2,14692,Emma Roberts,Andy Cochran,2013
+788,A Haunted House,Open Road Films,Michael Tiddes,10,86,5.1,37158,Marlon Wayans,Marlon Wayans,2013
+789,The Sacrament,Worldview Entertainment,Ti West,17,99,6.1,13644,Joe Swanberg,Ti West,2013
+790,How I Live Now,BFI Film Fund,Kevin Macdonald,12,101,6.5,23772,Saoirse Ronan,Meg Rosoff,2013
+791,Planes,Prana Studios,Klay Hall,15,91,5.8,37338,Carlos Alazraqui,John Lasseter,2013
+792,We Are What We Are,Belladonna Productions,Jim Mickle,12,105,5.9,16772,Bill Sage,Nick Damici,2013
+793,Bad Grandpa,Dickhouse Productions,Jeff Tremaine,10,92,6.5,81683,Johnny Knoxville,Johnny Knoxville,2013
+794,Afternoon Delight,Whitewater Films,Jill Soloway,10,98,5.8,8099,Kathryn Hahn,Jill Soloway,2013
+795,Joe,Worldview Entertainment,David Gordon Green,12,117,6.9,39431,Nicolas Cage,Gary Hawkins,2013
+796,Killing Season,Millennium Films,Mark Steven Johnson,2,91,5.4,30687,Robert De Niro,Evan Daugherty,2013
+797,Fading Gigolo,Antidote Films (I),John Turturro,10,90,6.2,20930,John Turturro,John Turturro,2013
+798,Gimme Shelter,Day Twenty- Eight Films,Ron Krauss,5,100,6.5,7082,Vanessa Hudgens,Ron Krauss,2013
+799,Starred Up,Film4,David Mackenzie,38,106,7.4,35739,Jack O'Connell,Jonathan Asser,2013
+800,Tracks,Screen Australia,John Curran,9,112,7.2,22475,Mia Wasikowska,Marion Nelson,2013
+801,In Secret,LD Entertainment,Charlie Stratton,11,107,6.1,6118,Elizabeth Olsen,Neal Bell,2013
+802,Anna,"Safran Company, The",Jorge Dorado,12,99,6.5,16817,Mark Strong,Guy Holmes,2013
+803,I'm So Excited!,"Deseo, El",Pedro Almod var,10,90,5.6,18657,Javier C mara,Pedro Almod var,2013
+804,Man of Tai Chi,China Film Group,Keanu Reeves,2,105,6.1,30477,Tiger Hu Chen,Michael G. Cooney,2013
+805,The East,Scott Free Productions,Zal Batmanglij,9,116,6.8,44425,Brit Marling,Zal Batmanglij,2013
+806,Breathe In,Indian Paintbrush,Drake Doremus,12,98,6.4,11843,Felicity Jones,Drake Doremus,2013
+807,Charlie Countryman,MediaPro Pictures,Fredrik Bond,10,103,6.4,23502,Shia LaBeouf,Matt Drake,2013
+808,Blood Ties,Les Productions du Tr sor,Guillaume Canet,11,127,6.5,16156,Clive Owen,Guillaume Canet,2013
+809,La piel de Venus,R.P. Productions,Roman Polanski,27,96,7.2,13764,Emmanuelle Seigner,David Ives,2013
+810,Knights of Badassdom,IndieVest Pictures,Joe Lynch,6,100,5.7,17169,Ryan Kwanten,Kevin Dreyfuss,2013
+811,Ida,Opus Film,Pawel Pawlikowski,5,82,7.4,40046,Agata Kulesza,Pawel Pawlikowski,2013
+812,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,NICE FLX Pictures,Felix Herngren,6,114,7.1,31110,Robert Gustafsson,Felix Herngren,2013
+813,Welcome to the Punch,Worldview Entertainment,Eran Creevy,2,99,6.1,28765,James McAvoy,Eran Creevy,2013
+814,CBGB,Unclaimed Freight Productions,Randall Miller,12,101,6.6,7038,Alan Rickman,Jody Savin,2013
+815,Dom Hemingway,Recorded Picture Company (RPC),Richard Shepard,10,93,6.2,22984,Jude Law,Richard Shepard,2013
+816,Queen,Viacom18 Motion Pictures,Vikas Bahl,43,146,8.3,48398,Kangana Ranaut,Vikas Bahl,2013
+817,The Invisible Woman,BBC Films,Ralph Fiennes,21,111,6.1,7911,Ralph Fiennes,Abi Morgan,2013
+818,Zonas h medas,Rommel Film,David Wnendt,30,109,5.8,9107,Carla Juri,Claus Falkenberg,2013
+819,Parkland,"American Film Company, The",Peter Landesman,5,93,6.3,12682,Zac Efron,Peter Landesman,2013
+820,Walking with the Enemy,Castel Film Romania,Mark Schmidt,1,124,6.0,884,Jonas Armstrong,Kenny Golde,2013
+821,Instructions Not Included,Alebrije Cine y Video,Eugenio Derbez,4,115,7.6,24412,Eugenio Derbez,Guillermo R os,2013
+822,The Lunchbox,Sikhya Entertainment,Ritesh Batra,18,104,7.8,36929,Irrfan Khan,Ritesh Batra,2013
+823,In a World...,3311 Productions,Lake Bell,10,100,6.7,27802,Lake Bell,Lake Bell,2013
+824,Concussion,93 Films,Stacie Passon,12,96,5.7,3324,Robin Weigert,Stacie Passon,2013
+825,Mandela: Long Walk to Freedom,Videovision Entertainment,Justin Chadwick,23,141,7.1,23075,Idris Elba,William Nicholson,2013
+826,The Tale of the Princess Kaguya,Studio Ghibli,Isao Takahata,15,137,8.1,23571,Chlo  Grace Moretz,Isao Takahata,2013
+827,Temptation: Confessions of a Marriage Counselor,Lionsgate,Tyler Perry,5,111,5.0,10473,Jurnee Smollett-Bell,Tyler Perry,2013
+828,The Last Days on Mars,British Film Institute (BFI),Ruairi Robinson,17,98,5.5,31095,Liev Schreiber,Sydney J. Bounds,2013
+829,Journey to the West,Bingo Movie Development,Stephen Chow,1,110,6.8,9526,Zhang Wen,Stephen Chow,2013
+830,Jimi: All Is by My Side,Darko Entertainment,John Ridley,21,118,5.7,4984,Andr  Benjamin,John Ridley,2013
+831,The Grandmaster,Block 2 Pictures,Kar-Wai Wong,1,130,6.5,26489,Tony Chiu-Wai Leung,Kar-Wai Wong,2013
+832,The Best Man Holiday,Universal Pictures,Malcolm D. Lee,10,123,6.7,12301,Monica Calhoun,Malcolm D. Lee,2013
+833,Pawn,Imprint Entertainment,David A. Armstrong,2,88,5.7,6144,Nikki Reed,Jay Anthony White,2013
+834,The Art of the Steal,The Weinstein Company,Jonathan Sobol,10,90,6.3,20439,Kurt Russell,Jonathan Sobol,2013
+835,The Congress,Bridgit Folman Film Gang,Ari Folman,46,122,6.5,14289,Robin Wright,Stanislaw Lem,2013
+836,Stalingrad,Art Pictures Studio,Fedor Bondarchuk,2,131,5.6,13238,Mariya Smolnikova,Sergey Snezhkin,2013
+837,Life of Crime,Abbolita Productions,Daniel Schechter,10,98,5.8,14145,Jennifer Aniston,Daniel Schechter,2013
+838,El pasado,Memento Films Production,Asghar Farhadi,5,130,7.8,37148,B r nice Bejo,Asghar Farhadi,2013
+839,Kingsman: The Secret Service,Twentieth Century Fox Film Corporation,Matthew Vaughn,2,129,7.7,467659,Colin Firth,Jane Goldman,2014
+840,Interstellar,Paramount Pictures,Christopher Nolan,9,169,8.6,1095553,Matthew McConaughey,Jonathan Nolan,2014
+841,Guardians of the Galaxy,Marvel Studios,James Gunn,1,121,8.1,791340,Chris Pratt,James Gunn,2014
+842,Ex Machina,Universal Pictures International (UPI),Alex Garland,12,108,7.7,355666,Alicia Vikander,Alex Garland,2014
+843,Gone Girl,Twentieth Century Fox Film Corporation,David Fincher,11,149,8.1,660194,Ben Affleck,Gillian Flynn,2014
+844,John Wick,Thunder Road Pictures,Chad Stahelski,2,101,7.3,355140,Keanu Reeves,Derek Kolstad,2014
+845,The Grand Budapest Hotel,Fox Searchlight Pictures,Wes Anderson,6,99,8.1,550331,Ralph Fiennes,Stefan Zweig,2014
+846,Whiplash,Bold Films,Damien Chazelle,12,107,8.5,503754,Miles Teller,Damien Chazelle,2014
+847,The Maze Runner,Twentieth Century Fox Film Corporation,Wes Ball,1,113,6.8,344991,Dylan O'Brien,Noah Oppenheim,2014
+848,Annabelle,New Line Cinema,John R. Leonetti,17,99,5.4,99635,Ward Horton,Gary Dauberman,2014
+849,It Follows,Northern Lights Films,David Robert Mitchell,17,100,6.9,147224,Maika Monroe,David Robert Mitchell,2014
+850,Divergent,Summit Entertainment,Neil Burger,9,139,6.7,370154,Shailene Woodley,Evan Daugherty,2014
+851,The Imitation Game,Black Bear Pictures,Morten Tyldum,23,114,8.0,547832,Benedict Cumberbatch,Graham Moore,2014
+852,Dawn of the Planet of the Apes,Chernin Entertainment,Matt Reeves,1,130,7.6,355042,Gary Oldman,Mark Bomback,2014
+853,Edge of Tomorrow,Warner Bros.,Doug Liman,1,113,7.9,486882,Tom Cruise,Christopher McQuarrie,2014
+854,The Equalizer,Columbia Pictures,Antoine Fuqua,2,132,7.2,254915,Denzel Washington,Richard Wenk,2014
+855,Transformers: Age of Extinction,Paramount Pictures,Michael Bay,1,165,5.7,263822,Mark Wahlberg,Ehren Kruger,2014
+856,22 Jump Street,Columbia Pictures,Phil Lord,2,112,7.1,288814,Channing Tatum,Michael Bacall,2014
+857,Fury,Columbia Pictures,David Ayer,2,134,7.6,341512,Brad Pitt,David Ayer,2014
+858,The Fault in Our Stars,Fox 2000 Pictures,Josh Boone,5,126,7.8,280217,Shailene Woodley,Scott Neustadter,2014
+859,Birdman or (The Unexpected Virtue of Ignorance),New Regency Pictures,Alejandro Gonz lez I  rritu,10,119,7.8,455260,Michael Keaton,Alejandro Gonz lez I  rritu,2014
+860,Nightcrawler,Bold Films,Dan Gilroy,11,118,7.9,347271,Jake Gyllenhaal,Dan Gilroy,2014
+861,X-Men: Days of Future Past,Twentieth Century Fox Film Corporation,Bryan Singer,1,132,8.0,565997,Patrick Stewart,Simon Kinberg,2014
+862,The Babadook,Screen Australia,Jennifer Kent,27,93,6.8,141407,Essie Davis,Jennifer Kent,2014
+863,American Sniper,Warner Bros.,Clint Eastwood,2,133,7.3,362949,Bradley Cooper,Jason Hall,2014
+864,Captain America: The Winter Soldier,Marvel Entertainment,Anthony Russo,1,136,7.8,559974,Chris Evans,Christopher Markus,2014
+865,The Lego Movie,Warner Bros.,Phil Lord,15,100,7.8,274608,Chris Pratt,Phil Lord,2014
+866,El payaso del mal,Cross Creek Pictures,Jon Watts,17,100,5.7,16279,Andy Powers,Christopher Ford,2014
+867,Lucy,EuropaCorp,Luc Besson,2,89,6.4,363219,Scarlett Johansson,Luc Besson,2014
+868,The Amazing Spider-Man 2,Marvel Enterprises,Marc Webb,1,142,6.7,352313,Andrew Garfield,Alex Kurtzman,2014
+869,Big Hero 6,FortyFour Studios,Don Hall,15,102,7.8,320396,Ryan Potter,Jordan Roberts,2014
+870,Maleficent,Roth Films,Robert Stromberg,3,97,7.0,275137,Angelina Jolie,Linda Woolverton,2014
+871,Noah,Paramount Pictures,Darren Aronofsky,1,138,5.8,213644,Russell Crowe,Darren Aronofsky,2014
+872,The Theory of Everything,Working Title Films,James Marsh,23,123,7.7,310187,Eddie Redmayne,Anthony McCarten,2014
+873,The Hobbit: The Battle of the Five Armies,New Line Cinema,Peter Jackson,9,144,7.4,396797,Ian McKellen,Fran Walsh,2014
+874,Hercules,Paramount Pictures,Brett Ratner,1,98,6.0,125393,Dwayne Johnson,Ryan Condal,2014
+875,Pompeya,TriStar Pictures,Paul W.S. Anderson,1,100,5.5,92503,Kit Harington,Janet Scott Batchler,2014
+876,The Hunger Games: Mockingjay - Part 1,Color Force,Francis Lawrence,1,123,6.7,341715,Jennifer Lawrence,Peter Craig,2014
+877,The Interview,Columbia Pictures,Evan Goldberg,10,112,6.6,267070,James Franco,Dan Sterling,2014
+878,The Expendables 3,Lionsgate,Patrick Hughes,1,126,6.1,141488,Sylvester Stallone,Sylvester Stallone,2014
+879,Relatos salvajes,Corner Producciones,Dami n Szifron,10,122,8.1,118272,Dar o Grandinetti,Dami n Szifron,2014
+880,El dador de recuerdos,Asis Productions,Phillip Noyce,5,97,6.5,96205,Brenton Thwaites,Michael Mitnick,2014
+881,Entrevista con unos vampiros,Unison Films,Jemaine Clement,10,86,7.6,90970,Jemaine Clement,Jemaine Clement,2014
+882,300: Rise of an Empire,Warner Bros.,Noam Murro,2,102,6.2,242932,Sullivan Stapleton,Zack Snyder,2014
+883,99 Homes,Broad Green Pictures,Ramin Bahrani,12,112,7.1,22416,Andrew Garfield,Ramin Bahrani,2014
+884,Testament of Youth,BBC Films,James Kent,23,129,7.3,19225,Alicia Vikander,Vera Brittain,2014
+885,Predestination,Screen Australia,Michael Spierig,12,97,7.5,195819,Ethan Hawke,Michael Spierig,2014
+886,The Other Woman,Twentieth Century Fox Film Corporation,Nick Cassavetes,4,109,6.0,113167,Cameron Diaz,Melissa Stack,2014
+887,Godzilla,Warner Bros.,Gareth Edwards,1,123,6.4,323734,Aaron Taylor-Johnson,Max Borenstein,2014
+888,Into the Woods,Lucamar Productions,Rob Marshall,16,125,6.0,112609,Anna Kendrick,James Lapine,2014
+889,Chef,Aldamisa Entertainment,Jon Favreau,10,114,7.3,156375,Jon Favreau,Jon Favreau,2014
+890,Exodus: Gods and Kings,Chernin Entertainment,Ridley Scott,1,150,6.0,140323,Christian Bale,Adam Cooper,2014
+891,Tal vez es para siempre,Canyon Creek Films,Christian Ditter,10,102,7.2,85099,Lily Collins,Juliette Towhidi,2014
+892,A Million Ways to Die in the West,Bluegrass Films,Seth MacFarlane,10,116,6.1,147947,Seth MacFarlane,Seth MacFarlane,2014
+893,Sin City: A Dame to Kill For,Aldamisa Entertainment,Frank Miller,11,102,6.5,126091,Mickey Rourke,Frank Miller,2014
+894,Dracula Untold,Universal Pictures,Gary Shore,1,92,6.3,152210,Luke Evans,Matt Sazama,2014
+895,Unbroken,3 Arts Entertainment,Angelina Jolie,23,137,7.2,117590,Jack O'Connell,Joel Coen,2014
+896,Seventh Son,Beijing Skywheel Entertainment Co.,Sergei Bodrov,1,102,5.5,61441,Ben Barnes,Charles Leavitt,2014
+897,Unfriended,Bazelevs Production,Levan Gabriadze,12,83,5.6,52922,Heather Sossaman,Nelson Greaves,2014
+898,B squeda implacable 3,EuropaCorp,Olivier Megaton,1,109,6.0,149069,Liam Neeson,Luc Besson,2014
+899,Blended,Gulfstream Pictures,Frank Coraci,4,117,6.5,96218,Adam Sandler,Ivan Menchell,2014
+900,The Best of Me,DiNovi Pictures,Michael Hoffman,5,118,6.7,51322,James Marsden,J. Mills Goodloe,2014
+901,Boyhood,IFC Productions,Richard Linklater,12,165,7.9,293068,Ellar Coltrane,Richard Linklater,2014
+902,Annie,Marcy Media,Will Gluck,8,118,5.3,28204,Quvenzhan  Wallis,Will Gluck,2014
+903,Sex Tape,Columbia Pictures,Jake Kasdan,10,94,5.1,92074,Jason Segel,Kate Angelo,2014
+904,Inherent Vice,Ghoulardi Film Company,Paul Thomas Anderson,10,148,6.7,72027,Joaquin Phoenix,Paul Thomas Anderson,2014
+905,Honeymoon,Fewlas Entertainment,Leigh Janiak,17,87,5.7,20262,Rose Leslie,Phil Graziadei,2014
+906,Jack Ryan: Shadow Recruit,Paramount Pictures,Kenneth Branagh,1,105,6.2,105471,Chris Pine,Adam Cozad,2014
+907,Wild,Bob Industries,Jean-Marc Vall e,6,115,7.1,98839,Reese Witherspoon,Nick Hornby,2014
+908,Tusk,SModcast Pictures,Kevin Smith,10,102,5.4,35556,Justin Long,Kevin Smith,2014
+909,Need for Speed,DreamWorks,Scott Waugh,1,132,6.5,145738,Aaron Paul,George Gatins,2014
+910,The Book of Life,Reel FX Creative Studios,Jorge R. Guti rrez,15,95,7.3,51976,Diego Luna,Jorge R. Guti rrez,2014
+911,Neighbors,Good Universe,Nicholas Stoller,10,97,6.3,242874,Seth Rogen,Andrew Jay Cohen,2014
+912,RoboCop,Metro-Goldwyn-Mayer (MGM),Jos  Padilha,1,117,6.2,193792,Joel Kinnaman,Joshua Zetumer,2014
+913,Night at the Museum: Secret of the Tomb,Twentieth Century Fox Film Corporation,Shawn Levy,16,98,6.2,78239,Ben Stiller,David Guion,2014
+914,The Drop,Big Screen Productions,Micha l R. Roskam,11,106,7.1,119833,Tom Hardy,Dennis Lehane,2014
+915,If I Stay,DiNovi Pictures,R.J. Cutler,5,107,6.8,95609,Chlo  Grace Moretz,Shauna Cross,2014
+916,How to Train Your Dragon 2,DreamWorks Animation,Dean DeBlois,15,102,7.8,243596,Jay Baruchel,Dean DeBlois,2014
+917,Before We Go,G4 Productions,Chris Evans,4,95,6.9,34243,Chris Evans,Ronald Bass,2014
+918,The Guest,HanWay Films,Adam Wingard,42,100,6.7,73747,Dan Stevens,Simon Barrett,2014
+919,Teenage Mutant Ninja Turtles,Paramount Pictures,Jonathan Liebesman,1,101,5.8,181678,Megan Fox,Josh Appelbaum,2014
+920,The Legend of Hercules,Summit Entertainment,Renny Harlin,1,100,4.2,47597,Kellan Lutz,Sean Hood,2014
+921,Vampire Academy,Angry Films,Mark Waters,1,104,5.6,45199,Zoey Deutch,Richelle Mead,2014
+922,Transcendence,Alcon Entertainment,Wally Pfister,5,119,6.3,189106,Johnny Depp,Jack Paglen,2014
+923,I Origins,Verisimilitude,Mike Cahill,12,106,7.3,90264,Michael Pitt,Mike Cahill,2014
+924,Foxcatcher,Annapurna Pictures,Bennett Miller,21,134,7.0,117034,Steve Carell,E. Max Frye,2014
+925,St. Vincent,Chernin Entertainment,Theodore Melfi,4,102,7.3,82653,Bill Murray,Theodore Melfi,2014
+926,El penthouse,Open Road Films,Erik Van Looy,42,108,6.3,40462,Karl Urban,Bart De Pauw,2014
+927,The Gambler,Paramount Pictures,Rupert Wyatt,11,111,6.0,53990,Mark Wahlberg,William Monahan,2014
+928,That Awkward Moment,Treehouse Pictures,Tom Gormican,10,94,6.2,83613,Zac Efron,Tom Gormican,2014
+929,Big Eyes,The Weinstein Company,Tim Burton,23,106,7.0,66972,Amy Adams,Scott Alexander,2014
+930,12 horas para sobrevivir,Universal Pictures,James DeMonaco,2,103,6.5,110032,Frank Grillo,James DeMonaco,2014
+931,Non-Stop,StudioCanal,Jaume Collet-Serra,1,106,7.0,216312,Liam Neeson,John W. Richardson,2014
+932,Into the Storm,Broken Road Productions,Steven Quale,1,89,5.8,57376,Richard Armitage,John Swetnam,2014
+933,The Judge,Warner Bros.,David Dobkin,11,141,7.4,150371,Robert Downey Jr.,Nick Schenk,2014
+934,Dumb and Dumber To,Universal Pictures,Bobby Farrelly,9,109,5.7,107048,Jim Carrey,Sean Anders,2014
+935,Walk of Shame,Sidney Kimmel Entertainment,Steven Brill,10,95,6.0,44493,Elizabeth Banks,Steven Brill,2014
+936,"As Above, So Below",Legendary Entertainment,John Erick Dowdle,17,93,6.2,57343,Perdita Weeks,John Erick Dowdle,2014
+937,Let's Be Cops,Genre Films,Luke Greenfield,10,104,6.5,114845,Jake Johnson,Luke Greenfield,2014
+938,Horrible Bosses 2,BenderSpink,Sean Anders,10,108,6.3,129349,Jason Bateman,Sean Anders,2014
+939,A Most Violent Year,Before The Door Pictures,J.C. Chandor,11,125,7.0,52607,Oscar Isaac,J.C. Chandor,2014
+940,This Is Where I Leave You,21 Laps Entertainment,Shawn Levy,10,103,6.6,59852,Jason Bateman,Jonathan Tropper,2014
+941,Deliver Us from Evil,Screen Gems,Scott Derrickson,17,118,6.2,58772,Eric Bana,Scott Derrickson,2014
+942,Winter's Tale,Village Roadshow Pictures,Akiva Goldsman,5,118,6.2,45005,Colin Farrell,Akiva Goldsman,2014
+943,Before I Go to Sleep,Scott Free Productions,Rowan Joffe,12,92,6.3,56415,Nicole Kidman,Rowan Joffe,2014
+944,Endless Love,Bluegrass Films,Shana Feste,5,104,6.3,34658,Gabriella Wilde,Shana Feste,2014
+945,Magic in the Moonlight,Gravier Productions,Woody Allen,4,97,6.6,53136,Colin Firth,Woody Allen,2014
+946,Serena,2929 Productions,Susanne Bier,12,109,5.4,20668,Bradley Cooper,Christopher Kyle,2014
+947,3 Days to Kill,EuropaCorp,McG,1,117,6.2,75138,Kevin Costner,Adi Hasak,2014
+948,The Hundred-Foot Journey,Amblin Entertainment,Lasse Hallstr m,8,122,7.3,61319,Helen Mirren,Steven Knight,2014
+949,A Walk Among the Tombstones,1984 Private Defense Contractors,Scott Frank,11,114,6.5,95753,Liam Neeson,Lawrence Block,2014
+950,Mommy,Les Films S ville,Xavier Dolan,12,139,8.1,35841,Anne Dorval,Xavier Dolan,2014
+951,A Brilliant Young Mind,BBC Films,Morgan Matthews,5,111,7.2,22615,Asa Butterfield,James Graham,2014
+952,Still Alice,Lutzus-Brown,Richard Glatzer,5,101,7.5,101773,Julianne Moore,Richard Glatzer,2014
+953,The Monuments Men,Columbia Pictures,George Clooney,5,118,6.1,109977,George Clooney,George Clooney,2014
+954,Goodnight Mommy,Ulrich Seidl Film Produktion GmbH,Severin Fiala,17,99,6.7,29190,Lukas Schwarz,Veronika Franz,2014
+955,A Little Chaos,BBC Films,Alan Rickman,12,112,6.5,15294,Kate Winslet,Jeremy Brock,2014
+956,The Signal,Automatik Entertainment,William Eubank,41,97,6.1,53291,Brenton Thwaites,Carlyle Eubank,2014
+957,Paddington,StudioCanal,Paul King,15,95,7.2,56480,Hugh Bonneville,Paul King,2014
+958,Cake,Cinelou Films,Daniel Barnz,12,102,6.4,30337,Jennifer Aniston,Patrick Tobin,2014
+959,The Raid 2,Pt. Merantau Films,Gareth Evans,2,150,8.0,93993,Iko Uwais,Gareth Evans,2014
+960,Ouija,Universal Pictures,Stiles White,19,89,4.5,39099,Olivia Cooke,Juliet Snowden,2014
+961,"I, Frankenstein",Hopscotch Features,Stuart Beattie,1,92,5.1,70705,Aaron Eckhart,Stuart Beattie,2014
+962,Selma,Path ,Ava DuVernay,23,128,7.5,69760,David Oyelowo,Paul Webb,2014
+963,Enredos en Broadway,Lagniappe Films,Peter Bogdanovich,10,93,6.1,19802,Imogen Poots,Peter Bogdanovich,2014
+964,Frank,Element Pictures,Lenny Abrahamson,10,95,7.0,62768,Michael Fassbender,Jon Ronson,2014
+965,Fuerza mayor,Beofilm,Ruben  stlund,10,120,7.3,34232,Johannes Kuhnke,Ruben  stlund,2014
+966,The Homesman,EuropaCorp,Tommy Lee Jones,12,122,6.6,24489,Tommy Lee Jones,Tommy Lee Jones,2014
+967,Pawn Sacrifice,Gail Katz Productions,Edward Zwick,23,115,7.0,29268,Tobey Maguire,Steven Knight,2014
+968,The Two Faces of January,Timnick Films,Hossein Amini,35,96,6.2,24842,Viggo Mortensen,Hossein Amini,2014
+969,Left Behind,Stoney Lake Entertainment,Vic Armstrong,1,110,3.1,28203,Nicolas Cage,Jerry B. Jenkins,2014
+970,Zombeavers,Armory Films,Jordan Rubin,10,77,4.8,12863,Rachel Melvin,Al Kaplan,2014
+971,Two Night Stand,Apartment Two,Max Nichols,10,86,6.4,52628,Miles Teller,Mark Hammer,2014
+972,A Most Wanted Man,Lionsgate,Anton Corbijn,11,122,6.8,62647,Philip Seymour Hoffman,Andrew Bovell,2014
+973,PK,Rajkumar Hirani Films,Rajkumar Hirani,32,153,8.2,111073,Aamir Khan,Rajkumar Hirani,2014
+974,5 to 7,Demarest Films,Victor Levin,10,95,7.1,13188,Anton Yelchin,Victor Levin,2014
+975,La salvaci n,Zentropa Entertainments,Kristian Levring,12,92,6.7,29077,Mads Mikkelsen,Anders Thomas Jensen,2014
+976,Heaven Knows What,Hardstyle,Benny Safdie,12,97,6.5,2884,Arielle Holmes,Josh Safdie,2014
+977,H ctor y el secreto de la felicidad,Egoli Tossell Film,Peter Chelsom,6,120,7.0,37553,Simon Pegg,Maria von Heland,2014
+978,Love & Mercy,River Road Entertainment,Bill Pohlad,23,121,7.4,28639,John Cusack,Oren Moverman,2014
+979,Penguins of Madagascar,DreamWorks Animation,Eric Darnell,15,92,6.7,66287,Tom McGrath,Michael Colton,2014
+980,Black Sea,Focus Features,Kevin Macdonald,6,114,6.4,28336,Jude Law,Dennis Kelly,2014
+981,Sabotage,Open Road Films (II),David Ayer,2,109,5.7,51146,Arnold Schwarzenegger,Skip Woods,2014
+982,Mapa a las estrellas,Prospero Pictures,David Cronenberg,10,111,6.2,31631,Julianne Moore,Bruce Wagner,2014
+983,Kill the Messenger,Sierra / Affinity,Michael Cuesta,21,112,7.0,36607,Jeremy Renner,Peter Landesman,2014
+984,Draft Day,Summit Entertainment,Ivan Reitman,5,110,6.8,43430,Kevin Costner,Scott Rothman,2014
+985,Leviathan,Non-Stop Productions,Andrey Zvyagintsev,12,140,7.6,36668,Aleksey Serebryakov,Oleg Negin,2014
+986,The One I Love,Duplass Brothers Productions,Charlie McDowell,12,91,7.1,27078,Mark Duplass,Justin Lader,2014
+987,"Men, Women & Children",Paramount Pictures,Jason Reitman,10,119,6.7,25383,Kaitlyn Dever,Jason Reitman,2014
+988,While We're Young,Scott Rudin Productions,Noah Baumbach,10,97,6.3,35437,Ben Stiller,Noah Baumbach,2014
+989,Cooties,SpectreVision,Jonathan Milott,10,88,5.7,17646,Elijah Wood,Leigh Whannell,2014
+990,God's Not Dead,Pure Flix Productions,Harold Cronk,18,100,4.8,34760,Shane Harper,Hunter Dennis,2014
+991,Step Up All In,Offspring Entertainment,Trish Sie,5,112,6.0,27883,Ryan Guzman,Duane Adler,2014
+992,Mr. Peabody & Sherman,Bullwinkle Studios,Rob Minkoff,15,92,6.8,52421,Ty Burrell,Jay Ward,2014
+993,Song of the Sea,Big Farm,Tomm Moore,15,93,8.1,35135,David Rawle,Will Collins,2014
+994,Fortaleza prohibida,EuropaCorp,Camille Delamarre,1,90,5.7,34795,Paul Walker,Luc Besson,2014
+995,Veronica Mars,Warner Bros. Digital Distribution,Rob Thomas,7,107,6.8,44057,Kristen Bell,Rob Thomas,2014
+996,Calvary,Fox Searchlight Pictures,John Michael McDonagh,12,102,7.4,47249,Brendan Gleeson,John Michael McDonagh,2014
+997,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Walt Disney Pictures,Miguel Arteta,8,81,6.2,33226,Steve Carell,Rob Lieber,2014
+998,Promesa de Vida,Fear of God Films,Russell Crowe,12,111,7.1,60858,Russell Crowe,Andrew Knight,2014
+999,The November Man,Relativity Media,Roger Donaldson,2,108,6.3,54875,Pierce Brosnan,Michael Finch,2014
+1000,Good Kill,Voltage Pictures,Andrew Niccol,12,102,6.4,18732,Ethan Hawke,Andrew Niccol,2014
+1001,Lost River,Bold Films,Ryan Gosling,12,95,5.8,13654,Christina Hendricks,Ryan Gosling,2014
+1002,Locos por las nueces,Gulfstream Pictures,Peter Lepeniotis,15,85,5.8,21922,Will Arnett,Lorne Cameron,2014
+1003,Escobar,Chapter 2,Andrea Di Stefano,11,120,6.6,16839,Benicio Del Toro,Andrea Di Stefano,2014
+1004,'71,Crab Apple Films,Yann Demange,2,99,7.2,40959,Jack O'Connell,Gregory Burke,2014
+1005,Una Se al En La Tormenta,Desperate Pictures,Gregg Araki,12,91,6.4,23303,Shailene Woodley,Gregg Araki,2014
+1006,Addicted,Codeblack Entertainment,Bille Woodruff,12,106,5.2,6772,Sharon Leal,Christina Welsh,2014
+1007,Rio 2,Twentieth Century Fox Animation,Carlos Saldanha,24,101,6.3,64550,Jesse Eisenberg,Don Rhymer,2014
+1008,Jersey Boys,Four Seasons Partnership,Clint Eastwood,21,134,6.8,27637,John Lloyd Young,Marshall Brickman,2014
+1009,Wish I Was Here,Worldview Entertainment,Zach Braff,10,106,6.7,32275,Zach Braff,Adam J. Braff,2014
+1010,Dear White People,Code Red,Justin Simien,10,108,6.2,22518,Tyler James Williams,Justin Simien,2014
+1011,Tammy,Gary Sanchez Productions,Ben Falcone,10,97,4.9,40108,Melissa McCarthy,Melissa McCarthy,2014
+1012,Las nubes de Mar a,CG Cin ma,Olivier Assayas,12,124,6.7,21703,Juliette Binoche,Olivier Assayas,2014
+1013,Saving Christmas,Camfam Studios,Darren Doane,8,79,1.5,13059,Kirk Cameron,Darren Doane,2014
+1014,The Last Five Years,Lucky Monkey Pictures,Richard LaGravenese,4,94,5.9,7557,Anna Kendrick,Jason Robert Brown,2014
+1015,Ride Along,Cube Vision,Tim Story,1,99,6.2,84906,Ice Cube,Greg Coolidge,2014
+1016,"Two Days, One Night",Les Films du Fleuve,Jean-Pierre Dardenne,5,95,7.4,37159,Marion Cotillard,Jean-Pierre Dardenne,2014
+1017,Laggies,Anonymous Content,Lynn Shelton,10,99,6.4,34852,Keira Knightley,Andrea Seigel,2014
+1018,The Boxtrolls,Laika Entertainment,Graham Annable,15,96,6.8,46486,Ben Kingsley,Irena Brignull,2014
+1019,Life After Beth,Abbolita Productions,Jeff Baena,10,89,5.6,15603,Aubrey Plaza,Jeff Baena,2014
+1020,Beyond the Lights,Black Entertainment Television (BET),Gina Prince-Bythewood,5,116,6.9,12718,Gugu Mbatha-Raw,Gina Prince-Bythewood,2014
+1021,The Little Death,Head Gear Films,Josh Lawson,20,96,7.1,21390,Bojana Novakovic,Josh Lawson,2014
+1022,Kill Me Three Times,Cargo Entertainment,Kriv Stenders,2,90,5.9,16116,Simon Pegg,James McFarland,2014
+1023,Top Five,IAC Films,Chris Rock,10,102,6.4,23426,Chris Rock,Chris Rock,2014
+1024,Just Before I Go,New Artists Alliance,Courteney Cox,10,95,6.4,15177,Seann William Scott,David Flebotte,2014
+1025,Cold in July,BSM Studio,Jim Mickle,11,109,6.8,28879,Michael C. Hall,Nick Damici,2014
+1026,Una buena mentira,Alcon Entertainment,Philippe Falardeau,5,110,7.4,22783,Reese Witherspoon,Margaret Nagle,2014
+1027,Spring,XYZ Films,Justin Benson,20,109,6.7,17373,Lou Taylor Pucci,Justin Benson,2014
+1028,Million Dollar Arm,Walt Disney Pictures,Craig Gillespie,26,124,7.0,38459,Jon Hamm,Tom McCarthy,2014
+1029,Camp X-Ray,GNK Productions,Peter Sattler,12,117,7.0,33542,Kristen Stewart,Peter Sattler,2014
+1030,Big Game,Subzero Film Entertainment,Jalmari Helander,1,90,5.4,24225,Samuel L. Jackson,Jalmari Helander,2014
+1031,And So It Goes,ASIG Productions,Rob Reiner,4,94,5.8,10327,Michael Douglas,Mark Andrus,2014
+1032,The Bag Man,Cinedigm,David Grovic,11,108,5.3,14377,John Cusack,David Grovic,2014
+1033,In Order of Disappearance,Paradox,Hans Petter Moland,10,116,7.2,15045,Stellan Skarsg rd,Kim Fupz Aakeson,2014
+1034,The Rover,Porchlight Films,David Mich d,2,103,6.4,36879,Guy Pearce,Joel Edgerton,2014
+1035,Moms' Night Out,Affirm Films,Andrew Erwin,8,98,5.4,11445,Sarah Drew,Jon Erwin,2014
+1036,The Keeping Room,Gilbert Films,Daniel Barber,12,95,6.0,4650,Brit Marling,Julia Hart,2014
+1037,Think Like a Man Too,LStar Capital,Tim Story,4,106,5.8,16706,Kevin Hart,Keith Merryman,2014
+1038,About Last Night,Screen Gems,Steve Pink,10,100,6.1,18519,Kevin Hart,Leslye Headland,2014
+1039,The Duke of Burgundy,Rook Films,Peter Strickland,31,104,6.6,8925,Sidse Babett Knudsen,Peter Strickland,2014
+1040,Kid Cannabis,Gordon Bijelonic / Datari Turner Films,John Stockwell,40,110,6.4,8218,Jonathan Daniel Brown,John Stockwell,2014
+1041,The Woman in Black 2: Angel of Death,Alliance Films,Tom Harper,5,98,4.9,22255,Helen McCrory,Jon Croker,2014
+1042,Rudderless,Unified Pictures,William H. Macy,10,105,7.5,14913,Billy Crudup,Casey Twenter,2014
+1043,Muppets Most Wanted,Walt Disney Pictures,James Bobin,16,107,6.4,26380,Ricky Gervais,James Bobin,2014
+1044,Earth to Echo,Relativity Media,Dave Green,16,91,5.8,16757,Teo Halm,Henry Gayden,2014
+1045,Trash,Working Title Films,Stephen Daldry,6,114,7.2,16903,Rickson Tevez,Andy Mulligan,2014
+1046,No Good Deed,Screen Gems,Sam Miller,7,84,5.6,14236,Taraji P. Henson,Aimee Lagos,2014
+1047,When the Game Stands Tall,Affirm Films,Thomas Carter,18,115,6.7,13653,Jim Caviezel,Scott Marshall Smith,2014
+1048,The Tribe,Ukrainian State Film Agency,Myroslav Slaboshpytskyi,47,126,7.1,8036,Hryhoriy Fesenko,Myroslav Slaboshpytskyi,2014
+1049,13 Sins,RADiUS-TWC,Daniel Stamm,17,93,6.3,26332,Mark Webber,David Birke,2014
+1050,Heaven Is for Real,TriStar Pictures,Randall Wallace,26,99,5.8,22482,Greg Kinnear,Randall Wallace,2014
+1051,El recuerdo de Marnie,Dentsu,Hiromasa Yonebayashi,15,103,7.8,18970,Sara Takatsuki,Joan G. Robinson,2014
+1052,Better Living Through Chemistry,Occupant Entertainment,Geoff Moore,20,91,6.3,12284,Sam Rockwell,Geoff Moore,2014
+1053,A Haunted House 2,Baby Way Productions,Michael Tiddes,10,86,4.7,16194,Marlon Wayans,Marlon Wayans,2014
+1054,Barefoot,WhiteFlame Productions,Andrew Fleming,4,90,6.6,19248,Evan Rachel Wood,Stephen Zotnowski,2014
+1055,The Disappearance of Eleanor Rigby: Them,Unison Films,Ned Benson,12,123,6.3,9569,James McAvoy,Ned Benson,2014
+1056,The Quiet Ones,Exclusive Media Group,John Pogue,19,98,5.1,16654,Jared Harris,Craig Rosenberg,2014
+1057,God's Pocket,Park Pictures,John Slattery,11,88,6.1,9072,Philip Seymour Hoffman,Peter Dexter,2014
+1058,A Long Way Down,Wildgaze Films,Pascal Chaumeil,10,96,6.4,27014,Pierce Brosnan,Nick Hornby,2014
+1059,Star Wars: The Force Awakens,Lucasfilm,J.J. Abrams,1,136,8.1,687192,Daisy Ridley,Lawrence Kasdan,2015
+1060,Mad Max: Fury Road,Warner Bros. Pictures,George Miller,2,120,8.1,661575,Tom Hardy,George Miller,2015
+1061,The Hateful Eight,Visiona Romantica,Quentin Tarantino,11,167,7.8,360020,Samuel L. Jackson,Quentin Tarantino,2015
+1062,San Andreas,Village Roadshow Pictures,Brad Peyton,1,114,6.1,167250,Dwayne Johnson,Carlton Cuse,2015
+1063,Sicario,Black Label Media,Denis Villeneuve,2,121,7.6,257207,Emily Blunt,Taylor Sheridan,2015
+1064,Fifty Shades of Grey,Focus Features,Sam Taylor-Johnson,12,125,4.1,250086,Dakota Johnson,Kelly Marcel,2015
+1065,Terminator Genisys,Paramount Pictures,Alan Taylor,1,126,6.5,212532,Arnold Schwarzenegger,Laeta Kalogridis,2015
+1066,Revenant: El Renacido,Regency Enterprises,Alejandro Gonz lez I  rritu,6,156,8.0,522384,Leonardo DiCaprio,Mark L. Smith,2015
+1067,The Martian,Twentieth Century Fox Film Corporation,Ridley Scott,9,144,8.0,579946,Matt Damon,Drew Goddard,2015
+1068,Maze Runner: The Scorch Trials,Gotham Group,Wes Ball,1,131,6.3,166404,Dylan O'Brien,T.S. Nowlin,2015
+1069,Spectre,B24,Sam Mendes,1,148,6.8,318152,Daniel Craig,John Logan,2015
+1070,Jurassic World,Universal Pictures,Colin Trevorrow,1,124,7.0,469200,Chris Pratt,Rick Jaffa,2015
+1071,The Witch,Parts and Labor,Robert Eggers,17,92,6.8,111384,Anya Taylor-Joy,Robert Eggers,2015
+1072,La habitaci n,Element Pictures,Lenny Abrahamson,12,118,8.2,241695,Brie Larson,Emma Donoghue,2015
+1073,Cinderella,Allison Shearmur Productions,Kenneth Branagh,18,105,7.0,121576,Lily James,Chris Weitz,2015
+1074,The Big Short,Plan B Entertainment,Adam McKay,21,130,7.8,260244,Christian Bale,Charles Randolph,2015
+1075,Legend,Cross Creek Pictures,Brian Helgeland,21,132,7.0,115765,Tom Hardy,Brian Helgeland,2015
+1076,Spy,Twentieth Century Fox Film Corporation,Paul Feig,2,119,7.0,193925,Melissa McCarthy,Paul Feig,2015
+1077,Avengers: Age of Ultron,Marvel Studios,Joss Whedon,1,141,7.4,537832,Robert Downey Jr.,Joss Whedon,2015
+1078,Tomorrowland,Walt Disney Pictures,Brad Bird,3,130,6.5,147385,George Clooney,Damon Lindelof,2015
+1079,The Man from U.N.C.L.E.,Warner Bros.,Guy Ritchie,1,116,7.3,212440,Henry Cavill,Guy Ritchie,2015
+1080,The Danish Girl,Working Title Films,Tom Hooper,21,119,7.1,117432,Eddie Redmayne,David Ebershoff,2015
+1081,Inside Out,Pixar Animation Studios,Pete Docter,15,95,8.2,439792,Amy Poehler,Pete Docter,2015
+1082,Jupiter Ascending,Warner Bros.,Lana Wachowski,1,127,5.3,153531,Channing Tatum,Lilly Wachowski,2015
+1083,Knock Knock,Black Bear Pictures,Eli Roth,12,99,4.9,56938,Keanu Reeves,Eli Roth,2015
+1084,Spotlight,Participant Media,Tom McCarthy,11,128,8.1,287421,Mark Ruffalo,Josh Singer,2015
+1085,Carol,The Weinstein Company,Todd Haynes,12,118,7.2,81966,Cate Blanchett,Phyllis Nagy,2015
+1086,Misi n: imposible 5 - Naci n secreta,Paramount Pictures,Christopher McQuarrie,1,131,7.4,265527,Tom Cruise,Christopher McQuarrie,2015
+1087,Furious 7,Universal Pictures,James Wan,1,137,7.2,309837,Vin Diesel,Chris Morgan,2015
+1088,La langosta,Film4,Yorgos Lanthimos,10,119,7.1,131840,Colin Farrell,Yorgos Lanthimos,2015
+1089,Pitch Perfect 2,Brownstone Productions (II),Elizabeth Banks,4,115,6.4,112447,Anna Kendrick,Kay Cannon,2015
+1090,Burnt,3 Arts Entertainment,John Wells,10,101,6.6,80803,Bradley Cooper,Steven Knight,2015
+1091,Everest,Working Title Films,Baltasar Korm kur,1,121,7.1,160640,Jason Clarke,William Nicholson,2015
+1092,Ant-Man,Gary Sanchez Productions,Peyton Reed,1,117,7.3,388417,Paul Rudd,Edgar Wright,2015
+1093,Straight Outta Compton,Universal Pictures,F. Gary Gray,21,147,7.9,146861,O'Shea Jackson Jr.,Jonathan Herman,2015
+1094,The Hunger Games: Mockingjay - Part 2,Color Force,Francis Lawrence,1,137,6.6,212989,Jennifer Lawrence,Peter Craig,2015
+1095,The Visit,Blinding Edge Pictures,M. Night Shyamalan,19,94,6.2,86781,Olivia DeJonge,M. Night Shyamalan,2015
+1096,The Age of Adaline,Lakeshore Entertainment,Lee Toland Krieger,5,112,7.2,118727,Blake Lively,J. Mills Goodloe,2015
+1097,Black Mass,Cross Creek Pictures,Scott Cooper,21,123,6.9,140407,Johnny Depp,Mark Mallouk,2015
+1098,Crimson Peak,Double Dare You (DDY),Guillermo del Toro,12,119,6.5,102529,Mia Wasikowska,Guillermo del Toro,2015
+1099,Revancha,Escape Artists,Antoine Fuqua,12,124,7.4,176502,Jake Gyllenhaal,Kurt Sutter,2015
+1100,The Invitation,Gamechanger Films,Karyn Kusama,27,100,6.7,46822,Logan Marshall-Green,Phil Hay,2015
+1101,The Dressmaker,Screen Australia,Jocelyn Moorhouse,10,119,7.1,36647,Kate Winslet,Rosalie Ham,2015
+1102,Creed,Metro-Goldwyn-Mayer (MGM),Ryan Coogler,5,133,7.6,182827,Michael B. Jordan,Ryan Coogler,2015
+1103,Insurgent,Summit Entertainment,Robert Schwentke,1,119,6.3,178165,Shailene Woodley,Brian Duffield,2015
+1104,Hitman: Agent 47,Twentieth Century Fox Film Corporation,Aleksander Bach,2,96,5.7,72970,Rupert Friend,Skip Woods,2015
+1105,The DUFF,CBS Films,Ari Sandel,4,101,6.5,60469,Mae Whitman,Josh A. Cagan,2015
+1106,Esta chica es un desastre,Universal Pictures,Judd Apatow,10,125,6.3,110244,Amy Schumer,Amy Schumer,2015
+1107,The Gift,Blumhouse Productions,Joel Edgerton,12,108,7.1,103554,Jason Bateman,Joel Edgerton,2015
+1108,Punto de quiebre,Alcon Entertainment,Ericson Core,1,114,5.3,46887,Edgar Ram rez,Kurt Wimmer,2015
+1109,Hotel Transylvania 2,Columbia Pictures,Genndy Tartakovsky,15,89,6.7,73328,Adam Sandler,Robert Smigel,2015
+1110,Daddy's Home,Paramount Pictures,Sean Anders,4,96,6.1,72842,Will Ferrell,Brian Burns,2015
+1111,The Stanford Prison Experiment,Coup d'Etat Films,Kyle Patrick Alvarez,21,122,6.9,23757,Ezra Miller,Tim Talbott,2015
+1112,Bridge of Spies,DreamWorks,Steven Spielberg,5,142,7.6,227862,Tom Hanks,Matt Charman,2015
+1113,Steve Jobs,Universal Pictures,Danny Boyle,21,122,7.2,121579,Michael Fassbender,Aaron Sorkin,2015
+1114,Vacation,BenderSpink,John Francis Daley,6,99,6.1,77487,Ed Helms,Jonathan Goldstein,2015
+1115,The Last Witch Hunter,Summit Entertainment,Breck Eisner,1,106,6.0,74795,Vin Diesel,Cory Goodman,2015
+1116,Fantastic Four,Twentieth Century Fox Film Corporation,Josh Trank,1,100,4.3,125934,Miles Teller,Jeremy Slater,2015
+1117,Focus,Kramer & Sigman Films,Glenn Ficarra,10,105,6.6,171771,Will Smith,Glenn Ficarra,2015
+1118,The Intern,Waverly Films,Nancy Meyers,4,121,7.1,166416,Robert De Niro,Nancy Meyers,2015
+1119,Chappie,Columbia Pictures,Neill Blomkamp,2,120,6.9,194639,Sharlto Copley,Neill Blomkamp,2015
+1120,Brooklyn,Wildgaze Films,John Crowley,5,117,7.5,99195,Saoirse Ronan,Nick Hornby,2015
+1121,Minions,Illumination Entertainment,Kyle Balda,15,91,6.4,169228,Sandra Bullock,Brian Lynch,2015
+1122,Aloha,Columbia Pictures,Cameron Crowe,4,105,5.4,46828,Bradley Cooper,Cameron Crowe,2015
+1123,Demolition,Black Label Media,Jean-Marc Vall e,10,101,7.0,64109,Jake Gyllenhaal,Bryan Sipe,2015
+1124,Magic Mike XXL,Warner Bros.,Gregory Jacobs,10,115,5.6,44006,Channing Tatum,Reid Carolin,2015
+1125,Green Room,Broad Green Pictures,Jeremy Saulnier,11,95,7.0,69349,Anton Yelchin,Jeremy Saulnier,2015
+1126,The Longest Ride,Fox 2000 Pictures,George Tillman Jr.,5,123,7.1,61182,Scott Eastwood,Nicholas Sparks,2015
+1127,In the Heart of the Sea,Warner Bros.,Ron Howard,1,122,6.9,94603,Chris Hemsworth,Charles Leavitt,2015
+1128,Joy,Fox 2000 Pictures,David O. Russell,23,124,6.6,102242,Jennifer Lawrence,David O. Russell,2015
+1129,Pixels,Columbia Pictures,Chris Columbus,1,105,5.6,106004,Adam Sandler,Tim Herlihy,2015
+1130,Paper Towns,Fox 2000 Pictures,Jake Schreier,5,109,6.3,76635,Nat Wolff,Scott Neustadter,2015
+1131,Concussion,"Cantillon Company, The",Peter Landesman,23,123,7.1,64629,Will Smith,Peter Landesman,2015
+1132,Get Hard,Gary Sanchez Productions,Etan Cohen,10,100,6.0,98662,Will Ferrell,Jay Martel,2015
+1133,Ted 2,Universal Pictures,Seth MacFarlane,10,115,6.3,143077,Mark Wahlberg,Seth MacFarlane,2015
+1134,The Diary of a Teenage Girl,Caviar,Marielle Heller,12,102,6.9,22916,Bel Powley,Phoebe Gloeckner,2015
+1135,Goosebumps,Columbia Pictures,Rob Letterman,16,103,6.3,59906,Jack Black,Darren Lemke,2015
+1136,Hardcore: Misi n extrema,Bazelevs Production,Ilya Naishuller,2,96,6.7,65051,Sharlto Copley,Ilya Naishuller,2015
+1137,Youth,Indigo Film,Paolo Sorrentino,10,124,7.3,55177,Michael Caine,Paolo Sorrentino,2015
+1138,Scouts Guide to the Zombie Apocalypse,Broken Road Productions,Christopher Landon,2,93,6.3,33629,Tye Sheridan,Carrie Lee Wilson,2015
+1139,Crimenes ocultos,Worldview Entertainment,Daniel Espinosa,11,137,6.5,50379,Tom Hardy,Richard Price,2015
+1140,Pan,Warner Bros.,Joe Wright,16,111,5.8,49650,Levi Miller,Jason Fuchs,2015
+1141,Macbeth,See-Saw Films,Justin Kurzel,12,113,6.7,43481,Michael Fassbender,Todd Louiso,2015
+1142,Knight of Cups,Dogwood Films,Terrence Malick,12,118,5.7,18771,Christian Bale,Terrence Malick,2015
+1143,La noche del demonio: Capitulo 3,Gramercy Pictures (I),Leigh Whannell,19,97,6.1,67298,Dermot Mulroney,Leigh Whannell,2015
+1144,Bajo la arena,Nordisk Film,Martin Zandvliet,12,100,7.8,17582,Roland M ller,Martin Zandvliet,2015
+1145,No Escape,Bold Films,John Erick Dowdle,2,103,6.8,61262,Lake Bell,John Erick Dowdle,2015
+1146,Self/less,Endgame Entertainment,Tarsem Singh,1,117,6.5,70564,Ryan Reynolds, lex Pastor,2015
+1147,Mr. Right,Amasia Entertainment,Paco Cabezas,2,95,6.3,33496,Anna Kendrick,Max Landis,2015
+1148,Sleeping with Other People,Gloria Sanchez Productions,Leslye Headland,10,101,6.5,29326,Jason Sudeikis,Leslye Headland,2015
+1149,Un hombre gru  n,Tre V nner Produktion AB,Hannes Holm,4,116,7.7,25808,Rolf Lassg rd,Hannes Holm,2015
+1150,Secret in Their Eyes,IM Global,Billy Ray,7,111,6.2,29254,Chiwetel Ejiofor,Billy Ray,2015
+1151,The Night Before,Columbia Pictures,Jonathan Levine,6,101,6.4,45947,Joseph Gordon-Levitt,Jonathan Levine,2015
+1152,The Good Dinosaur,Pixar Animation Studios,Peter Sohn,15,93,6.7,80711,Jeffrey Wright,Bob Peterson,2015
+1153,Regression,Mod Producciones,Alejandro Amen bar,11,106,5.7,28090,Ethan Hawke,Alejandro Amen bar,2015
+1154,Home,DreamWorks Animation,Tim Johnson,15,94,6.7,79374,Jim Parsons,Tom J. Astle,2015
+1155,The Walk,Sony Pictures Entertainment (SPE),Robert Zemeckis,16,123,7.3,97203,Joseph Gordon-Levitt,Robert Zemeckis,2015
+1156,Victor Frankenstein,Davis Entertainment,Paul McGuigan,5,110,6.0,40525,Daniel Radcliffe,Max Landis,2015
+1157,The Blackcoat's Daughter,Paris Film,Oz Perkins,17,93,5.8,6768,Emma Roberts,Oz Perkins,2015
+1158,Krampus,Legendary Entertainment,Michael Dougherty,4,98,6.2,44393,Adam Scott,Todd Casey,2015
+1159,Me and Earl and the Dying Girl,Indian Paintbrush,Alfonso Gomez-Rejon,4,105,7.8,96689,Thomas Mann,Jesse Andrews,2015
+1160,High-Rise,HanWay Films,Ben Wheatley,12,119,5.7,28067,Tom Hiddleston,Amy Jump,2015
+1161,Jane Got a Gun,1821 Pictures,Gavin O'Connor,2,98,5.9,15689,Natalie Portman,Brian Duffield,2015
+1162,El transportador recargado,EuropaCorp,Camille Delamarre,1,96,5.1,32420,Ed Skrein,Adam Cooper,2015
+1163,Entourage,Warner Bros.,Doug Ellin,10,104,6.6,66336,Adrian Grenier,Doug Ellin,2015
+1164,Dope,Forest Whitaker's Significant Productions,Rick Famuyiwa,10,103,7.3,69552,Shameik Moore,Rick Famuyiwa,2015
+1165,Run All Night,Warner Bros.,Jaume Collet-Serra,2,114,6.6,85225,Liam Neeson,Brad Ingelsby,2015
+1166,True Story,Regency Enterprises,Rupert Goold,11,99,6.3,44237,James Franco,Rupert Goold,2015
+1167,A Bigger Splash,Frenesy Film Company,Luca Guadagnino,12,125,6.4,16900,Tilda Swinton,David Kajganich,2015
+1168,Far from the Madding Crowd,Fox Searchlight Pictures,Thomas Vinterberg,5,119,7.1,36196,Carey Mulligan,Thomas Hardy,2015
+1169,Frente al mar,Universal Pictures,Angelina Jolie,12,122,5.2,13055,Brad Pitt,Angelina Jolie,2015
+1170,Eye in the Sky,Raindog Films,Gavin Hood,12,102,7.3,61722,Helen Mirren,Guy Hibbert,2015
+1171,Equals,Freedom Media,Drake Doremus,5,101,6.0,18681,Nicholas Hoult,Nathan Parker,2015
+1172,The Wedding Ringer,LStar Capital,Jeremy Garelick,10,101,6.7,60737,Kevin Hart,Jeremy Garelick,2015
+1173,The Man Who Knew Infinity,Edward R. Pressman Film,Matt Brown,23,108,7.2,33630,Dev Patel,Matt Brown,2015
+1174,We Are Your Friends,StudioCanal,Max Joseph,12,96,6.2,27695,Zac Efron,Max Joseph,2015
+1175,Beasts of No Nation,"Princess Grace Foundation, The",Cary Fukunaga,27,137,7.8,52905,Abraham Attah,Cary Fukunaga,2015
+1176,Sisters,Little Stranger,Jason Moore,10,118,6.0,52137,Amy Poehler,Paula Pell,2015
+1177,Tale of Tales,Archimede,Matteo Garrone,12,134,6.4,18674,Salma Hayek,Giambattista Basile,2015
+1178,American Ultra,PalmStar Media,Nima Nourizadeh,2,100,6.1,67391,Jesse Eisenberg,Max Landis,2015
+1179,Woman in Gold,Origin Pictures,Simon Curtis,23,109,7.3,42052,Helen Mirren,Alexi Kaye Campbell,2015
+1180,Into the Forest,Rhombus Media,Patricia Rozema,12,101,5.9,11816,Ellen Page,Patricia Rozema,2015
+1181,Anomalisa,Harmonius Claptrap,Duke Johnson,48,90,7.2,47499,David Thewlis,Charlie Kaufman,2015
+1182,Project Almanac,Insurge Pictures,Dean Israelite,41,106,6.4,65169,Amy Landecker,Jason Pagan,2015
+1183,Irrational Man,Gravier Productions,Woody Allen,10,95,6.6,42507,Joaquin Phoenix,Woody Allen,2015
+1184,The Gunman,StudioCanal,Pierre Morel,2,115,5.8,32345,Sean Penn,Jean-Patrick Manchette,2015
+1185,The Boy Next Door,Universal Pictures,Rob Cohen,42,91,4.7,31057,Jennifer Lopez,Barbara Curry,2015
+1186,La  ltima ola,Fantefilm,Roar Uthaug,2,105,6.7,20509,Kristoffer Joner,John K re Raake,2015
+1187,Mortdecai,OddLot Entertainment,David Koepp,2,107,5.5,54191,Johnny Depp,Eric Aronson,2015
+1188,Trumbo,Bleecker Street Films,Jay Roach,21,124,7.5,60593,Bryan Cranston,John McNamara,2015
+1189,Sinister 2,Entertainment One,Ciar n Foy,17,97,5.3,33723,James Ransone,Scott Derrickson,2015
+1190,El principito,Onyx Films,Mark Osborne,15,108,7.8,41751,Jeff Bridges,Irena Brignull,2015
+1191,The Bronze,Duplass Brothers Productions,Bryan Buckley,10,100,6.0,7520,Melissa Rauch,Melissa Rauch,2015
+1192,Poltergeist,Fox 2000 Pictures,Gil Kenan,19,93,4.9,47376,Sam Rockwell,David Lindsay-Abaire,2015
+1193,A Walk in the Woods,Route One Entertainment,Ken Kwapis,6,104,6.3,18661,Robert Redford,Michael Arndt,2015
+1194,Los 33,Alcon Entertainment,Patricia Riggen,23,127,6.9,27925,Antonio Banderas,Mikko Alanne,2015
+1195,The SpongeBob Movie: Sponge Out of Water,Paramount Animation,Paul Tibbitt,15,92,6.0,38659,Tom Kenny,Glenn Berger,2015
+1196,The Sea of Trees,Bloom,Gus Van Sant,5,110,5.9,8519,Matthew McConaughey,Chris Sparling,2015
+1197,Tangerine,Duplass Brothers Productions,Sean Baker,10,88,7.0,16597,Kitana Kiki Rodriguez,Sean Baker,2015
+1198,Blackhat,Forward Pass,Michael Mann,11,133,5.4,44249,Chris Hemsworth,Morgan Davis Foehl,2015
+1199,Born to Be Blue,New Real Films,Robert Budreau,21,97,6.9,5113,Ethan Hawke,Robert Budreau,2015
+1200,Alvin and the Chipmunks: The Road Chip,Fox 2000 Pictures,Walt Becker,15,100,5.1,12069,Jason Lee,Ross Bagdasarian,2015
+1201,Blackway,Enderby Entertainment,Daniel Alfredson,22,90,5.2,4931,Anthony Hopkins,Castle Freeman Jr.,2015
+1202,The Overnight,Duplass Brothers Productions,Patrick Brice,10,79,6.1,12642,Adam Scott,Patrick Brice,2015
+1203,"Hello, My Name Is Doris",Red Crown Productions,Michael Showalter,10,90,6.7,14007,Sally Field,Laura Terruso,2015
+1204,Hot Pursuit,Metro-Goldwyn-Mayer (MGM),Anne Fletcher,1,87,5.1,40431,Reese Witherspoon,David Feeney,2015
+1205,Our Brand Is Crisis,Participant Media,David Gordon Green,10,107,6.1,16204,Sandra Bullock,Peter Straughan,2015
+1206,Maggie,Lionsgate,Henry Hobson,5,95,5.6,35167,Arnold Schwarzenegger,John Scott 3,2015
+1207,War Room,FaithStep Films,Alex Kendrick,18,120,6.4,10268,Priscilla C. Shirer,Alex Kendrick,2015
+1208,Conspiraci n y poder,Sony Pictures Classics,James Vanderbilt,21,125,6.8,14615,Cate Blanchett,James Vanderbilt,2015
+1209,Drishyam,Panorama Studios,Nishikant Kamat,38,163,8.4,42547,Ajay Devgn,Jeethu Joseph,2015
+1210,Mistress America,Fox Searchlight Pictures,Noah Baumbach,10,84,6.7,19140,Greta Gerwig,Noah Baumbach,2015
+1211,Z for Zachariah,Silver Reel,Craig Zobel,5,98,6.0,21852,Chiwetel Ejiofor,Nissar Modi,2015
+1212,Girl Asleep,Soft Tread Enterprises,Rosemary Myers,32,77,6.2,1693,Bethany Whitmore,Matthew Whittet,2015
+1213,Ricki and the Flash,Clinica Estetico,Jonathan Demme,4,101,6.0,18428,Meryl Streep,Diablo Cody,2015
+1214,Jem and the Holograms,Allspark Pictures,Jon M. Chu,16,118,4.1,5640,Aubrey Peeples,Ryan Landels,2015
+1215,Suffragette,Ruby Films,Sarah Gavron,23,106,6.9,28377,Carey Mulligan,Abi Morgan,2015
+1216,Max,Metro-Goldwyn-Mayer (MGM),Boaz Yakin,16,111,6.8,22181,Thomas Haden Church,Boaz Yakin,2015
+1217,Remember,Serendipity Point Films,Atom Egoyan,12,94,7.4,14266,Christopher Plummer,Benjamin August,2015
+1218,Baahubali: The Beginning,Arka Mediaworks,S.S. Rajamouli,49,159,8.2,81329,Prabhas,Vijayendra Prasad,2015
+1219,The Lazarus Effect,Blumhouse Productions,David Gelb,19,83,5.2,32659,Olivia Wilde,Luke Dawson,2015
+1220,Maggie's Plan,Franklin Street,Rebecca Miller,10,98,6.2,10929,Greta Gerwig,Rebecca Miller,2015
+1221,The Lure,Wytw rnia Film w Dokumentalnych i Fabularnych (WFDiF),Agnieszka Smoczynska,20,92,6.3,2000,Marta Mazurek,Robert Bolesto,2015
+1222,Turbo Kid,EMA Films,Fran ois Simard,28,93,6.7,20452,Munro Chambers,Fran ois Simard,2015
+1223,"McFarland, USA",Mayhem Pictures,Niki Caro,26,129,7.4,27814,Kevin Costner,Christopher Cleveland,2015
+1224,Manifesto,Bayerischer Rundfunk (BR),Julian Rosefeldt,27,95,7.2,1314,Cate Blanchett,Julian Rosefeldt,2015
+1225,Dragon Blade,Sparkle Roll Media,Daniel Lee,2,127,6.1,14229,Jackie Chan,Daniel Lee,2015
+1226,Krisha,Hoody Boy Productions,Trey Edward Shults,12,83,7.1,4086,Krisha Fairchild,Trey Edward Shults,2015
+1227,Mr. Holmes,Miramax,Bill Condon,18,104,6.9,51307,Ian McKellen,Mitch Cullin,2015
+1228,The Girl in the Book,Varient,Marya Cohn,27,86,6.2,3075,Emily VanCamp,Marya Cohn,2015
+1229,Desierto,Esperanto Kino,Jon s Cuar n,12,88,6.0,6253,Gael Garc a Bernal,Jon s Cuar n,2015
+1230,Love the Coopers,CBS Films,Jessie Nelson,4,107,5.7,13475,Steve Martin,Steven Rogers,2015
+1231,Jenny's Wedding,MM Productions,Mary Agnes Donoghue,4,94,5.5,7852,Katherine Heigl,Mary Agnes Donoghue,2015
+1232,The Peanuts Movie,Twentieth Century Fox Animation,Steve Martino,24,88,7.1,34889,Noah Schnapp,Craig Schulz,2015
+1233,Ip Man 3,Dreams Salon Entertainment Culture,Wilson Yip,1,105,7.1,31713,Donnie Yen,Tai-lee Chan,2015
+1234,Synchronicity,POP Films,Jacob Gentry,12,101,5.5,7562,Chad McKnight,Jacob Gentry,2015
+1235,Danny Collins,Big Indie Pictures,Dan Fogelman,10,106,7.0,24666,Al Pacino,Dan Fogelman,2015
+1236,The Perfect Guy,Rocklin \ Faust,David M. Rosenthal,5,100,5.6,7922,Sanaa Lathan,Alan B. McElroy,2015
+1237,Mustang: belleza salvaje,CG Cin ma,Deniz Gamze Erg ven,5,97,7.7,25260,G nes Sensoy,Deniz Gamze Erg ven,2015
+1238,Strange Magic,Filmbox,Gary Rydstrom,15,99,5.8,8009,Evan Rachel Wood,David Berenbaum,2015
+1239,The Family Fang,Aggregate Films,Jason Bateman,10,105,6.1,5585,Jason Bateman,Kevin Wilson,2015
+1240,El hijo de Sa l,Laokoon Filmgroup,L szl  Nemes,12,107,7.5,32339,G za R hrig,L szl  Nemes,2015
+1241,I Saw the Light,Bron Studios,Marc Abraham,21,123,5.7,4460,Tom Hiddleston,Marc Abraham,2015
+1242,Miss You Already,S Films,Catherine Hardwicke,4,112,6.8,12743,Drew Barrymore,Morwenna Banks,2015
+1243,3 Generations,Big Beach Films,Gaby Dellal,5,92,5.6,2608,Naomi Watts,Nikole Beckwith,2015
+1244,Strangerland,Worldview Entertainment,Kim Farrant,12,112,5.2,6735,Nicole Kidman,Michael Kinirons,2015
+1245,The Hallow,Occupant Entertainment,Corin Hardy,37,97,5.7,11545,Joseph Mawle,Corin Hardy,2015
+1246,The Daughter,Screen NSW,Simon Stone,50,96,6.7,3194,Geoffrey Rush,Simon Stone,2015
+1247,Paul Blart: Mall Cop 2,Columbia Pictures,Andy Fickman,3,94,4.4,27268,Kevin James,Kevin James,2015
+1248,The Lady in the Van,BBC Films,Nicholas Hytner,23,104,6.7,18091,Maggie Smith,Alan Bennett,2015
+1249,El nuevo nuevo testamento,Terra Incognita Films,Jaco Van Dormael,20,114,7.1,20984,Pili Groyne,Thomas Gunzig,2015
+1250,Hot Tub Time Machine 2,Paramount Pictures,Steve Pink,10,93,5.1,31612,Rob Corddry,Josh Heald,2015
+1251,Paranormal Activity: The Ghost Dimension,Blumhouse Productions,Gregory Plotkin,17,88,4.6,19280,Chris J. Murray,Jason Pagan,2015
+1252,Chi-Raq,40 Acres & A Mule Filmworks,Spike Lee,10,127,5.7,6983,Nick Cannon,Kevin Willmott,2015
+1253,Mississippi Grind,Sycamore Pictures,Anna Boden,10,108,6.3,13207,Ben Mendelsohn,Anna Boden,2015
+1254,The Second Best Exotic Marigold Hotel,Babieka,John Madden,8,122,6.6,25886,Judi Dench,Ol Parker,2015
+1255,Una sonrisa a la vida,Audiovisual Aval SGR,Cesc Gay,51,108,7.3,7973,Ricardo Dar n,Tom s Aragay,2015
+1256,Unfinished Business,Regency Enterprises,Ken Scott,10,91,5.4,26051,Vince Vaughn,Steve Conrad,2015
+1257,Freeheld,Double Feature Films,Peter Sollett,23,103,6.5,8801,Julianne Moore,Ron Nyswaner,2015
+1258,Captive,BN Films,Jerry Jameson,1,97,5.4,5253,Kate Mara,Brian Bird,2015
+1259,The End of the Tour,Modern Man Films,James Ponsoldt,21,106,7.3,22192,Jason Segel,Donald Margulies,2015
+1260,The D Train,Ealing Studios Entertainment,Andrew Mogel,10,101,5.0,9146,Jack Black,Jarrad Paul,2015
+1261,Experimenter,BB Film Productions,Michael Almereyda,23,98,6.6,13263,John Palladino,Michael Almereyda,2015
+1262,Slow West,See-Saw Films,John Maclean,52,84,6.9,33032,Kodi Smit-McPhee,John Maclean,2015
+1263,Closet Monster,Rhombus Media,Stephen Dunn,27,90,7.0,4860,Aaron Abrams,Stephen Dunn,2015
+1264,Attack on Titan: Part 1,K dansha,Shinji Higuchi,14,98,5.1,9847,Haruma Miura,Hajime Isayama,2015
+1265,M s fuerte que las bombas,Motlys,Joachim Trier,12,109,6.6,8742,Jesse Eisenberg,Joachim Trier,2015
+1266,Cop Car,Audax Films,Jon Watts,11,88,6.3,24256,Kevin Bacon,Jon Watts,2015
+1267,Embrace of the Serpent,Buffalo Films,Ciro Guerra,43,125,7.9,13698,Nilbio Torres,Ciro Guerra,2015
+1268,45 Years,BFI Film Fund,Andrew Haigh,12,91,7.1,23800,Charlotte Rampling,Andrew Haigh,2015
+1269,Una historia de amor y oscuridad,Avi Chai fund,Natalie Portman,23,95,6.0,2003,Natalie Portman,Natalie Portman,2015
+1270,Shaun the Sheep Movie,StudioCanal,Mark Burton,15,85,7.4,28138,Justin Fletcher,Mark Burton,2015
+1271,The Meddler,Anonymous Content,Lorene Scafaria,4,103,6.3,7979,Susan Sarandon,Lorene Scafaria,2015
+1272,Rock the Kasbah,Covert Media,Barry Levinson,10,106,5.5,8063,Bill Murray,Mitch Glazer,2015
+1273,The Assassin,Central Motion Pictures,Hsiao-Hsien Hou,14,105,6.4,12237,Qi Shu,Cheng Ah,2015
+1274,El gran peque o,Metanoia Films,Alejandro Monteverde,5,106,7.4,19156,Jakob Salvati,Alejandro Monteverde,2015
+1275,I'll See You in My Dreams,Two Flints,Brett Haley,4,92,6.7,5282,Blythe Danner,Marc Basch,2015
+1276,The Vatican Tapes,Lionsgate,Mark Neveldine,19,91,5.1,13305,Olivia Taylor Dudley,Christopher Borrelli,2015
+1277,90 Minutes in Heaven,Astute Films,Michael Polish,5,121,4.7,2631,Kate Bosworth,Michael Polish,2015
+1278,Summertime,Chaz Productions,Catherine Corsini,27,105,6.6,2301,C cile De France,Catherine Corsini,2015
+1279,The Bad Batch,Human Stew Factory,Ana Lily Amirpour,12,118,5.4,8340,Suki Waterhouse,Ana Lily Amirpour,2016
+1280,Assassin's Creed,Regency Enterprises,Justin Kurzel,1,115,5.9,133338,Michael Fassbender,Michael Lesslie,2016
+1281,La La Land,Summit Entertainment,Damien Chazelle,4,128,8.2,308891,Ryan Gosling,Damien Chazelle,2016
+1282,Suicide Squad,Atlas Entertainment,David Ayer,1,123,6.2,435667,Will Smith,David Ayer,2016
+1283,Sing,Dentsu,Garth Jennings,15,108,7.1,81466,Matthew McConaughey,Garth Jennings,2016
+1284,Fantastic Beasts and Where to Find Them,Heyday Films,David Yates,9,133,7.4,268073,Eddie Redmayne,J.K. Rowling,2016
+1285,Moana,Walt Disney Animation Studios,Ron Clements,15,107,7.6,157290,Auli'i Cravalho,Jared Bush,2016
+1286,The Magnificent Seven,Metro-Goldwyn-Mayer (MGM),Antoine Fuqua,1,132,6.9,138262,Denzel Washington,Akira Kurosawa,2016
+1287,The Accountant,Warner Bros.,Gavin O'Connor,2,128,7.4,188598,Ben Affleck,Bill Dubuque,2016
+1288,The Lost City of Z,Keep Your Head,James Gray,9,141,6.6,39409,Charlie Hunnam,James Gray,2016
+1289,Nocturnal Animals,Focus Features,Tom Ford,11,116,7.5,152436,Amy Adams,Tom Ford,2016
+1290,Hidden Figures,Levantine Films,Theodore Melfi,26,127,7.8,121818,Taraji P. Henson,Allison Schroeder,2016
+1291,Arrival,Lava Bear Films,Denis Villeneuve,5,116,8.0,391385,Amy Adams,Eric Heisserer,2016
+1292,Trolls,DreamWorks Animation,Mike Mitchell,15,92,6.5,49423,Anna Kendrick,Jonathan Aibel,2016
+1293,Rogue One,Lucasfilm,Gareth Edwards,1,133,7.9,365473,Felicity Jones,Chris Weitz,2016
+1294,Hasta el  ltimo hombre,Cross Creek Pictures,Mel Gibson,21,139,8.2,263728,Andrew Garfield,Robert Schenkkan,2016
+1295,Deadpool,Twentieth Century Fox Film Corporation,Tim Miller,2,108,8.0,668625,Ryan Reynolds,Rhett Reese,2016
+1296,Split,Blinding Edge Pictures,M. Night Shyamalan,19,117,7.3,213536,James McAvoy,M. Night Shyamalan,2016
+1297,Passengers,Columbia Pictures,Morten Tyldum,9,116,7.0,237553,Jennifer Lawrence,Jon Spaihts,2016
+1298,Batman v Superman: Dawn of Justice,Warner Bros.,Zack Snyder,1,151,6.6,497351,Ben Affleck,Chris Terrio,2016
+1299,Star Trek Beyond,Paramount Pictures,Justin Lin,1,122,7.1,179426,Chris Pine,Simon Pegg,2016
+1300,Your name,Amuse,Makoto Shinkai,15,106,8.5,54503,Ry nosuke Kamiki,Makoto Shinkai,2016
+1301,Doctor Strange,Marvel Studios,Scott Derrickson,1,115,7.5,348307,Benedict Cumberbatch,Jon Spaihts,2016
+1302,Lion,The Weinstein Company,Garth Davis,23,118,8.1,133709,Dev Patel,Saroo Brierley,2016
+1303,Captain America: Civil War,Marvel Studios,Anthony Russo,1,147,7.9,442645,Chris Evans,Christopher Markus,2016
+1304,The Conjuring 2,New Line Cinema,James Wan,17,134,7.4,151427,Vera Farmiga,Carey Hayes,2016
+1305,Me Before You,Metro-Goldwyn-Mayer (MGM),Thea Sharrock,5,106,7.4,127889,Emilia Clarke,Jojo Moyes,2016
+1306,The Girl on the Train,Amblin Partners,Tate Taylor,11,112,6.5,116916,Emily Blunt,Erin Cressida Wilson,2016
+1307,X-Men: Apocalypse,Twentieth Century Fox Film Corporation,Bryan Singer,1,144,7.0,296415,James McAvoy,Simon Kinberg,2016
+1308,Manchester by the Sea,Amazon Studios,Kenneth Lonergan,12,137,7.9,159673,Casey Affleck,Kenneth Lonergan,2016
+1309,Zootopia,Walt Disney Pictures,Byron Howard,15,108,8.0,317549,Ginnifer Goodwin,Byron Howard,2016
+1310,Allied,GK Films,Robert Zemeckis,2,124,7.1,94624,Brad Pitt,Steven Knight,2016
+1311,Resident Evil: The Final Chapter,Constantin Film,Paul W.S. Anderson,2,107,5.6,58140,Milla Jovovich,Paul W.S. Anderson,2016
+1312,Moonlight,A24,Barry Jenkins,12,111,7.5,161857,Mahershala Ali,Barry Jenkins,2016
+1313,Don't Breathe,Screen Gems,Fede Alvarez,11,88,7.2,139449,Stephen Lang,Fede Alvarez,2016
+1314,Hell or High Water,Film 44,David Mackenzie,11,102,7.6,132328,Chris Pine,Taylor Sheridan,2016
+1315,Allegiant,Mandeville Films,Robert Schwentke,1,120,5.7,76550,Shailene Woodley,Noah Oppenheim,2016
+1316,Miss Peregrine's Home for Peculiar Children,Twentieth Century Fox Film Corporation,Tim Burton,9,127,6.7,116495,Eva Green,Ransom Riggs,2016
+1317,Silence,Cappa Defina Productions,Martin Scorsese,6,161,7.2,61798,Andrew Garfield,Jay Cocks,2016
+1318,Jason Bourne,Captivate Entertainment,Paul Greengrass,1,123,6.7,163614,Matt Damon,Paul Greengrass,2016
+1319,The Edge of Seventeen,Gracie Films,Kelly Fremon Craig,10,104,7.4,59867,Hailee Steinfeld,Kelly Fremon Craig,2016
+1320,The Founder,FilmNation Entertainment,John Lee Hancock,23,100,7.2,62193,Michael Keaton,Robert D. Siegel,2016
+1321,The Legend of Tarzan,Warner Bros. Pictures,David Yates,1,110,6.3,128712,Alexander Skarsg rd,Adam Cozad,2016
+1322,Underworld: Blood Wars,Lakeshore Entertainment,Anna Foerster,2,91,5.8,49911,Kate Beckinsale,Cory Goodman,2016
+1323,Gold,Black Bear Pictures,Stephen Gaghan,6,120,6.7,32147,Matthew McConaughey,Patrick Massett,2016
+1324,Voraz,Petit Film,Julia Ducournau,12,99,7.0,22618,Garance Marillier,Julia Ducournau,2016
+1325,The Nice Guys,Misty Mountains,Shane Black,10,116,7.4,193151,Russell Crowe,Shane Black,2016
+1326,A Monster Calls,Apaches Entertainment,J.A. Bayona,5,108,7.5,49969,Lewis MacDougall,Patrick Ness,2016
+1327,The Handmaiden,Moho Film,Chan-wook Park,38,144,8.1,43552,Min-hee Kim,Sarah Waters,2016
+1328,Sully,Flashlight Films,Clint Eastwood,23,96,7.5,157212,Tom Hanks,Todd Komarnicki,2016
+1329,Bad Moms,STX Entertainment,Jon Lucas,10,100,6.2,76251,Mila Kunis,Jon Lucas,2016
+1330,Leap!,Quad Productions,Eric Summer,15,89,6.8,9517,Elle Fanning,Eric Summer,2016
+1331,A Cure for Wellness,Regency Enterprises,Gore Verbinski,12,146,6.4,45187,Dane DeHaan,Justin Haythe,2016
+1332,The Great Wall,Legendary East,Yimou Zhang,1,103,6.0,82181,Matt Damon,Carlo Bernard,2016
+1333,War Dogs,BZ Entertainment,Todd Phillips,10,114,7.1,123020,Jonah Hill,Stephen Chin,2016
+1334,Why Him?,Twentieth Century Fox Film Corporation,John Hamburg,10,111,6.3,63612,Zoey Deutch,John Hamburg,2016
+1335,Jackie,Fox Searchlight Pictures,Pablo Larra n,21,100,6.8,50652,Natalie Portman,Noah Oppenheim,2016
+1336,Live by Night,Appian Way,Ben Affleck,2,129,6.4,35064,Ben Affleck,Ben Affleck,2016
+1337,La vida secreta de tus mascotas,Universal Pictures,Chris Renaud,15,87,6.6,133755,Louis C.K.,Cinco Paul,2016
+1338,Gods of Egypt,Pyramania,Alex Proyas,1,127,5.4,78473,Brenton Thwaites,Matt Sazama,2016
+1339,Keeping Up with the Joneses,Fox 2000 Pictures,Greg Mottola,1,105,5.8,39443,Zach Galifianakis,Michael LeSieur,2016
+1340,Jack Reacher: Sin regreso,Paramount Pictures,Edward Zwick,1,118,6.1,91071,Tom Cruise,Richard Wenk,2016
+1341,Ella es un monstruo,Toy Fight Productions,Nacho Vigalondo,2,109,6.2,29178,Anne Hathaway,Nacho Vigalondo,2016
+1342,Sausage Party,Annapurna Pictures,Greg Tiernan,48,89,6.2,133200,Seth Rogen,Kyle Hunter,2016
+1343,13 Hours,Paramount Pictures,Michael Bay,2,144,7.3,82656,John Krasinski,Chuck Hogan,2016
+1344,Collateral Beauty,New Line Cinema,David Frankel,5,97,6.8,56439,Will Smith,Allan Loeb,2016
+1345,Captain Fantastic,Electric City Entertainment,Matt Ross,10,118,7.9,121560,Viggo Mortensen,Matt Ross,2016
+1346,Inferno,Columbia Pictures,Ron Howard,1,121,6.2,111448,Tom Hanks,Dan Brown,2016
+1347,Paris Can Wait,Lifetime Films,Eleanor Coppola,8,92,5.8,2629,Diane Lane,Eleanor Coppola,2016
+1348,Sola contra el poder,Transfilm,John Madden,12,132,7.4,28302,Jessica Chastain,Jonathan Perera,2016
+1349,Ghostbusters,Columbia Pictures,Paul Feig,1,116,5.3,157351,Melissa McCarthy,Katie Dippold,2016
+1350,10 Cloverfield Lane,Paramount Pictures,Dan Trachtenberg,5,104,7.2,208655,John Goodman,Josh Campbell,2016
+1351,Nerve,Allison Shearmur Productions,Henry Joost,9,96,6.6,81127,Emma Roberts,Jeanne Ryan,2016
+1352,Warcraft: The Beginning,Legendary Entertainment,Duncan Jones,1,123,6.9,197373,Travis Fimmel,Charles Leavitt,2016
+1353,Mike and Dave Need Wedding Dates,Twentieth Century Fox Film Corporation,Jake Szymanski,6,98,6.0,61076,Zac Efron,Andrew Jay Cohen,2016
+1354,Los ilusionistas 2,K/O Paper Products,Jon M. Chu,1,129,6.5,171985,Jesse Eisenberg,Ed Solomon,2016
+1355,The Jungle Book,Fairview Entertainment,Jon Favreau,16,106,7.5,209062,Neel Sethi,Justin Marks,2016
+1356,El demonio ne n,Space Rocket Nation,Nicolas Winding Refn,17,118,6.2,56660,Elle Fanning,Nicolas Winding Refn,2016
+1357,Horizonte profundo,Summit Entertainment,Peter Berg,1,107,7.2,104498,Mark Wahlberg,Matthew Michael Carnahan,2016
+1358,The Shallows,Columbia Pictures,Jaume Collet-Serra,5,86,6.3,87057,Blake Lively,Anthony Jaswinski,2016
+1359,Fences,Bron Studios,Denzel Washington,5,139,7.2,62351,Denzel Washington,August Wilson,2016
+1360,Eddie the Eagle,Hurwitz Creative,Dexter Fletcher,23,106,7.4,60644,Taron Egerton,Sean Macaulay,2016
+1361,The Belko Experiment,BH Tilt,Greg McLean,2,89,6.1,23422,John Gallagher Jr.,James Gunn,2016
+1362,D a del atentado,Bluegrass Films,Peter Berg,11,133,7.4,51563,Mark Wahlberg,Peter Berg,2016
+1363,Lights Out,New Line Cinema,David F. Sandberg,19,81,6.4,80019,Teresa Palmer,Eric Heisserer,2016
+1364,Snowden,Endgame Entertainment,Oliver Stone,21,134,7.3,92094,Joseph Gordon-Levitt,Kieran Fitzgerald,2016
+1365,Certain Women,Film Science,Kelly Reichardt,12,107,6.5,6298,Michelle Williams,Kelly Reichardt,2016
+1366,Finding Dory,Pixar Animation Studios,Andrew Stanton,15,97,7.4,173005,Ellen DeGeneres,Andrew Stanton,2016
+1367,The Huntsman: Winter's War,Universal Pictures,Cedric Nicolas-Troyan,1,114,6.1,71570,Chris Hemsworth,Evan Spiliotopoulos,2016
+1368,Free Fire,Film4,Ben Wheatley,2,91,6.5,22157,Sharlto Copley,Amy Jump,2016
+1369,The Exception,Egoli Tossell KLK,David Leveaux,12,107,6.8,3985,Lily James,Simon Burke,2016
+1370,The Light Between Oceans,Heyday Films,Derek Cianfrance,5,133,7.2,32595,Michael Fassbender,Derek Cianfrance,2016
+1371,Independence Day: Resurgence,Twentieth Century Fox Film Corporation,Roland Emmerich,1,120,5.3,137119,Liam Hemsworth,Nicolas Wright,2016
+1372,Central Intelligence,New Line Cinema,Rawson Marshall Thurber,1,107,6.3,106773,Dwayne Johnson,Ike Barinholtz,2016
+1373,Morgan,Scott Free Productions,Luke Scott,2,92,5.8,27297,Kate Mara,Seth W. Owen,2016
+1374,Pride and Prejudice and Zombies,Cross Creek Pictures,Burr Steers,1,108,5.8,37491,Lily James,Burr Steers,2016
+1375,Ben-Hur,LightWorkers Media,Timur Bekmambetov,1,123,5.7,31863,Jack Huston,Lew Wallace,2016
+1376,Criminal,BenderSpink,Ariel Vromen,2,113,6.3,42478,Kevin Costner,Douglas Cook,2016
+1377,Carrie Pilby,Braveart Films,Susan Johnson,32,98,6.6,2617,Bel Powley,Kara Holden,2016
+1378,The Infiltrator,George Films,Brad Furman,21,127,7.0,50194,Bryan Cranston,Ellen Sue Brown,2016
+1379,Estaci n Zombie: tren a Busan,Next Entertainment World,Sang-ho Yeon,14,118,7.5,72896,Yoo Gong,Joo-Suk Park,2016
+1380,Dirty Grandpa,Lionsgate,Dan Mazer,10,102,6.0,82289,Robert De Niro,John Phillips,2016
+1381,Storks,RatPac-Dune Entertainment,Nicholas Stoller,15,87,6.8,40740,Andy Samberg,Nicholas Stoller,2016
+1382,Their Finest,BBC Films,Lone Scherfig,10,117,6.8,8538,Gemma Arterton,Gaby Chiappe,2016
+1383,Personal Shopper,CG Cin ma,Olivier Assayas,12,105,6.2,16843,Kristen Stewart,Olivier Assayas,2016
+1384,Masterminds,Broadway Video,Jared Hess,1,95,5.8,34656,Zach Galifianakis,Chris Bowman,2016
+1385,Lady Macbeth,Sixty Six Pictures,William Oldroyd,12,89,7.0,6087,Florence Pugh,Nikolai Leskov,2016
+1386,Swiss Army Man,Blackbird,Dan Kwan,6,97,7.0,69827,Paul Dano,Daniel Scheinert,2016
+1387,The 5th Wave,Columbia Pictures,J Blakeson,1,112,5.2,76535,Chlo  Grace Moretz,Susannah Grant,2016
+1388,The Choice,Nicholas Sparks Productions,Ross Katz,5,111,6.6,22972,Benjamin Walker,Bryan Sipe,2016
+1389,Teenage Mutant Ninja Turtles: Out of the Shadows,Paramount Pictures,Dave Green,1,112,6.0,64684,Megan Fox,Josh Appelbaum,2016
+1390,London Has Fallen,Millennium Films,Babak Najafi,2,99,5.9,106352,Gerard Butler,Creighton Rothenberger,2016
+1391,Ouija: Origin of Evil,Allspark Pictures,Mike Flanagan,19,99,6.1,35690,Elizabeth Reaser,Mike Flanagan,2016
+1392,Dangal,Aamir Khan Productions,Nitesh Tiwari,28,161,8.7,70565,Aamir Khan,Piyush Gupta,2016
+1393,Neighbors 2: Sorority Rising,Good Universe,Nicholas Stoller,10,92,5.7,83340,Seth Rogen,Andrew Jay Cohen,2016
+1394,Kubo and the Two Strings,Laika Entertainment,Travis Knight,15,101,7.8,82575,Charlize Theron,Marc Haimes,2016
+1395,El beb  de Bridget Jones,Miramax,Sharon Maguire,10,118,6.6,48197,Ren e Zellweger,Helen Fielding,2016
+1396,Triple 9,Worldview Entertainment,John Hillcoat,2,115,6.3,51631,Casey Affleck,Matt Cook,2016
+1397,"Hail, Caesar!",Working Title Films,Ethan Coen,4,106,6.3,94361,Josh Brolin,Joel Coen,2016
+1398,The Boy,Lakeshore Entertainment,William Brent Bell,19,97,6.0,55856,Lauren Cohan,Stacey Menear,2016
+1399,Bleed for This,Verdi Productions,Ben Younger,21,117,6.8,15158,Miles Teller,Ben Younger,2016
+1400,Caf  Society,FilmNation Entertainment,Woody Allen,4,96,6.7,50826,Jesse Eisenberg,Woody Allen,2016
+1401,Alice Through the Looking Glass,Walt Disney Pictures,James Bobin,16,113,6.2,62895,Mia Wasikowska,Linda Woolverton,2016
+1402,Florence Foster Jenkins,Qwerty Films,Stephen Frears,23,111,6.9,35671,Meryl Streep,Nicholas Martin,2016
+1403,Midnight Special,Warner Bros.,Jeff Nichols,5,112,6.7,58549,Michael Shannon,Jeff Nichols,2016
+1404,Paterson,K5 International,Jim Jarmusch,10,118,7.4,36369,Adam Driver,Jim Jarmusch,2016
+1405,The Purge: Election Year,Universal Pictures,James DeMonaco,2,108,6.0,60239,Frank Grillo,James DeMonaco,2016
+1406,Sing street; este es tu momento,Cosmo Films,John Carney,4,106,8.0,58989,Ferdia Walsh-Peelo,Simon Carmody,2016
+1407,The Brothers Grimsby,Big Talk Productions,Louis Leterrier,2,83,6.2,67444,Sacha Baron Cohen,Sacha Baron Cohen,2016
+1408,Hunt for the Wilderpeople,Piki Films,Taika Waititi,9,101,7.9,60530,Sam Neill,Taika Waititi,2016
+1409,Ice Age: Collision Course,Blue Sky Studios,Mike Thurmeier,15,94,5.7,38556,Ray Romano,Michael J. Wilson,2016
+1410,Toni Erdmann,Komplizen Film,Maren Ade,10,162,7.5,29072,Sandra H ller,Maren Ade,2016
+1411,Zoolander 2,Panorama Films,Ben Stiller,4,101,4.7,51053,Ben Stiller,Justin Theroux,2016
+1412,American Honey,Parts and Labor,Andrea Arnold,6,163,7.0,23250,Sasha Lane,Andrea Arnold,2016
+1413,Everybody Wants Some!!,Annapurna Pictures,Richard Linklater,10,117,7.0,39909,Blake Jenner,Richard Linklater,2016
+1414,El especialista: La resurrecci n,Chartoff-Winkler Productions,Dennis Gansel,2,98,5.6,53849,Jason Statham,Lewis John Carlino,2016
+1415,Monster Trucks,Disruption Entertainment,Chris Wedge,3,104,5.7,9244,Lucas Till,Derek Connolly,2016
+1416,Chuck,Campbell Grobman Films,Philippe Falardeau,21,98,6.5,1896,Elisabeth Moss,Jeff Feuerzeig,2016
+1417,Office Christmas Party,Amblin Partners,Josh Gordon,10,105,5.8,37358,Jason Bateman,Justin Malen,2016
+1418,20th Century Women,A24,Mike Mills,10,119,7.4,20814,Annette Bening,Mike Mills,2016
+1419,The BFG,Walt Disney Pictures,Steven Spielberg,16,117,6.4,56297,Mark Rylance,Melissa Mathison,2016
+1420,The Finest Hours,Walt Disney Pictures,Craig Gillespie,1,117,6.8,47688,Chris Pine,Scott Silver,2016
+1421,Popstar: Never Stop Never Stopping,Apatow Productions,Akiva Schaffer,10,87,6.7,35620,Andy Samberg,Andy Samberg,2016
+1422,How to Be Single,New Line Cinema,Christian Ditter,10,110,6.1,63520,Dakota Johnson,Abby Kohn,2016
+1423,Maudie,H Is 4 Productions,Aisling Walsh,23,115,7.7,1735,Sally Hawkins,Sherry White,2016
+1424,Presencia siniestra,EuropaCorp,Farren Blackburn,5,91,4.7,7396,Naomi Watts,Christina Hodson,2016
+1425,The Wailing,20th Century Fox,Hong-jin Na,27,156,7.5,21562,Jun Kunimura,Hong-jin Na,2016
+1426,Sleight,Diablo Entertainment (II),J.D. Dillard,2,89,5.9,4012,Jacob Latimore,J.D. Dillard,2016
+1427,Norman,Blackbird,Joseph Cedar,12,118,6.3,2716,Richard Gere,Joseph Cedar,2016
+1428,The Void,Cave Painting Pictures,Jeremy Gillespie,37,90,5.8,15932,Aaron Poole,Jeremy Gillespie,2016
+1429,The Angry Birds Movie,Columbia Pictures,Clay Kaytis,15,97,6.3,59472,Jason Sudeikis,Jon Vitti,2016
+1430,31,Bow and Arrow Entertainment,Rob Zombie,17,102,5.0,11945,Malcolm McDowell,Rob Zombie,2016
+1431,The Comedian,Cinelou Films,Taylor Hackford,10,120,5.7,3729,Robert De Niro,Art Linson,2016
+1432,Billy Lynn's Long Halftime Walk,Bona Film Group,Ang Lee,12,113,6.3,14631,Joe Alwyn,Ben Fountain,2016
+1433,Pete's Dragon,Walt Disney Pictures,David Lowery,3,102,6.7,41083,Bryce Dallas Howard,David Lowery,2016
+1434,Money Monster,TriStar Pictures,Jodie Foster,11,98,6.5,72997,George Clooney,Jamie Linden,2016
+1435,Free State of Jones,Bluegrass Films,Gary Ross,2,139,6.9,34513,Matthew McConaughey,Gary Ross,2016
+1436,Wakefield,Mockingbird Pictures,Robin Swicord,12,106,6.4,6795,Bryan Cranston,E.L. Doctorow,2016
+1437,Anthropoid,LD Entertainment,Sean Ellis,21,120,7.2,28589,Jamie Dornan,Sean Ellis,2016
+1438,Mother's Day,Open Road Films (II),Garry Marshall,4,118,5.6,22504,Jennifer Aniston,Anya Kochoff,2016
+1439,Rules Don't Apply,New Regency Pictures,Warren Beatty,4,127,5.7,5192,Lily Collins,Warren Beatty,2016
+1440,Kung Fu Panda 3,China Film Co.,Alessandro Carloni,15,95,7.1,95310,Jack Black,Jonathan Aibel,2016
+1441,Dead Awake,Aristar Entertainment,Phillip Guzman,37,99,4.6,1645,Jocelin Donahue,Jeffrey Reddick,2016
+1442,Loving,Raindog Films,Jeff Nichols,23,123,7.0,21231,Ruth Negga,Jeff Nichols,2016
+1443,Lowriders,Blumhouse Productions,Ricardo de Montreuil,9,98,5.7,980,Gabriel Chavarria,Elgin James,2016
+1444,El fin del sue o americano,Lakeshore Entertainment,Ewan McGregor,11,108,6.1,9061,Ewan McGregor,Philip Roth,2016
+1445,Shin Godzilla,Cine Bazar,Hideaki Anno,14,120,6.7,11739,Hiroki Hasegawa,Hideaki Anno,2016
+1446,Boo! A Madea Halloween,"Tyler Perry Company, The",Tyler Perry,4,103,4.7,4640,Tyler Perry,Tyler Perry,2016
+1447,In a Valley of Violence,Blumhouse Productions,Ti West,2,104,6.0,9141,Ethan Hawke,Ti West,2016
+1448,The Forest,Gramercy Pictures (I),Jason Zada,19,93,4.8,30580,Natalie Dormer,Nick Antosca,2016
+1449,Whiskey Tango Foxtrot,Broadway Video,Glenn Ficarra,21,112,6.6,38907,Tina Fey,Robert Carlock,2016
+1450,Max Steel,Dolphin Entertainment,Stewart Hendler,1,92,4.6,13521,Ben Winchell,Christopher Yost,2016
+1451,Buster's Mal Heart,Everything Is Everything,Sarah Adina Smith,31,96,5.9,2994,Rami Malek,Sarah Adina Smith,2016
+1452,"I, Daniel Blake",Sixteen Films,Ken Loach,12,100,7.9,30977,Dave Johns,Paul Laverty,2016
+1453,La tortuga roja,Prima Linea Productions,Michael Dudok de Wit,15,80,7.6,15705,Emmanuel Garijo,Michael Dudok de Wit,2016
+1454,A Street Cat Named Bob,Shooting Script Films,Roger Spottiswoode,53,103,7.4,16636,Luke Treadaway,James Bowen,2016
+1455,Genius,Desert Wolf Productions,Michael Grandage,23,104,6.5,12252,Colin Firth,John Logan,2016
+1456,A United Kingdom,Path ,Amma Asante,23,111,6.8,7236,David Oyelowo,Guy Hibbert,2016
+1457,The Birth of a Nation,Bron Studios,Nate Parker,21,120,6.3,14778,Nate Parker,Nate Parker,2016
+1458,La bruja de Blair,Lionsgate,Adam Wingard,17,89,5.0,29715,James Allen McCune,Simon Barrett,2016
+1459,A Hologram for the King,X-Filme Creative Pool,Tom Tykwer,10,98,6.1,29436,Tom Hanks,Dave Eggers,2016
+1460,Manos de piedra,Fuego Films,Jonathan Jakubowicz,2,111,6.6,10059,Edgar Ram rez,Jonathan Jakubowicz,2016
+1461,Mi pap  es un gato,EuropaCorp,Barry Sonnenfeld,8,87,5.3,14360,Kevin Spacey,Gwyn Lurie,2016
+1462,El cliente,ARTE France,Asghar Farhadi,5,124,7.9,28449,Taraneh Alidoosti,Asghar Farhadi,2016
+1463,Pet,Magic Lantern,Carles Torrens,17,94,5.7,10504,Dominic Monaghan,Jeremy Slater,2016
+1464,Collide,42,Eran Creevy,1,99,5.7,9617,Nicholas Hoult,F. Scott Frazier,2016
+1465,Keanu,New Line Cinema,Peter Atencio,2,100,6.3,34580,Keegan-Michael Key,Jordan Peele,2016
+1466,Miracles from Heaven,Columbia Pictures,Patricia Riggen,26,109,7.0,13373,Jennifer Garner,Christy Beam,2016
+1467,White Girl,Bank Street Films,Elizabeth Wood,31,88,5.8,5245,Morgan Saylor,Elizabeth Wood,2016
+1468,The Boss,Gary Sanchez Productions,Ben Falcone,10,99,5.4,31703,Melissa McCarthy,Melissa McCarthy,2016
+1469,Bad Santa 2,Broad Green Pictures,Mark Waters,10,92,5.5,13114,Billy Bob Thornton,Johnny Rosenthal,2016
+1470,Neruda,AZ Films,Pablo Larra n,21,107,7.0,5680,Gael Garc a Bernal,Guillermo Calder n,2016
+1471,Till We Meet Again,Changing Film Productions,Bank Tangjaitrong,43,105,6.9,1248,John Matton,John Matton,2016
+1472,Mr. Church,Cinelou Films,Bruce Beresford,4,104,7.7,18249,Eddie Murphy,Susan McMartin,2016
+1473,Meet the Blacks,Hidden Empire Film Group,Deon Taylor,10,94,6.0,18980,Mike Epps,Nicole DeMasi,2016
+1474,King Cobra,RabbitBandini Productions,Justin Kelly,38,91,5.6,4894,Garrett Clayton,Justin Kelly,2016
+1475,The Disappointments Room,Demarest Films,D.J. Caruso,12,85,3.9,6287,Kate Beckinsale,Wentworth Miller,2016
+1476,Denial,BBC Films,Mick Jackson,23,109,6.6,10848,Rachel Weisz,David Hare,2016
+1477,The Take,StudioCanal,James Watkins,2,92,6.3,23717,Idris Elba,Andrew Baldwin,2016
+1478,My Big Fat Greek Wedding 2,Gold Circle Films,Kirk Jones,4,94,6.0,22142,Nia Vardalos,Nia Vardalos,2016
+1479,Almost Christmas,Perfect World Pictures (Beijing),David E. Talbert,4,111,6.0,3366,Kimberly Elise,David E. Talbert,2016
+1480,The Other Side of the Door,42,Johannes Roberts,17,96,5.3,13615,Sarah Wayne Callies,Johannes Roberts,2016
+1481,Frantz,Mandarin Films,Fran ois Ozon,5,113,7.5,6634,Pierre Niney,Fran ois Ozon,2016
+1482,Incarnate,IM Global,Brad Peyton,19,91,5.2,7778,Aaron Eckhart,Ronnie Christensen,2016
+1483,Kingsglaive: Final Fantasy XV,Digic Pictures,Takeshi Nozue,45,110,6.9,15705,Aaron Paul,Takashi Hasegawa,2016
+1484,Complete Unknown,Parts and Labor,Joshua Marston,12,91,5.4,3864,Erin Darke,Joshua Marston,2016
+1485,Indignation,Bing Feng Bao Entertainment,James Schamus,12,110,6.8,8479,Logan Lerman,Philip Roth,2016
+1486,The Darkness,Blumhouse Productions,Greg McLean,19,92,4.4,9450,Kevin Bacon,Greg McLean,2016
+1487,Love & Friendship,Westerly Films,Whit Stillman,8,90,6.5,17862,Kate Beckinsale,Whit Stillman,2016
+1488,The Hollars,Sycamore Pictures,John Krasinski,4,88,6.5,7227,Sharlto Copley,Jim Strouse,2016
+1489,Our Kind of Traitor,StudioCanal,Susanna White,11,108,6.2,13857,Carlos Acosta,John le Carr ,2016
+1490,Middle School: The Worst Years of My Life,CBS Films,Steve Carr,15,92,6.1,4556,Griffin Gluck,Chris Bowman,2016
+1491,Goat,Killer Films,Andrew Neel,12,96,5.7,4439,Ben Schnetzer,David Gordon Green,2016
+1492,The Love Witch,Anna Biller Productions,Anna Biller,30,120,6.2,6054,Samantha Robinson,Anna Biller,2016
+1493,Risen,LD Entertainment,Kevin Reynolds,1,107,6.3,19084,Joseph Fiennes,Kevin Reynolds,2016
+1494,Absolutely Fabulous: The Movie,Fox Searchlight Pictures,Mandie Fletcher,10,91,5.4,9161,Jennifer Saunders,Jennifer Saunders,2016
+1495,Mothers and Daughters,Siempre Viva Productions,Paul Duddridge,5,90,4.9,1959,Selma Blair,Paige Cameron,2016
+1496,Batman: The Killing Joke,Warner Bros. Animation,Sam Liu,48,76,6.5,36333,Kevin Conroy,Brian Azzarello,2016
+1497,The Eyes of My Mother,Borderline Presents,Nicolas Pesce,12,76,6.2,6947,Kika Magalh es,Nicolas Pesce,2016
+1498,From the Land of the Moon,Les Productions du Tr sor,Nicole Garcia,12,120,6.7,2411,Marion Cotillard,Milena Agus,2016
